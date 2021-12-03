@@ -1,0 +1,52 @@
+1차분류 :
+BASE : 너무 기본적이고 근간이라 쓰레드 어디에서나 적용할수 있는 클래스들 
+
+MATH: 수학쪽만 가지고 있는 클래스 
+
+-------------------------------------------------------------------------
+
+Client의 기본 : window창 띄우는 기능 input도 여기에 속한다.
+
+Rendering : 디바이스
+
+Collison : 충돌관련 
+
+Server: 소켓 window라면 IOCP이런것들
+
+Object : Player등을 구현할때 기본이 되어 줄수 있는 애들 함수의 기본형태를 지원한다.
+
+server,rendering,collison등 은 각자의 분류가 확실해야 된다. 
+예를들어 server인데 rendering가 필요한다는 건 말이아니다. 
+
+------------------------------------------------------------------------
+게임을 만들수 있는 수준의 컨텐츠를 지원해주는 
+2.차 분류 
+GameClientEngine Client Collison Object
+콘솔
+
+GameServerEngine Server Collison Object
+
+언리얼 
+
+--------------------------------------------------------------------------
+3차분류
+APP
+ServerAPP
+ClientAPP
+
+용도
+Management
+Worker (실제일을 하는)
+Resources
+Updater
+ 
+
+1.핵심 개념을 대표하는 클래스들을 파악한다
+World,Actor,Object Unit 등
+
+2.그것들을 관리하는 자료구조나 데이터 클래스에 대해서 확인하세요
+자료구조에 넣은 이유는 어떻게 보관하고 있는지 어디서
+
+3.기본함수들을 호출하는걸 알아야된다 send recv connect Accept 등
+역으로 타고 올라가게 된다 
+//클라는 이거 파악안되고 저위에는 서버 
