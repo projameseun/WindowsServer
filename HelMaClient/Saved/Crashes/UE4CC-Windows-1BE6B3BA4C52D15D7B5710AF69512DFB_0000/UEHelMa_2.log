@@ -1,0 +1,1534 @@
+﻿Log file open, 11/10/21 20:21:04
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: UEHelMa
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.363966
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: AMD Ryzen 9 4900H with Radeon Graphics         , GPU: AMD Radeon(TM) Graphics
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/user/Desktop/ServerPrograming/Portfolio/3EJS/HelMaClient/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.11.10-11.21.05:252][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.11.10-11.21.05:252][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.11.10-11.21.05:252][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/user/Desktop/ServerPrograming/Portfolio/3EJS/HelMaClient/Saved/Config/Windows/Engine.ini]
+[2021.11.10-11.21.05:252][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.11.10-11.21.05:252][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/user/Desktop/ServerPrograming/Portfolio/3EJS/HelMaClient/Saved/Config/Windows/Engine.ini]
+[2021.11.10-11.21.05:252][  0]LogConfig: Setting CVar [[r.SupportAllShaderPermutations:0]]
+[2021.11.10-11.21.05:252][  0]LogConfig: Setting CVar [[r.SkinCache.ForceRecomputeTangents:0]]
+[2021.11.10-11.21.05:252][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/user/Desktop/ServerPrograming/Portfolio/3EJS/HelMaClient/Saved/Config/Windows/Engine.ini]
+[2021.11.10-11.21.05:252][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.11.10-11.21.05:252][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.11.10-11.21.05:252][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.11.10-11.21.05:252][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.11.10-11.21.05:252][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.11.10-11.21.05:252][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.11.10-11.21.05:252][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.11.10-11.21.05:252][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.11.10-11.21.05:252][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.11.10-11.21.05:252][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.11.10-11.21.05:252][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.11.10-11.21.05:252][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.11.10-11.21.05:252][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.11.10-11.21.05:252][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.11.10-11.21.05:252][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/user/Desktop/ServerPrograming/Portfolio/3EJS/HelMaClient/Saved/Config/Windows/Engine.ini]
+[2021.11.10-11.21.05:252][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.11.10-11.21.05:252][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.11.10-11.21.05:252][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.11.10-11.21.05:252][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.11.10-11.21.05:252][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.11.10-11.21.05:252][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.11.10-11.21.05:252][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.11.10-11.21.05:252][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.11.10-11.21.05:252][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.11.10-11.21.05:252][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.11.10-11.21.05:252][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.11.10-11.21.05:252][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.11.10-11.21.05:252][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.11.10-11.21.05:252][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.11.10-11.21.05:252][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/user/Desktop/ServerPrograming/Portfolio/3EJS/HelMaClient/Saved/Config/Windows/Engine.ini]
+[2021.11.10-11.21.05:253][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/user/Desktop/ServerPrograming/Portfolio/3EJS/HelMaClient/Saved/Config/Windows/Engine.ini]
+[2021.11.10-11.21.05:263][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/user/Desktop/ServerPrograming/Portfolio/3EJS/HelMaClient/Saved/Config/Windows/Scalability.ini]
+[2021.11.10-11.21.05:263][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.11.10-11.21.05:263][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.11.10-11.21.05:263][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/user/Desktop/ServerPrograming/Portfolio/3EJS/HelMaClient/Saved/Config/Windows/Scalability.ini]
+[2021.11.10-11.21.05:263][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.11.10-11.21.05:263][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/user/Desktop/ServerPrograming/Portfolio/3EJS/HelMaClient/Saved/Config/Windows/Scalability.ini]
+[2021.11.10-11.21.05:263][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.11.10-11.21.05:263][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.11.10-11.21.05:263][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.11.10-11.21.05:263][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.11.10-11.21.05:263][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.11.10-11.21.05:263][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.11.10-11.21.05:263][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.11.10-11.21.05:263][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.11.10-11.21.05:263][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.11.10-11.21.05:263][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.11.10-11.21.05:264][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.11.10-11.21.05:264][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.11.10-11.21.05:264][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.11.10-11.21.05:264][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.11.10-11.21.05:264][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.11.10-11.21.05:264][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.11.10-11.21.05:264][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.11.10-11.21.05:264][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.11.10-11.21.05:264][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/user/Desktop/ServerPrograming/Portfolio/3EJS/HelMaClient/Saved/Config/Windows/Scalability.ini]
+[2021.11.10-11.21.05:264][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.11.10-11.21.05:264][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.11.10-11.21.05:264][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.11.10-11.21.05:264][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.11.10-11.21.05:264][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.11.10-11.21.05:264][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.11.10-11.21.05:264][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.11.10-11.21.05:264][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.11.10-11.21.05:264][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.11.10-11.21.05:264][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.11.10-11.21.05:264][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.11.10-11.21.05:264][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.11.10-11.21.05:264][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.11.10-11.21.05:264][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.11.10-11.21.05:264][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.11.10-11.21.05:264][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.11.10-11.21.05:264][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.11.10-11.21.05:264][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.11.10-11.21.05:264][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.11.10-11.21.05:264][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.11.10-11.21.05:264][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.11.10-11.21.05:264][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.11.10-11.21.05:264][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.11.10-11.21.05:264][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.11.10-11.21.05:264][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.11.10-11.21.05:264][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.11.10-11.21.05:264][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.11.10-11.21.05:264][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.11.10-11.21.05:264][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.11.10-11.21.05:264][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.11.10-11.21.05:264][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/user/Desktop/ServerPrograming/Portfolio/3EJS/HelMaClient/Saved/Config/Windows/Scalability.ini]
+[2021.11.10-11.21.05:264][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.11.10-11.21.05:264][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.11.10-11.21.05:264][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.11.10-11.21.05:264][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.11.10-11.21.05:264][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.11.10-11.21.05:264][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.11.10-11.21.05:264][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.11.10-11.21.05:264][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.11.10-11.21.05:264][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.11.10-11.21.05:264][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/user/Desktop/ServerPrograming/Portfolio/3EJS/HelMaClient/Saved/Config/Windows/Scalability.ini]
+[2021.11.10-11.21.05:264][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.11.10-11.21.05:264][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.11.10-11.21.05:264][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.11.10-11.21.05:264][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.11.10-11.21.05:264][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.11.10-11.21.05:264][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.11.10-11.21.05:264][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.11.10-11.21.05:264][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.11.10-11.21.05:264][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.11.10-11.21.05:264][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.11.10-11.21.05:264][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.11.10-11.21.05:264][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.11.10-11.21.05:264][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.11.10-11.21.05:264][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.11.10-11.21.05:264][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.11.10-11.21.05:264][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.11.10-11.21.05:264][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.11.10-11.21.05:264][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.11.10-11.21.05:264][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.11.10-11.21.05:264][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.11.10-11.21.05:264][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.11.10-11.21.05:264][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.11.10-11.21.05:264][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.11.10-11.21.05:264][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.11.10-11.21.05:264][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.11.10-11.21.05:264][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.11.10-11.21.05:264][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.11.10-11.21.05:264][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/user/Desktop/ServerPrograming/Portfolio/3EJS/HelMaClient/Saved/Config/Windows/Scalability.ini]
+[2021.11.10-11.21.05:264][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.11.10-11.21.05:264][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.11.10-11.21.05:264][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/user/Desktop/ServerPrograming/Portfolio/3EJS/HelMaClient/Saved/Config/Windows/Scalability.ini]
+[2021.11.10-11.21.05:264][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.11.10-11.21.05:265][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.11.10-11.21.05:265][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.11.10-11.21.05:265][  0]LogInit: Selected Device Profile: [Windows]
+[2021.11.10-11.21.05:265][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.11.10-11.21.05:265][  0]LogHAL: Display: Platform has ~ 32 GB [33736564736 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.11.10-11.21.05:265][  0]LogInit: Going up to parent DeviceProfile []
+[2021.11.10-11.21.05:265][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/user/Desktop/ServerPrograming/Portfolio/3EJS/HelMaClient/Saved/Config/Windows/Scalability.ini]
+[2021.11.10-11.21.05:265][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.11.10-11.21.05:265][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.11.10-11.21.05:265][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/user/Desktop/ServerPrograming/Portfolio/3EJS/HelMaClient/Saved/Config/Windows/Scalability.ini]
+[2021.11.10-11.21.05:265][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.11.10-11.21.05:265][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/user/Desktop/ServerPrograming/Portfolio/3EJS/HelMaClient/Saved/Config/Windows/Scalability.ini]
+[2021.11.10-11.21.05:265][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.11.10-11.21.05:265][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.11.10-11.21.05:265][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.11.10-11.21.05:265][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.11.10-11.21.05:265][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.11.10-11.21.05:265][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.11.10-11.21.05:265][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.11.10-11.21.05:265][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.11.10-11.21.05:265][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.11.10-11.21.05:265][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.11.10-11.21.05:265][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.11.10-11.21.05:265][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.11.10-11.21.05:265][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.11.10-11.21.05:265][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.11.10-11.21.05:265][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.11.10-11.21.05:265][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.11.10-11.21.05:265][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.11.10-11.21.05:265][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.11.10-11.21.05:265][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/user/Desktop/ServerPrograming/Portfolio/3EJS/HelMaClient/Saved/Config/Windows/Scalability.ini]
+[2021.11.10-11.21.05:265][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.11.10-11.21.05:265][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.11.10-11.21.05:265][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.11.10-11.21.05:265][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.11.10-11.21.05:265][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.11.10-11.21.05:265][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.11.10-11.21.05:265][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.11.10-11.21.05:265][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.11.10-11.21.05:265][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.11.10-11.21.05:265][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.11.10-11.21.05:265][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.11.10-11.21.05:265][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.11.10-11.21.05:265][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.11.10-11.21.05:265][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.11.10-11.21.05:265][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.11.10-11.21.05:265][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.11.10-11.21.05:265][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.11.10-11.21.05:265][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.11.10-11.21.05:265][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.11.10-11.21.05:265][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.11.10-11.21.05:265][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.11.10-11.21.05:265][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.11.10-11.21.05:265][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.11.10-11.21.05:265][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.11.10-11.21.05:265][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.11.10-11.21.05:265][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.11.10-11.21.05:265][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.11.10-11.21.05:265][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.11.10-11.21.05:265][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.11.10-11.21.05:265][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.11.10-11.21.05:265][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/user/Desktop/ServerPrograming/Portfolio/3EJS/HelMaClient/Saved/Config/Windows/Scalability.ini]
+[2021.11.10-11.21.05:265][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.11.10-11.21.05:265][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.11.10-11.21.05:265][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.11.10-11.21.05:265][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.11.10-11.21.05:265][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.11.10-11.21.05:265][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.11.10-11.21.05:265][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.11.10-11.21.05:265][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.11.10-11.21.05:265][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.11.10-11.21.05:265][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/user/Desktop/ServerPrograming/Portfolio/3EJS/HelMaClient/Saved/Config/Windows/Scalability.ini]
+[2021.11.10-11.21.05:265][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.11.10-11.21.05:265][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.11.10-11.21.05:265][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.11.10-11.21.05:266][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.11.10-11.21.05:266][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.11.10-11.21.05:266][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.11.10-11.21.05:266][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.11.10-11.21.05:266][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.11.10-11.21.05:266][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.11.10-11.21.05:266][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.11.10-11.21.05:266][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.11.10-11.21.05:266][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.11.10-11.21.05:266][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.11.10-11.21.05:266][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.11.10-11.21.05:266][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.11.10-11.21.05:266][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.11.10-11.21.05:266][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.11.10-11.21.05:266][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.11.10-11.21.05:266][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.11.10-11.21.05:266][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.11.10-11.21.05:266][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.11.10-11.21.05:266][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.11.10-11.21.05:266][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.11.10-11.21.05:266][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.11.10-11.21.05:266][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.11.10-11.21.05:266][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.11.10-11.21.05:266][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.11.10-11.21.05:266][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/user/Desktop/ServerPrograming/Portfolio/3EJS/HelMaClient/Saved/Config/Windows/Scalability.ini]
+[2021.11.10-11.21.05:266][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.11.10-11.21.05:266][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.11.10-11.21.05:266][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/user/Desktop/ServerPrograming/Portfolio/3EJS/HelMaClient/Saved/Config/Windows/Scalability.ini]
+[2021.11.10-11.21.05:266][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.11.10-11.21.05:266][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.11.10-11.21.05:266][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.11.10-11.21.05:266][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.11.10-11.21.05:266][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.11.10-11.21.05:266][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.11.10-11.21.05:266][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.11.10-11.21.05:266][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/user/Desktop/ServerPrograming/Portfolio/3EJS/HelMaClient/Saved/Config/Windows/Engine.ini]
+[2021.11.10-11.21.05:266][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/user/Desktop/ServerPrograming/Portfolio/3EJS/HelMaClient/Saved/Config/Windows/Editor.ini]
+[2021.11.10-11.21.05:266][  0]LogInit: Computer: DESKTOP-728A1T6
+[2021.11.10-11.21.05:267][  0]LogInit: User: user
+[2021.11.10-11.21.05:267][  0]LogInit: CPU Page size=4096, Cores=8
+[2021.11.10-11.21.05:267][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.11.10-11.21.05:267][  0]LogMemory: Memory total: Physical=31.4GB (32GB approx)
+[2021.11.10-11.21.05:267][  0]LogMemory: Platform Memory Stats for Windows
+[2021.11.10-11.21.05:267][  0]LogMemory: Process Physical Memory: 136.89 MB used, 136.90 MB peak
+[2021.11.10-11.21.05:267][  0]LogMemory: Process Virtual Memory: 121.66 MB used, 121.66 MB peak
+[2021.11.10-11.21.05:267][  0]LogMemory: Physical Memory: 24709.81 MB used,  7463.89 MB free, 32173.70 MB total
+[2021.11.10-11.21.05:267][  0]LogMemory: Virtual Memory: 134210432.00 MB used,  7293.24 MB free, 134217728.00 MB total
+[2021.11.10-11.21.05:290][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.11.10-11.21.05:368][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.11.10-11.21.05:369][  0]LogInit: Using OS detected language (ko-KR).
+[2021.11.10-11.21.05:369][  0]LogInit: Using OS detected locale (ko-KR).
+[2021.11.10-11.21.05:374][  0]LogTextLocalizationManager: No specific localization for 'ko-KR' exists, so the 'ko' localization will be used.
+[2021.11.10-11.21.05:501][  0]LogInit: Setting process to per monitor DPI aware
+[2021.11.10-11.21.05:561][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.11.10-11.21.05:582][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.11.10-11.21.05:582][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.11.10-11.21.06:069][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.11.10-11.21.06:069][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.11.10-11.21.06:069][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.11.10-11.21.06:069][  0]LogD3D11RHI: D3D11 adapters:
+[2021.11.10-11.21.06:210][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2060' (Feature Level 11_0)
+[2021.11.10-11.21.06:210][  0]LogD3D11RHI:       5980/0/16086 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2021.11.10-11.21.06:251][  0]LogD3D11RHI:    1. 'AMD Radeon(TM) Graphics' (Feature Level 11_0)
+[2021.11.10-11.21.06:251][  0]LogD3D11RHI:       496/0/16086 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1002
+[2021.11.10-11.21.06:254][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.11.10-11.21.06:254][  0]LogD3D11RHI:       0/0/16086 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.11.10-11.21.06:254][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.11.10-11.21.06:268][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.11.10-11.21.06:268][  0]LogD3D11RHI:     GPU DeviceId: 0x1f15 (for the marketing name, search the web for "GPU Device Id")
+[2021.11.10-11.21.06:269][  0]LogWindows: EnumDisplayDevices:
+[2021.11.10-11.21.06:269][  0]LogWindows:    0. 'AMD Radeon(TM) Graphics' (P:1 D:1)
+[2021.11.10-11.21.06:269][  0]LogWindows:    1. 'AMD Radeon(TM) Graphics' (P:0 D:0)
+[2021.11.10-11.21.06:270][  0]LogWindows:    2. 'AMD Radeon(TM) Graphics' (P:0 D:0)
+[2021.11.10-11.21.06:270][  0]LogWindows:    3. 'AMD Radeon(TM) Graphics' (P:0 D:0)
+[2021.11.10-11.21.06:271][  0]LogWindows:    4. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2021.11.10-11.21.06:271][  0]LogWindows:    5. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2021.11.10-11.21.06:272][  0]LogWindows:    6. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2021.11.10-11.21.06:272][  0]LogWindows:    7. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2021.11.10-11.21.06:272][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2021.11.10-11.21.06:272][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2060
+[2021.11.10-11.21.06:272][  0]LogD3D11RHI:   Driver Version: 466.27 (internal:27.21.14.6627, unified:466.27)
+[2021.11.10-11.21.06:272][  0]LogD3D11RHI:      Driver Date: 4-23-2021
+[2021.11.10-11.21.06:272][  0]LogRHI: Texture pool is 4186 MB (70% of 5980 MB)
+[2021.11.10-11.21.06:367][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.11.10-11.21.06:367][  0]LogD3D11RHI: Async texture creation enabled
+[2021.11.10-11.21.06:367][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.11.10-11.21.06:399][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2021.11.10-11.21.06:401][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.11.10-11.21.06:850][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.11.10-11.21.06:884][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.11.10-11.21.06:884][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.11.10-11.21.06:884][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.11.10-11.21.06:884][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.11.10-11.21.06:884][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.11.10-11.21.06:884][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.11.10-11.21.06:884][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.11.10-11.21.06:884][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.11.10-11.21.06:884][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.11.10-11.21.06:884][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.11.10-11.21.06:918][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.11.10-11.21.06:918][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.11.10-11.21.06:933][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.11.10-11.21.06:947][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.11.10-11.21.06:960][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.11.10-11.21.06:973][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.11.10-11.21.06:987][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.11.10-11.21.07:000][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.11.10-11.21.07:013][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.11.10-11.21.07:049][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.11.10-11.21.07:050][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.11.10-11.21.07:067][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.11.10-11.21.07:081][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.11.10-11.21.07:094][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.11.10-11.21.07:106][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.11.10-11.21.07:131][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.11.10-11.21.07:131][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.11.10-11.21.07:149][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.11.10-11.21.07:163][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.11.10-11.21.07:175][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.11.10-11.21.07:188][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.11.10-11.21.07:188][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.11.10-11.21.07:202][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.11.10-11.21.07:319][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.11.10-11.21.07:320][  0]LogShaderCompilers: Guid format shader working directory is -36 characters bigger than the processId version (../../../../../../Users/user/Desktop/ServerPrograming/Portfolio/3EJS/HelMaClient/Intermediate/Shaders/WorkingDirectory/15044/).
+[2021.11.10-11.21.07:320][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/user/AppData/Local/Temp/UnrealShaderWorkingDir/AD2DCB8D4E190B0690E95680E419D4C5/'.
+[2021.11.10-11.21.07:320][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.11.10-11.21.07:320][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.11.10-11.21.08:281][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.11.10-11.21.08:353][  0]LogDerivedDataCache: Loaded boot cache 0.07s 77MB C:/Users/user/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.11.10-11.21.08:353][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/user/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.11.10-11.21.08:353][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/user/Desktop/ServerPrograming/Portfolio/3EJS/HelMaClient/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.11.10-11.21.08:353][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.11.10-11.21.08:353][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/user/Desktop/ServerPrograming/Portfolio/3EJS/HelMaClient/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.11.10-11.21.08:353][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.11.10-11.21.08:371][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.11.10-11.21.08:371][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.11.10-11.21.08:371][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.11.10-11.21.08:398][  0]LogDerivedDataCache: Speed tests for C:/Users/user/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.03 seconds
+[2021.11.10-11.21.08:398][  0]LogDerivedDataCache: Display: Performance to C:/Users/user/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.06ms. RandomReadSpeed=345.78MBs, RandomWriteSpeed=41.45MBs. Assigned SpeedClass 'Local'
+[2021.11.10-11.21.08:399][  0]LogDerivedDataCache: Using Local data cache path C:/Users/user/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.11.10-11.21.08:399][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.11.10-11.21.08:399][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.11.10-11.21.08:463][  0]LogSlate: Using FreeType 2.10.0
+[2021.11.10-11.21.08:464][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.11.10-11.21.08:499][  0]LogAssetRegistry: FAssetRegistry took 0.0048 seconds to start up
+[2021.11.10-11.21.08:895][  0]LogInit: Selected Device Profile: [Windows]
+[2021.11.10-11.21.08:895][  0]LogInit: Active device profile: [0000012999C6F100][0000012997D54280 49] Windows
+[2021.11.10-11.21.08:895][  0]LogInit: Profiles: [0000012999C6F100][0000012997D54280 49] Windows, [0000012999C61200][0000012997D5C400 49] WindowsNoEditor, [0000012999C6D300][0000012997D60580 49] WindowsServer, [0000012999C62A00][0000012997D64700 49] WindowsClient, [0000012999C6EB00][0000012997D68880 49] IOS, [0000012999C61700][0000012997D6CA00 49] iPadAir, [0000012999C6D800][0000012997D70B80 49] iPadAir2, [0000012999BC8700][0000012997D78E40 49] IPadPro, [0000012999BC8800][0000012997D74E80 49] iPadAir3, [0000012999C6F200][0000012997D85000 49] iPadAir4, [0000012999BCAF00][0000012997D89180 49] iPadMini2, [0000012999C6D200][0000012997D8D300 49] iPadMini3, [0000012999BC8900][0000012997D91480 49] iPadMini4, [0000012999C6ED00][0000012997D595C0 49] iPadMini5, [00000129999BFF00][0000012997E21800 49] iPhone6, [00000129999BFE00][0000012997D99840 49] iPodTouch6, [0000012999C63A00][0000012997E35AC0 49] iPhone7, [0000012999BCB100][0000012997E29B00 49] iPodTouch7, [00000129999BD500][000001299767BC80 49] iPhone5S, [0000012999BCA000][0000012997692140 49] iPhone6Plus, [00000129999BE800][00000129976962C0 49] iPhone6S, [0000012999BCAA00][000001299769A440 49] iPhone6SPlus, [00000129999BD400][000001299769E5C0 49] iPhone7Plus, [0000012999BCA900][00000129976A2740 49] iPhoneSE, [00000129999BEA00][00000129976A68C0 49] iPhone8, [0000012999BCAE00][00000129976AAA40 49] iPhone8Plus, [00000129999BF500][00000129976AEBC0 49] iPhoneX, [0000012999BCB300][00000129976B2D40 49] iPhoneXS, [00000129999BFD00][00000129976B6EC0 49] iPhoneXSMax, [0000012999BCAC00][00000129976BB040 49] iPhoneXR, [00000129999BD100][00000129976BF1C0 49] iPhone11, [0000012999BC9A00][00000129976C3340 49] iPhone11Pro, [00000129999BE200][00000129976C74C0 49] iPhone11ProMax, [0000012999BCB400][00000129976CB640 49] iPhoneSE2, [00000129999BE100][0000012997E31780 49] iPhone12Mini, [0000012999BC9D00][00000129976CF8C0 49] iPhone12, [00000129999BED00][00000129976D3A00 49] iPhone12Pro, [0000012999BCA400][00000129976DBB80 49] iPhone12ProMax, [00000129999BD800][00000129976DFD00 49] iPadPro105, [0000012999BCBF00][00000129976E21C0 49] iPadPro129, [00000129999BDB00][00000129976E6340 49] iPadPro97, [0000012999BC9400][00000129976EA4C0 49] iPadPro2_129, [00000129999BEF00][00000129976EE640 49] iPad5, [0000012999BCB800][00000129976F27C0 49] iPad6, [00000129999BC600][00000129976F6940 49] iPad7, [0000012999BCA600][00000129976FAAC0 49] iPad8, [00000129999BF300][00000129976FEC40 49] iPadPro11, [0000012999BCBC00][0000012997702DC0 49] iPadPro2_11, [00000129999BF100][0000012997706F40 49] iPadPro3_129, [0000012999BC8F00][000001299770B0C0 49] iPadPro4_129, [00000129999BF400][000001299770F240 49] AppleTV, [0000012999BC9200][00000129977133C0 49] AppleTV4K, [00000129999BD300][0000012997717540 49] TVOS, [0000012999BC9F00][000001299771B6C0 49] Mac, [00000129999BC900][00000129976D7800 49] MacClient, [0000012999BC8100][000001299771F940 49] MacNoEditor, [0000012999CEC300][0000012997723A80 49] MacServer, [0000012999C60D00][000001299772BC00 49] Linux, [0000012999CED100][000001299772E0C0 49] LinuxAArch64, [0000012999C61A00][0000012997732240 49] LinuxNoEditor, [0000012999CED000][00000129977363C0 49] LinuxAArch64NoEditor, [0000012999C61300][000001299773A540 49] LinuxClient, [0000012999CEC600][000001299773E6C0 49] LinuxAArch64Client, [0000012999C60400][0000012997742840 49] LinuxServer, [0000012999CECD00][00000129977469C0 49] LinuxAArch64Server, [0000012999C61400][000001299774AB40 49] Android, [00000129999BEC00][000001299774ECC0 49] Android_Low, [0000012999C61900][0000012997752E40 49] Android_Mid, [00000129999BF900][0000012997756FC0 49] Android_High, [0000012999C63400][000001299775B140 49] Android_Default, [00000129999BE300][000001299775F2C0 49] Android_Adreno4xx, [0000012999C62E00][0000012997763440 49] Android_Adreno5xx_Low, [00000129999BC300][00000129977675C0 49] Android_Adreno5xx, [0000012999C61F00][000001299776B740 49] Android_Adreno6xx, [00000129999BCE00][0000012997727880 49] Android_Adreno6xx_Vulkan, [0000012999C63700][000001299776F9C0 49] Android_Mali_T6xx, [00000129999BE900][0000012997773B00 49] Android_Mali_T7xx, [0000012999C60700][0000012997777C40 49] Android_Mali_T8xx, [00000129999BC200][000001299777E100 49] Android_Mali_G71, [0000012999C60E00][0000012997782280 49] Android_Mali_G72, [00000129999BC400][0000012997786400 49] Android_Mali_G72_Vulkan, [0000012999C63300][000001299778A580 49] Android_Mali_G76, [00000129999BD700][000001299778E700 49] Android_Mali_G76_Vulkan, [0000012999C62500][0000012997792880 49] Android_Mali_G77, [00000129999BEE00][0000012997796A00 49] Android_Mali_G77_Vulkan, [0000012999C63E00][000001299779AB80 49] Android_Vulkan_SM5, [00000129999BE400][000001299779ED00 49] Android_PowerVR_G6xxx, [0000012999C60300][00000129977A2E80 49] Android_PowerVR_GT7xxx, [00000129999BE500][00000129977A7000 49] Android_PowerVR_GE8xxx, [0000012999C63600][00000129977AB180 49] Android_PowerVR_GM9xxx, [00000129999BF700][00000129977AF300 49] Android_PowerVR_GM9xxx_Vulkan, [0000012999C60500][00000129977B3480 49] Android_TegraK1, [00000129999BC800][00000129977B7600 49] Android_Unknown_Vulkan, [0000012999C63800][00000129977BB780 49] Lumin, [00000129999BDE00][000001299777B8C0 49] Lumin_Desktop, [0000012999C63B00][00000129977BFA00 49] HoloLens, 
+[2021.11.10-11.21.09:079][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.11.10-11.21.09:079][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.11.10-11.21.09:079][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.11.10-11.21.09:079][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.11.10-11.21.09:079][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.11.10-11.21.09:107][  0]LogNetVersion: UEHelMa 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 2450561976)
+[2021.11.10-11.21.09:815][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.11.10-11.21.09:945][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.129779 seconds
+[2021.11.10-11.21.09:953][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
+[2021.11.10-11.21.09:953][  0]LogUObjectAllocator: 4209728 out of 0 bytes used by permanent object pool.
+[2021.11.10-11.21.09:953][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.11.10-11.21.10:592][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.11.10-11.21.10:608][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.11.10-11.21.11:222][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2021.11.10-11.21.11:222][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2021.11.10-11.21.11:227][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2021.11.10-11.21.11:232][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2021.11.10-11.21.11:255][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2021.11.10-11.21.11:268][  0]LogUProjectInfo: Found projects:
+[2021.11.10-11.21.11:695][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.11.10-11.21.11:734][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.11.10-11.21.11:734][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.11.10-11.21.11:826][  0]LogCollectionManager: Loaded 0 collections in 0.002578 seconds
+[2021.11.10-11.21.11:871][  0]LogFileCache: Scanning file cache for directory 'C:/Users/user/Desktop/ServerPrograming/Portfolio/3EJS/HelMaClient/Saved/Collections/' took 0.00s
+[2021.11.10-11.21.11:872][  0]LogFileCache: Scanning file cache for directory 'C:/Users/user/Desktop/ServerPrograming/Portfolio/3EJS/HelMaClient/Content/Developers/user/Collections/' took 0.00s
+[2021.11.10-11.21.11:872][  0]LogFileCache: Scanning file cache for directory 'C:/Users/user/Desktop/ServerPrograming/Portfolio/3EJS/HelMaClient/Content/Collections/' took 0.00s
+[2021.11.10-11.21.11:872][  0]LogOcInput: OculusInput pre-init called
+[2021.11.10-11.21.11:896][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.11.10-11.21.11:896][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.11.10-11.21.11:975][  0]LogEngine: Initializing Engine...
+[2021.11.10-11.21.11:977][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.11.10-11.21.11:977][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.11.10-11.21.11:978][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.11.10-11.21.12:145][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.11.10-11.21.12:167][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.11.10-11.21.12:173][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.11.10-11.21.12:183][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.11.10-11.21.12:183][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.11.10-11.21.12:184][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.10-11.21.12:184][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.10-11.21.12:184][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.10-11.21.12:184][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.10-11.21.12:184][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.10-11.21.12:184][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.10-11.21.12:184][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.10-11.21.12:184][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.10-11.21.12:184][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.11.10-11.21.12:184][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.10-11.21.12:214][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.10-11.21.12:215][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.11.10-11.21.12:272][  0]LogAudioMixer: Display: Using Audio Device 헤드폰(Realtek(R) Audio)
+[2021.11.10-11.21.12:275][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.10-11.21.12:281][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.10-11.21.12:281][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.10-11.21.12:283][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.10-11.21.12:283][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.10-11.21.12:283][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.11.10-11.21.12:285][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.10-11.21.12:285][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.10-11.21.12:285][  0]LogInit: FAudioDevice initialized.
+[2021.11.10-11.21.12:285][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.11.10-11.21.12:285][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.11.10-11.21.12:367][  0]LogDerivedDataCache: Saved boot cache 0.08s 91MB C:/Users/user/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.11.10-11.21.12:369][  0]LogInit: Texture streaming: Enabled
+[2021.11.10-11.21.12:397][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2021.11.10-11.21.12:405][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.11.10-11.21.12:405][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.11.10-11.21.12:409][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.11.10-11.21.12:470][  0]LogInit: Transaction tracking system initialized
+[2021.11.10-11.21.12:510][  0]BlueprintLog: New page: 에디터 로드
+[2021.11.10-11.21.12:631][  0]LocalizationService: 현지화 서비스가 비활성화되었습니다.
+[2021.11.10-11.21.12:677][  0]TimingProfiler: Initialize
+[2021.11.10-11.21.12:678][  0]TimingProfiler: OnSessionChanged
+[2021.11.10-11.21.12:678][  0]LoadingProfiler: Initialize
+[2021.11.10-11.21.12:678][  0]LoadingProfiler: OnSessionChanged
+[2021.11.10-11.21.12:678][  0]NetworkingProfiler: Initialize
+[2021.11.10-11.21.12:678][  0]NetworkingProfiler: OnSessionChanged
+[2021.11.10-11.21.12:678][  0]MemoryProfiler: Initialize
+[2021.11.10-11.21.12:678][  0]MemoryProfiler: OnSessionChanged
+[2021.11.10-11.21.12:932][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.11.10-11.21.12:932][  0]LogCook: Display: Mobile HDR setting 1
+[2021.11.10-11.21.13:256][  0]LogFileCache: Scanning file cache for directory 'C:/Users/user/Desktop/ServerPrograming/Portfolio/3EJS/HelMaClient/Content/' took 0.08s
+[2021.11.10-11.21.13:503][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.11.10-11.21.13:507][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2021.11.10-11.21.13:507][  0]LogUnrealEdMisc: Loading editor; pre map load, took 9.802
+[2021.11.10-11.21.13:507][  0]Cmd: MAP LOAD FILE="../../../../../../Users/user/Desktop/ServerPrograming/Portfolio/3EJS/HelMaClient/Content/Level/Start.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.11.10-11.21.13:508][  0]LightingResults: New page: 라이팅 빌드
+[2021.11.10-11.21.13:510][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.11.10-11.21.13:510][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.10-11.21.13:510][  0]MapCheck: New page: 맵 체크
+[2021.11.10-11.21.13:510][  0]LightingResults: New page: 라이팅 빌드
+[2021.11.10-11.21.13:532][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2021.11.10-11.21.13:537][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Start'.
+[2021.11.10-11.21.13:538][  0]LogAIModule: Creating AISystem for world Start
+[2021.11.10-11.21.13:539][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.11.10-11.21.13:544][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2021.11.10-11.21.13:544][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.11.10-11.21.13:545][  0]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 0.386ms.
+[2021.11.10-11.21.13:545][  0]LogFileHelpers: Loading map 'Start' took 0.038
+[2021.11.10-11.21.13:552][  0]LogUnrealEdMisc: Total Editor Startup Time, took 9.847
+[2021.11.10-11.21.13:700][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.10-11.21.13:707][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.10-11.21.13:714][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.10-11.21.13:720][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.10-11.21.13:739][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0109 seconds. Added 3624 classes and 861 folders.
+[2021.11.10-11.21.13:743][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.11.10-11.21.13:746][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.11.10-11.21.13:746][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.10-11.21.13:746][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.11.10-11.21.13:746][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2021.11.10-11.21.13:749][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.11.10-11.21.13:749][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.10-11.21.13:749][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.11.10-11.21.13:749][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2021.11.10-11.21.13:750][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.11.10-11.21.13:750][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.10-11.21.13:750][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.11.10-11.21.13:750][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2021.11.10-11.21.13:752][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.11.10-11.21.13:752][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.10-11.21.13:752][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.11.10-11.21.13:752][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2021.11.10-11.21.13:753][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.11.10-11.21.13:753][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.10-11.21.13:753][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.11.10-11.21.13:753][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2021.11.10-11.21.13:755][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.11.10-11.21.13:755][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.10-11.21.13:755][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.11.10-11.21.13:755][  0]LogPakFile: OnPakFileMounted2Time == 0.000044
+[2021.11.10-11.21.13:756][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.11.10-11.21.13:756][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.10-11.21.13:756][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.11.10-11.21.13:756][  0]LogPakFile: OnPakFileMounted2Time == 0.000050
+[2021.11.10-11.21.13:758][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.11.10-11.21.13:758][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.10-11.21.13:758][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.11.10-11.21.13:758][  0]LogPakFile: OnPakFileMounted2Time == 0.000057
+[2021.11.10-11.21.13:760][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.11.10-11.21.13:760][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.10-11.21.13:760][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.11.10-11.21.13:761][  0]LogPakFile: OnPakFileMounted2Time == 0.000064
+[2021.11.10-11.21.13:762][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.11.10-11.21.13:762][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.10-11.21.13:762][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.11.10-11.21.13:762][  0]LogPakFile: OnPakFileMounted2Time == 0.000070
+[2021.11.10-11.21.13:763][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.11.10-11.21.13:763][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.10-11.21.13:763][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.11.10-11.21.13:763][  0]LogPakFile: OnPakFileMounted2Time == 0.000075
+[2021.11.10-11.21.13:766][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.11.10-11.21.13:766][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.10-11.21.13:766][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.11.10-11.21.13:766][  0]LogPakFile: OnPakFileMounted2Time == 0.000080
+[2021.11.10-11.21.13:767][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.11.10-11.21.13:767][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.10-11.21.13:767][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.11.10-11.21.13:767][  0]LogPakFile: OnPakFileMounted2Time == 0.000084
+[2021.11.10-11.21.13:769][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.11.10-11.21.13:769][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.10-11.21.13:769][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.11.10-11.21.13:769][  0]LogPakFile: OnPakFileMounted2Time == 0.000090
+[2021.11.10-11.21.13:770][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.11.10-11.21.13:770][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.10-11.21.13:770][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.11.10-11.21.13:770][  0]LogPakFile: OnPakFileMounted2Time == 0.000095
+[2021.11.10-11.21.13:772][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.11.10-11.21.13:772][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.10-11.21.13:772][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.11.10-11.21.13:772][  0]LogPakFile: OnPakFileMounted2Time == 0.000100
+[2021.11.10-11.21.13:775][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.11.10-11.21.13:775][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.10-11.21.13:775][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.11.10-11.21.13:775][  0]LogPakFile: OnPakFileMounted2Time == 0.000105
+[2021.11.10-11.21.13:776][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.11.10-11.21.13:776][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.10-11.21.13:776][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.11.10-11.21.13:776][  0]LogPakFile: OnPakFileMounted2Time == 0.000110
+[2021.11.10-11.21.13:778][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.11.10-11.21.13:778][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.10-11.21.13:778][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.11.10-11.21.13:778][  0]LogPakFile: OnPakFileMounted2Time == 0.000115
+[2021.11.10-11.21.13:780][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.11.10-11.21.13:780][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.10-11.21.13:780][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.11.10-11.21.13:780][  0]LogPakFile: OnPakFileMounted2Time == 0.000120
+[2021.11.10-11.21.13:782][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.11.10-11.21.13:782][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.10-11.21.13:782][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.11.10-11.21.13:782][  0]LogPakFile: OnPakFileMounted2Time == 0.000126
+[2021.11.10-11.21.13:783][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.11.10-11.21.13:783][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.10-11.21.13:783][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.11.10-11.21.13:784][  0]LogPakFile: OnPakFileMounted2Time == 0.000131
+[2021.11.10-11.21.13:785][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.11.10-11.21.13:785][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.10-11.21.13:785][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.11.10-11.21.13:785][  0]LogPakFile: OnPakFileMounted2Time == 0.000135
+[2021.11.10-11.21.13:787][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.11.10-11.21.13:787][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.10-11.21.13:787][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.11.10-11.21.13:787][  0]LogPakFile: OnPakFileMounted2Time == 0.000142
+[2021.11.10-11.21.13:788][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.11.10-11.21.13:788][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.10-11.21.13:788][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.11.10-11.21.13:788][  0]LogPakFile: OnPakFileMounted2Time == 0.000145
+[2021.11.10-11.21.13:790][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.11.10-11.21.13:790][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.10-11.21.13:790][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.11.10-11.21.13:790][  0]LogPakFile: OnPakFileMounted2Time == 0.000150
+[2021.11.10-11.21.13:927][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.11.10-11.21.13:942][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WorldBrowser' in 0.0003 seconds. Added 2 classes and 3 folders.
+[2021.11.10-11.21.13:947][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 2 classes and 0 folders.
+[2021.11.10-11.21.14:079][  0]LogSlate: Took 0.000439 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.11.10-11.21.14:083][  0]LogSlate: Took 0.002945 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2021.11.10-11.21.14:087][  0]LogSlate: Took 0.003294 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicBold.ttf' (4188K)
+[2021.11.10-11.21.14:088][  0]LogSlate: Took 0.000627 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.11.10-11.21.14:094][  0]LogSlate: Took 0.000934 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.11.10-11.21.14:195][  0]LogRenderer: Reallocating scene render targets to support 1224x572 Format 10 NumSamples 1 (Frame:1).
+[2021.11.10-11.21.14:242][  0]LogSlate: Took 0.000415 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.11.10-11.21.14:371][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.11.10-11.21.14:371][  0]LogLoad: (Engine Initialization) Total time: 10.67 seconds
+[2021.11.10-11.21.14:371][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.11.10-11.21.14:371][  0]LogInit: First time updating LLM stats...
+[2021.11.10-11.21.14:480][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.11.10-11.21.14:534][  1]LogAssetRegistry: Asset discovery search completed in 6.0367 seconds
+[2021.11.10-11.21.14:536][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2021.11.10-11.21.16:889][137]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2021.11.10-11.21.16:896][137]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.10-11.21.16:897][137]PIE: New page: PIE 세션: Start (2021. 11. 11. 오전 5:21:16)
+[2021.11.10-11.21.16:899][137]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.11.10-11.21.16:901][137]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.11.10-11.21.16:901][137]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Start
+[2021.11.10-11.21.16:902][137]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001000s)
+[2021.11.10-11.21.16:903][137]LogAIModule: Creating AISystem for world Start
+[2021.11.10-11.21.16:903][137]LogPlayLevel: PIE: World Init took: (0.001058s)
+[2021.11.10-11.21.16:903][137]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Start.Start to /Game/Level/UEDPIE_0_Start.Start (0.002237s)
+[2021.11.10-11.21.16:911][137]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2021.11.10-11.21.16:915][137]LogTemp: Error: UnResManager::ResInit()
+[2021.11.10-11.21.16:926][137]LogTemp: Error: Res Load OK 0
+[2021.11.10-11.21.16:926][137]LogTemp: Error: Res Load OK 1
+[2021.11.10-11.21.16:926][137]LogTemp: Error: Res Load OK 2
+[2021.11.10-11.21.16:926][137]LogTemp: Error: Res Load 3
+[2021.11.10-11.21.16:926][137]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.11.10-11.21.16:926][137]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.10-11.21.16:926][137]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.10-11.21.16:926][137]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.10-11.21.16:926][137]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.10-11.21.16:926][137]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.10-11.21.16:926][137]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.10-11.21.16:926][137]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.10-11.21.16:926][137]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.10-11.21.16:927][137]LogAudio: Display: Using built-in audio occlusion.
+[2021.11.10-11.21.16:927][137]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.10-11.21.16:933][137]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.10-11.21.16:933][137]LogAudioMixer: Display: 1: FrontRight
+[2021.11.10-11.21.16:944][137]LogAudioMixer: Display: Using Audio Device 헤드폰(Realtek(R) Audio)
+[2021.11.10-11.21.16:945][137]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.10-11.21.16:945][137]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.10-11.21.16:945][137]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.10-11.21.16:945][137]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.10-11.21.16:946][137]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.10-11.21.16:946][137]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.11.10-11.21.16:979][137]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.10-11.21.16:979][137]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.10-11.21.16:979][137]LogInit: FAudioDevice initialized.
+[2021.11.10-11.21.16:979][137]LogAudio: Display: Audio Device (ID: 2) registered with world 'Start'.
+[2021.11.10-11.21.17:013][137]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.10-11.21.17:014][137]LogLoad: Game class is 'StartGameMode'
+[2021.11.10-11.21.17:015][137]LogWorld: Bringing World /Game/Level/UEDPIE_0_Start.Start up for play (max tick rate 60) at 2021.11.10-20.21.17
+[2021.11.10-11.21.17:015][137]LogWorld: Bringing up level for play took: 0.000763
+[2021.11.10-11.21.17:016][137]LogOnline: OSS: Creating online subsystem instance for: :Context_1
+[2021.11.10-11.21.17:022][137]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2021.11.10-11.21.17:024][137]LogTemp: Error: 0
+[2021.11.10-11.21.17:024][137]LogTemp: Error: 1
+[2021.11.10-11.21.17:024][137]LogTemp: Error: 2
+[2021.11.10-11.21.17:024][137]LogTemp: Error: 3
+[2021.11.10-11.21.17:024][137]LogTemp: Error: 4
+[2021.11.10-11.21.17:024][137]LogTemp: Error: 5
+[2021.11.10-11.21.17:024][137]LogTemp: Error: 6
+[2021.11.10-11.21.17:024][137]LogTemp: Error: 7
+[2021.11.10-11.21.17:024][137]LogTemp: Error: 8
+[2021.11.10-11.21.17:024][137]LogTemp: Error: 9
+[2021.11.10-11.21.17:028][137]PIE: 서버가 로그인했습니다.
+[2021.11.10-11.21.17:030][137]PIE: 에디터에서 플레이 총 시작 시간 0.135초입니다.
+[2021.11.10-11.21.17:079][138]LogRenderer: Reallocating scene render targets to support 1280x720 Format 10 NumSamples 1 (Frame:1).
+[2021.11.10-11.21.17:786][177]UEHelMa: Warning: UWidget_Start::ConnectButtonCallback{80} : ConnectButtonCallback
+[2021.11.10-11.21.17:794][178]UEHelMa: Warning: UEServerConnect::Close{227} : UnServerConnect::Close() 
+[2021.11.10-11.21.17:794][178]UEHelMa: Warning: UEServerConnect::ConnectSocketCreate{139} : Socket Init
+[2021.11.10-11.21.17:794][178]UEHelMa: Error: UEServerConnect::ConnectSocketCreate{150} : Socket Create OK
+[2021.11.10-11.21.17:794][178]UEHelMa: Warning: UEServerConnect::ConnectSocketCreate{158} : 127.0.0.1
+[2021.11.10-11.21.17:794][178]UEHelMa: Warning: UEServerConnect::Connect{182} : Server Connect Success
+[2021.11.10-11.21.20:035][312]UEHelMa: Warning: UWidget_Start::LoginButtonCallback{90} : LoginButtonCallback
+[2021.11.10-11.21.20:035][312]UEHelMa: Warning: UWidget_Start::LoginButtonCallback{111} : Is Login Packet Send ID g | PW g
+[2021.11.10-11.21.20:043][313]UEHelMa: Warning: ClientPacketFunc::LoginResultPacketProcess{49} : PacketCode:0
+[2021.11.10-11.21.20:043][313]UEHelMa: Warning: ClientPacketFunc::LoginResultPacketProcess{50} : Login OK 
+[2021.11.10-11.21.20:053][313]LogNet: Browse: /Game/Level/Select
+[2021.11.10-11.21.20:053][313]LogLoad: LoadMap: /Game/Level/Select
+[2021.11.10-11.21.20:053][313]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_Start
+[2021.11.10-11.21.20:054][313]LogWorld: UWorld::CleanupWorld for Start, bSessionEnded=true, bCleanupResources=true
+[2021.11.10-11.21.20:054][313]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.10-11.21.20:079][313]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.10-11.21.20:081][313]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2021.11.10-11.21.21:283][313]LogAudio: Display: Audio Device (ID: 2) registered with world 'Select'.
+[2021.11.10-11.21.21:285][313]LogAIModule: Creating AISystem for world Select
+[2021.11.10-11.21.21:285][313]LogLoad: Game class is 'SelectGameMode'
+[2021.11.10-11.21.21:306][313]LogWorld: Bringing World /Game/Level/UEDPIE_0_Select.Select up for play (max tick rate 60) at 2021.11.10-20.21.21
+[2021.11.10-11.21.21:307][313]LogWorld: Bringing up level for play took: 0.019994
+[2021.11.10-11.21.21:310][313]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.11.10-11.21.21:310][313]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2021.11.10-11.21.21:310][313]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2021.11.10-11.21.21:310][313]LogLoad: Took 1.256872 seconds to LoadMap(/Game/Level/Select)
+[2021.11.10-11.21.21:330][313]UEHelMa: Warning: UEWorldMsgFunc::SelectCreate{31} : SelectCreate!!!!!!!!!!!!!!!!!!!
+[2021.11.10-11.21.21:331][313]UEHelMa: Warning: UWidget_Select::VisibleCharacterWidgetImg0{336} : VisibleCharacterWidgetImg0
+[2021.11.10-11.21.21:356][314]LogRenderer: Reallocating scene render targets to support 1920x1080 Format 10 NumSamples 1 (Frame:1).
+[2021.11.10-11.21.23:078][386]LogNet: Browse: /Game/Level/Main
+[2021.11.10-11.21.23:078][386]LogLoad: LoadMap: /Game/Level/Main
+[2021.11.10-11.21.23:078][386]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_Select
+[2021.11.10-11.21.23:079][386]LogWorld: UWorld::CleanupWorld for Select, bSessionEnded=true, bCleanupResources=true
+[2021.11.10-11.21.23:080][386]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.10-11.21.23:084][386]UEHelMa: Warning: ClientPacketFunc::CharacterPacketProcess{56} : CharacterPacketProcess
+[2021.11.10-11.21.23:084][386]UEHelMa: Warning: ClientPacketFunc::CharacterPacketProcess{76} : PhaseStart
+[2021.11.10-11.21.23:084][386]UEHelMa: Warning: ClientPacketFunc::PlayerUpdatePacketProcess{131} : PlayerUpdatePacketProcess
+[2021.11.10-11.21.23:084][386]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.10-11.21.23:100][386]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2021.11.10-11.21.23:196][386]LogAudio: Display: Audio Device (ID: 2) registered with world 'Main'.
+[2021.11.10-11.21.23:197][386]LogAIModule: Creating AISystem for world Main
+[2021.11.10-11.21.23:198][386]LogLoad: Game class is 'BP_HelMaGameMode_C'
+[2021.11.10-11.21.23:198][386]LogBlueprintUserMessages: [BP_HelMaGameMode_C_0] tttttttttttttttttt
+[2021.11.10-11.21.23:198][386]LogBlueprintUserMessages: [BP_HelMaGameMode_C_0] Hello
+[2021.11.10-11.21.23:223][386]LogBlueprintUserMessages: [BP_HelMaGameMode_C_0] tttttttttttttttttt
+[2021.11.10-11.21.23:223][386]LogBlueprintUserMessages: [BP_HelMaGameMode_C_0] Hello
+[2021.11.10-11.21.23:223][386]LogWorld: Bringing World /Game/Level/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2021.11.10-20.21.23
+[2021.11.10-11.21.23:224][386]LogWorld: Bringing up level for play took: 0.025011
+[2021.11.10-11.21.23:226][386]LogLoad: Took 0.148651 seconds to LoadMap(/Game/Level/Main)
+[2021.11.10-11.21.23:227][386]UEHelMa: Warning: UEWorldMsgFunc::PlayerCreate{148} : PlayerCreate!!!!!!!!!!!!!!!!!!!
+[2021.11.10-11.21.23:227][386]UEHelMa: Warning: UEWorldMsgFunc::PlayerCreate{166} : PhaseStart
+[2021.11.10-11.21.23:227][386]UEHelMa: Warning: UECharacterManager::CharacterManagerInit{37} : 1
+[2021.11.10-11.21.23:227][386]UEHelMa: Error: ACharacterMaster::Tick{61} : NotLogin!!
+[2021.11.10-11.21.23:228][386]UEHelMa: Warning: ClientPacketFunc::GameStartPacketProcess{111} : GameStartPacketProcess
+[2021.11.10-11.21.23:228][386]UEHelMa: Warning: ClientPacketFunc::PlayerUpdatePacketProcess{131} : PlayerUpdatePacketProcess
+[2021.11.10-11.21.23:267][387]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.23:282][388]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.23:298][389]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.23:316][390]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.23:332][391]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.23:350][392]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.23:365][393]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.23:381][394]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.23:398][395]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.23:415][396]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.23:431][397]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.23:448][398]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.23:465][399]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.23:481][400]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.23:498][401]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.23:515][402]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.23:532][403]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.23:549][404]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.23:570][405]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.23:582][406]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.23:607][407]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.23:623][408]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.23:640][409]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.23:656][410]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.23:673][411]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.23:691][412]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.23:709][413]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.23:726][414]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.23:742][415]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.23:759][416]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.23:774][417]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.23:790][418]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.23:806][419]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.23:823][420]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.23:840][421]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.23:857][422]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.23:873][423]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.23:890][424]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.23:906][425]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.23:923][426]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.23:940][427]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.23:956][428]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.23:973][429]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.23:990][430]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.24:007][431]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.24:023][432]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.24:040][433]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.24:057][434]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.24:073][435]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.24:090][436]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.24:106][437]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.24:123][438]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.24:139][439]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.24:157][440]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.24:173][441]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.24:190][442]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.24:207][443]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.24:224][444]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.24:243][445]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.24:258][446]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.24:275][447]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.24:291][448]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.24:308][449]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.24:323][450]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.24:340][451]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.24:358][452]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.24:374][453]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.24:390][454]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.24:407][455]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.24:424][456]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.24:441][457]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.24:457][458]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.24:473][459]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.24:490][460]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.24:507][461]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.24:524][462]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.24:540][463]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.24:557][464]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.24:573][465]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.24:590][466]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.24:607][467]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.24:623][468]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.24:640][469]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.24:657][470]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.24:673][471]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.24:690][472]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.24:707][473]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.24:723][474]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.24:740][475]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.24:757][476]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.24:773][477]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.24:790][478]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.24:806][479]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.24:824][480]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.24:840][481]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.24:857][482]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.24:873][483]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.24:890][484]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.24:907][485]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.24:923][486]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.24:940][487]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.24:957][488]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.24:974][489]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.24:990][490]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.25:007][491]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.25:025][492]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.25:041][493]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.25:058][494]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.25:074][495]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.25:090][496]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.25:107][497]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.25:123][498]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.25:140][499]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.25:157][500]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.25:173][501]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.25:189][502]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.25:206][503]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.25:223][504]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.25:241][505]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.25:257][506]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.25:273][507]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.25:290][508]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.25:307][509]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.25:323][510]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.25:340][511]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.25:358][512]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.25:374][513]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.25:390][514]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.25:407][515]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.25:423][516]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.25:440][517]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.25:457][518]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.25:473][519]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.25:491][520]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.25:507][521]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.25:523][522]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.25:540][523]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.25:557][524]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.25:574][525]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.25:590][526]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.25:607][527]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.25:625][528]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.25:640][529]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.25:657][530]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.25:673][531]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.25:690][532]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.25:707][533]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.25:724][534]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.25:740][535]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.25:756][536]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.25:773][537]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.25:790][538]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.25:808][539]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.25:824][540]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.25:841][541]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.25:858][542]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.25:874][543]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.25:890][544]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.25:908][545]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.25:924][546]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.25:941][547]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.25:958][548]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.25:973][549]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.25:990][550]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.26:007][551]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.26:023][552]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.26:040][553]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.26:057][554]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.26:074][555]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.26:090][556]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.26:106][557]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.26:123][558]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.26:140][559]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.26:157][560]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.26:173][561]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.26:190][562]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.26:207][563]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.26:223][564]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.26:240][565]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.26:256][566]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.26:273][567]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.26:297][568]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.26:313][569]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.26:329][570]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.26:345][571]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.26:365][572]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.26:380][573]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.26:397][574]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.26:415][575]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.26:430][576]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.26:448][577]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.26:466][578]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.26:484][579]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.26:501][580]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.26:517][581]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.26:534][582]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.26:553][583]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.26:568][584]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.26:585][585]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.26:603][586]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.26:618][587]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.26:635][588]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.26:652][589]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.26:668][590]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.26:685][591]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.26:702][592]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.26:719][593]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.26:735][594]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.26:752][595]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.26:769][596]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.26:785][597]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.26:802][598]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.26:819][599]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.26:835][600]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.26:852][601]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.26:869][602]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.26:887][603]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.26:902][604]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.26:919][605]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.26:936][606]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.26:952][607]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.26:969][608]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.26:985][609]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.27:002][610]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.27:020][611]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.27:035][612]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.27:054][613]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.27:070][614]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.27:087][615]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.27:104][616]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.27:120][617]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.27:138][618]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.27:154][619]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.27:170][620]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.27:188][621]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.27:205][622]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.27:225][623]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.27:247][624]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.27:268][625]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.27:288][626]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.27:310][627]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.27:330][628]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.27:351][629]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.27:375][630]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.27:391][631]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.27:407][632]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.27:424][633]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.27:442][634]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.27:459][635]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.27:475][636]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.27:491][637]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.27:507][638]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.27:524][639]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.27:541][640]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.27:557][641]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.27:575][642]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.27:598][643]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.27:609][644]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.27:626][645]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.27:643][646]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.27:659][647]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.27:675][648]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.27:699][649]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.27:713][650]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.27:727][651]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.27:743][652]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.27:767][653]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.27:781][654]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.27:798][655]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.27:815][656]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.27:831][657]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.27:847][658]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.27:863][659]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.27:880][660]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.27:897][661]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.27:912][662]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.27:929][663]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.27:946][664]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.27:963][665]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.27:979][666]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.27:996][667]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.28:013][668]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.28:029][669]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.28:047][670]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.28:063][671]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.28:089][672]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.28:099][673]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.28:116][674]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.28:132][675]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.28:149][676]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.28:164][677]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.28:181][678]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.28:198][679]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.28:213][680]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.28:230][681]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.28:247][682]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.28:264][683]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.28:281][684]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.28:297][685]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.28:314][686]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.28:331][687]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.28:347][688]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.28:364][689]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.28:382][690]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.28:397][691]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.28:414][692]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.28:452][693]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.28:461][694]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.28:478][695]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.28:494][696]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.28:511][697]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.28:528][698]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.28:544][699]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.28:561][700]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.28:577][701]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.28:594][702]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.28:610][703]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.28:627][704]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.28:644][705]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.28:661][706]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.28:678][707]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.28:694][708]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.28:711][709]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.28:727][710]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.28:744][711]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.28:761][712]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.28:777][713]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.28:794][714]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.28:810][715]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.28:827][716]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.28:844][717]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.28:861][718]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.28:877][719]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.28:894][720]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.28:911][721]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.28:927][722]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.28:944][723]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.28:960][724]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.28:977][725]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.28:993][726]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.29:010][727]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.29:027][728]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.29:044][729]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.29:060][730]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.29:077][731]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.29:093][732]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.29:111][733]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.29:127][734]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.29:144][735]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.29:167][736]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.29:183][737]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.29:199][738]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.29:216][739]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.29:233][740]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.29:250][741]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.29:267][742]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.29:284][743]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.29:302][744]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.29:319][745]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.29:336][746]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.29:352][747]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.29:369][748]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.29:388][749]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.29:403][750]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.29:419][751]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.29:438][752]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.29:453][753]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.29:469][754]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.29:487][755]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.29:502][756]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.29:520][757]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.29:536][758]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.29:552][759]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.29:570][760]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.29:586][761]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.29:603][762]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.29:620][763]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.29:636][764]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.29:653][765]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.29:670][766]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.29:686][767]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.29:703][768]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.29:719][769]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.29:736][770]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.29:753][771]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.29:770][772]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.29:787][773]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.29:802][774]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.29:819][775]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.29:836][776]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.29:852][777]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.29:869][778]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.29:886][779]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.29:903][780]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.29:920][781]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.29:937][782]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.29:953][783]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.29:970][784]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.29:987][785]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.30:004][786]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.30:020][787]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.30:037][788]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.30:053][789]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.30:069][790]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.30:087][791]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.30:103][792]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.30:119][793]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.30:136][794]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.30:152][795]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.30:169][796]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.30:186][797]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.30:202][798]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.30:219][799]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.30:236][800]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.30:252][801]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.30:269][802]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.30:287][803]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.30:302][804]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.30:319][805]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.30:337][806]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.30:352][807]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.30:369][808]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.30:386][809]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.30:405][810]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.30:420][811]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.30:437][812]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.30:453][813]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.30:470][814]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.30:486][815]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.30:504][816]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.30:519][817]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.30:536][818]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.30:554][819]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.30:569][820]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.30:587][821]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.30:603][822]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.30:620][823]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.30:638][824]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.30:655][825]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.30:673][826]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.30:689][827]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.30:706][828]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.30:724][829]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.30:740][830]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.30:757][831]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.30:774][832]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.30:790][833]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.30:806][834]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.30:824][835]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.30:840][836]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.30:858][837]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.30:873][838]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.30:890][839]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.30:907][840]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.30:923][841]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.30:940][842]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.30:956][843]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.30:974][844]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.30:991][845]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.31:006][846]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.31:023][847]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.31:039][848]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.31:056][849]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.31:073][850]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.31:090][851]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.31:106][852]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.31:123][853]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.31:140][854]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.31:156][855]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.31:173][856]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.31:190][857]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.31:207][858]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.31:223][859]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.31:240][860]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.31:256][861]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.31:273][862]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.31:290][863]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.31:306][864]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.31:323][865]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.31:340][866]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.31:357][867]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.31:373][868]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.31:390][869]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.31:409][870]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.31:423][871]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.31:439][872]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.31:456][873]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.31:473][874]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.31:490][875]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.31:507][876]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.31:523][877]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.31:540][878]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.31:556][879]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.31:573][880]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.31:589][881]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.31:606][882]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.31:623][883]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.31:640][884]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.31:656][885]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.31:673][886]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.31:689][887]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.31:706][888]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.31:723][889]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.31:739][890]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.31:756][891]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.31:774][892]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.31:789][893]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.31:806][894]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.31:823][895]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.31:840][896]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.31:857][897]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.31:873][898]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.31:890][899]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.31:906][900]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.31:923][901]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.31:940][902]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.31:956][903]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.31:973][904]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.31:989][905]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.32:007][906]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.32:023][907]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.32:040][908]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.32:057][909]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.32:073][910]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.32:090][911]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.32:108][912]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.32:123][913]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.32:139][914]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.32:157][915]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.32:173][916]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.32:190][917]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.32:206][918]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.32:223][919]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.32:240][920]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.32:256][921]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.32:273][922]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.32:290][923]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.32:306][924]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.32:323][925]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.32:340][926]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.32:356][927]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.32:373][928]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.32:390][929]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.32:406][930]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.32:425][931]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.32:440][932]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.32:457][933]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.32:473][934]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.32:490][935]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.32:507][936]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.32:523][937]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.32:539][938]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.32:557][939]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.32:573][940]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.32:589][941]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.32:606][942]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.32:623][943]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.32:640][944]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.32:658][945]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.32:673][946]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.32:690][947]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.32:707][948]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.32:723][949]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.32:740][950]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.32:756][951]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.32:773][952]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.32:789][953]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.32:807][954]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.32:823][955]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.32:840][956]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.32:857][957]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.32:873][958]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.32:890][959]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.32:907][960]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.32:923][961]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.32:939][962]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.32:956][963]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.32:973][964]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.32:991][965]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.33:006][966]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.33:023][967]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.33:040][968]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.33:056][969]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.33:077][970]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.33:104][971]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.33:133][972]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.33:157][973]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.33:185][974]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.33:207][975]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.33:234][976]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.33:251][977]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.33:272][978]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.33:302][979]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.33:327][980]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.33:343][981]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.33:376][982]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.33:404][983]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.33:429][984]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.33:473][985]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.33:499][986]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.33:521][987]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.33:538][988]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.33:557][989]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.33:582][990]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.33:609][991]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.33:632][992]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.33:657][993]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.33:678][994]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.33:715][995]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.33:731][996]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.33:750][997]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.33:789][998]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.33:812][999]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.33:854][  0]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.33:898][  1]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.33:941][  2]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.33:971][  3]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.33:992][  4]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.34:015][  5]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.34:058][  6]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.34:084][  7]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.34:125][  8]UEHelMa: Warning: ACharacterMaster::ServerUpdate{88} : ServerUpdate!!!
+[2021.11.10-11.21.34:149][  9]LogTemp: Error: PlayerPacket Wait
+[2021.11.10-11.21.34:155][  9]LogSpawn: Warning: SpawnActor failed because we are in the process of tearing down the world

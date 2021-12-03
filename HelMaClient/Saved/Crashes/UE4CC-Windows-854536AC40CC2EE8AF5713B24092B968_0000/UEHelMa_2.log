@@ -1,0 +1,1956 @@
+﻿Log file open, 12/01/21 04:47:42
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: UEHelMa
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.668291
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: AMD Ryzen 9 4900H with Radeon Graphics         , GPU: AMD Radeon(TM) Graphics
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/user/Desktop/ServerPrograming/Portfolio/3EJS/HelMaClient/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.11.30-19.47.44:114][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.11.30-19.47.44:114][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.11.30-19.47.44:114][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/user/Desktop/ServerPrograming/Portfolio/3EJS/HelMaClient/Saved/Config/Windows/Engine.ini]
+[2021.11.30-19.47.44:114][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.11.30-19.47.44:114][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/user/Desktop/ServerPrograming/Portfolio/3EJS/HelMaClient/Saved/Config/Windows/Engine.ini]
+[2021.11.30-19.47.44:114][  0]LogConfig: Setting CVar [[r.SupportAllShaderPermutations:0]]
+[2021.11.30-19.47.44:114][  0]LogConfig: Setting CVar [[r.SkinCache.ForceRecomputeTangents:0]]
+[2021.11.30-19.47.44:114][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/user/Desktop/ServerPrograming/Portfolio/3EJS/HelMaClient/Saved/Config/Windows/Engine.ini]
+[2021.11.30-19.47.44:114][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.11.30-19.47.44:114][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.11.30-19.47.44:114][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.11.30-19.47.44:114][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.11.30-19.47.44:114][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.11.30-19.47.44:114][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.11.30-19.47.44:114][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.11.30-19.47.44:114][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.11.30-19.47.44:114][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.11.30-19.47.44:114][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.11.30-19.47.44:114][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.11.30-19.47.44:114][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.11.30-19.47.44:114][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.11.30-19.47.44:114][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.11.30-19.47.44:114][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/user/Desktop/ServerPrograming/Portfolio/3EJS/HelMaClient/Saved/Config/Windows/Engine.ini]
+[2021.11.30-19.47.44:114][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.11.30-19.47.44:114][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.11.30-19.47.44:114][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.11.30-19.47.44:114][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.11.30-19.47.44:114][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.11.30-19.47.44:114][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.11.30-19.47.44:114][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.11.30-19.47.44:115][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.11.30-19.47.44:115][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.11.30-19.47.44:115][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.11.30-19.47.44:115][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.11.30-19.47.44:115][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.11.30-19.47.44:115][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.11.30-19.47.44:115][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.11.30-19.47.44:115][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/user/Desktop/ServerPrograming/Portfolio/3EJS/HelMaClient/Saved/Config/Windows/Engine.ini]
+[2021.11.30-19.47.44:115][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/user/Desktop/ServerPrograming/Portfolio/3EJS/HelMaClient/Saved/Config/Windows/Engine.ini]
+[2021.11.30-19.47.44:223][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/user/Desktop/ServerPrograming/Portfolio/3EJS/HelMaClient/Saved/Config/Windows/Scalability.ini]
+[2021.11.30-19.47.44:223][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.11.30-19.47.44:223][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.11.30-19.47.44:223][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/user/Desktop/ServerPrograming/Portfolio/3EJS/HelMaClient/Saved/Config/Windows/Scalability.ini]
+[2021.11.30-19.47.44:224][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.11.30-19.47.44:224][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/user/Desktop/ServerPrograming/Portfolio/3EJS/HelMaClient/Saved/Config/Windows/Scalability.ini]
+[2021.11.30-19.47.44:224][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.11.30-19.47.44:224][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.11.30-19.47.44:224][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.11.30-19.47.44:224][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.11.30-19.47.44:224][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.11.30-19.47.44:224][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.11.30-19.47.44:224][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.11.30-19.47.44:224][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.11.30-19.47.44:224][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.11.30-19.47.44:224][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.11.30-19.47.44:224][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.11.30-19.47.44:224][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.11.30-19.47.44:224][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.11.30-19.47.44:224][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.11.30-19.47.44:224][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.11.30-19.47.44:224][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.11.30-19.47.44:224][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.11.30-19.47.44:224][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.11.30-19.47.44:224][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/user/Desktop/ServerPrograming/Portfolio/3EJS/HelMaClient/Saved/Config/Windows/Scalability.ini]
+[2021.11.30-19.47.44:224][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.11.30-19.47.44:224][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.11.30-19.47.44:224][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.11.30-19.47.44:224][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.11.30-19.47.44:224][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.11.30-19.47.44:224][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.11.30-19.47.44:224][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.11.30-19.47.44:224][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.11.30-19.47.44:224][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.11.30-19.47.44:224][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.11.30-19.47.44:224][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.11.30-19.47.44:224][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.11.30-19.47.44:224][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.11.30-19.47.44:224][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.11.30-19.47.44:224][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.11.30-19.47.44:224][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.11.30-19.47.44:224][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.11.30-19.47.44:224][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.11.30-19.47.44:224][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.11.30-19.47.44:224][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.11.30-19.47.44:224][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.11.30-19.47.44:224][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.11.30-19.47.44:224][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.11.30-19.47.44:224][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.11.30-19.47.44:224][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.11.30-19.47.44:224][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.11.30-19.47.44:224][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.11.30-19.47.44:224][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.11.30-19.47.44:225][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.11.30-19.47.44:225][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.11.30-19.47.44:225][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/user/Desktop/ServerPrograming/Portfolio/3EJS/HelMaClient/Saved/Config/Windows/Scalability.ini]
+[2021.11.30-19.47.44:225][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.11.30-19.47.44:225][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.11.30-19.47.44:225][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.11.30-19.47.44:225][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.11.30-19.47.44:225][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.11.30-19.47.44:225][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.11.30-19.47.44:225][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.11.30-19.47.44:225][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.11.30-19.47.44:225][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.11.30-19.47.44:225][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/user/Desktop/ServerPrograming/Portfolio/3EJS/HelMaClient/Saved/Config/Windows/Scalability.ini]
+[2021.11.30-19.47.44:225][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.11.30-19.47.44:225][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.11.30-19.47.44:225][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.11.30-19.47.44:225][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.11.30-19.47.44:225][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.11.30-19.47.44:225][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.11.30-19.47.44:225][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.11.30-19.47.44:225][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.11.30-19.47.44:225][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.11.30-19.47.44:225][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.11.30-19.47.44:225][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.11.30-19.47.44:225][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.11.30-19.47.44:225][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.11.30-19.47.44:225][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.11.30-19.47.44:225][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.11.30-19.47.44:225][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.11.30-19.47.44:225][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.11.30-19.47.44:225][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.11.30-19.47.44:225][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.11.30-19.47.44:225][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.11.30-19.47.44:225][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.11.30-19.47.44:225][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.11.30-19.47.44:225][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.11.30-19.47.44:225][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.11.30-19.47.44:225][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.11.30-19.47.44:225][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.11.30-19.47.44:225][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.11.30-19.47.44:225][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/user/Desktop/ServerPrograming/Portfolio/3EJS/HelMaClient/Saved/Config/Windows/Scalability.ini]
+[2021.11.30-19.47.44:225][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.11.30-19.47.44:225][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.11.30-19.47.44:225][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/user/Desktop/ServerPrograming/Portfolio/3EJS/HelMaClient/Saved/Config/Windows/Scalability.ini]
+[2021.11.30-19.47.44:225][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.11.30-19.47.44:226][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.11.30-19.47.44:226][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.11.30-19.47.44:226][  0]LogInit: Selected Device Profile: [Windows]
+[2021.11.30-19.47.44:226][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.11.30-19.47.44:226][  0]LogHAL: Display: Platform has ~ 32 GB [33736564736 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.11.30-19.47.44:226][  0]LogInit: Going up to parent DeviceProfile []
+[2021.11.30-19.47.44:226][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/user/Desktop/ServerPrograming/Portfolio/3EJS/HelMaClient/Saved/Config/Windows/Scalability.ini]
+[2021.11.30-19.47.44:226][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.11.30-19.47.44:226][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.11.30-19.47.44:226][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/user/Desktop/ServerPrograming/Portfolio/3EJS/HelMaClient/Saved/Config/Windows/Scalability.ini]
+[2021.11.30-19.47.44:226][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.11.30-19.47.44:226][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/user/Desktop/ServerPrograming/Portfolio/3EJS/HelMaClient/Saved/Config/Windows/Scalability.ini]
+[2021.11.30-19.47.44:226][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.11.30-19.47.44:226][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.11.30-19.47.44:226][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.11.30-19.47.44:226][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.11.30-19.47.44:226][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.11.30-19.47.44:226][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.11.30-19.47.44:226][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.11.30-19.47.44:226][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.11.30-19.47.44:226][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.11.30-19.47.44:226][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.11.30-19.47.44:226][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.11.30-19.47.44:226][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.11.30-19.47.44:226][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.11.30-19.47.44:226][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.11.30-19.47.44:226][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.11.30-19.47.44:226][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.11.30-19.47.44:226][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.11.30-19.47.44:226][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.11.30-19.47.44:226][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/user/Desktop/ServerPrograming/Portfolio/3EJS/HelMaClient/Saved/Config/Windows/Scalability.ini]
+[2021.11.30-19.47.44:226][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.11.30-19.47.44:227][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.11.30-19.47.44:227][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.11.30-19.47.44:227][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.11.30-19.47.44:227][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.11.30-19.47.44:227][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.11.30-19.47.44:227][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.11.30-19.47.44:227][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.11.30-19.47.44:227][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.11.30-19.47.44:227][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.11.30-19.47.44:227][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.11.30-19.47.44:227][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.11.30-19.47.44:227][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.11.30-19.47.44:227][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.11.30-19.47.44:227][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.11.30-19.47.44:227][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.11.30-19.47.44:227][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.11.30-19.47.44:227][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.11.30-19.47.44:227][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.11.30-19.47.44:227][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.11.30-19.47.44:227][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.11.30-19.47.44:227][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.11.30-19.47.44:227][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.11.30-19.47.44:227][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.11.30-19.47.44:227][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.11.30-19.47.44:227][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.11.30-19.47.44:227][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.11.30-19.47.44:227][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.11.30-19.47.44:227][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.11.30-19.47.44:227][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.11.30-19.47.44:227][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/user/Desktop/ServerPrograming/Portfolio/3EJS/HelMaClient/Saved/Config/Windows/Scalability.ini]
+[2021.11.30-19.47.44:227][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.11.30-19.47.44:227][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.11.30-19.47.44:227][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.11.30-19.47.44:227][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.11.30-19.47.44:227][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.11.30-19.47.44:227][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.11.30-19.47.44:227][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.11.30-19.47.44:227][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.11.30-19.47.44:227][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.11.30-19.47.44:227][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/user/Desktop/ServerPrograming/Portfolio/3EJS/HelMaClient/Saved/Config/Windows/Scalability.ini]
+[2021.11.30-19.47.44:227][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.11.30-19.47.44:227][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.11.30-19.47.44:227][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.11.30-19.47.44:227][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.11.30-19.47.44:227][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.11.30-19.47.44:227][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.11.30-19.47.44:227][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.11.30-19.47.44:227][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.11.30-19.47.44:228][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.11.30-19.47.44:228][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.11.30-19.47.44:228][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.11.30-19.47.44:228][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.11.30-19.47.44:228][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.11.30-19.47.44:228][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.11.30-19.47.44:228][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.11.30-19.47.44:228][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.11.30-19.47.44:228][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.11.30-19.47.44:228][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.11.30-19.47.44:228][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.11.30-19.47.44:228][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.11.30-19.47.44:228][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.11.30-19.47.44:228][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.11.30-19.47.44:228][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.11.30-19.47.44:228][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.11.30-19.47.44:228][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.11.30-19.47.44:228][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.11.30-19.47.44:228][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.11.30-19.47.44:228][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/user/Desktop/ServerPrograming/Portfolio/3EJS/HelMaClient/Saved/Config/Windows/Scalability.ini]
+[2021.11.30-19.47.44:228][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.11.30-19.47.44:228][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.11.30-19.47.44:228][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/user/Desktop/ServerPrograming/Portfolio/3EJS/HelMaClient/Saved/Config/Windows/Scalability.ini]
+[2021.11.30-19.47.44:228][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.11.30-19.47.44:228][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.11.30-19.47.44:228][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.11.30-19.47.44:228][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.11.30-19.47.44:229][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.11.30-19.47.44:229][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.11.30-19.47.44:229][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.11.30-19.47.44:229][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/user/Desktop/ServerPrograming/Portfolio/3EJS/HelMaClient/Saved/Config/Windows/Engine.ini]
+[2021.11.30-19.47.44:229][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/user/Desktop/ServerPrograming/Portfolio/3EJS/HelMaClient/Saved/Config/Windows/Editor.ini]
+[2021.11.30-19.47.44:229][  0]LogInit: Computer: DESKTOP-728A1T6
+[2021.11.30-19.47.44:229][  0]LogInit: User: user
+[2021.11.30-19.47.44:229][  0]LogInit: CPU Page size=4096, Cores=8
+[2021.11.30-19.47.44:229][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.11.30-19.47.44:229][  0]LogMemory: Memory total: Physical=31.4GB (32GB approx)
+[2021.11.30-19.47.44:229][  0]LogMemory: Platform Memory Stats for Windows
+[2021.11.30-19.47.44:229][  0]LogMemory: Process Physical Memory: 138.88 MB used, 138.88 MB peak
+[2021.11.30-19.47.44:229][  0]LogMemory: Process Virtual Memory: 116.50 MB used, 116.50 MB peak
+[2021.11.30-19.47.44:229][  0]LogMemory: Physical Memory: 23819.45 MB used,  8354.24 MB free, 32173.70 MB total
+[2021.11.30-19.47.44:229][  0]LogMemory: Virtual Memory: 134194352.00 MB used,  23372.19 MB free, 134217728.00 MB total
+[2021.11.30-19.47.44:261][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.11.30-19.47.44:523][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.11.30-19.47.44:526][  0]LogInit: Using OS detected language (ko-KR).
+[2021.11.30-19.47.44:526][  0]LogInit: Using OS detected locale (ko-KR).
+[2021.11.30-19.47.44:537][  0]LogTextLocalizationManager: No specific localization for 'ko-KR' exists, so the 'ko' localization will be used.
+[2021.11.30-19.47.44:724][  0]LogInit: Setting process to per monitor DPI aware
+[2021.11.30-19.47.44:824][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.11.30-19.47.44:859][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.11.30-19.47.44:859][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.11.30-19.47.45:568][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.11.30-19.47.45:568][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.11.30-19.47.45:568][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.11.30-19.47.45:568][  0]LogD3D11RHI: D3D11 adapters:
+[2021.11.30-19.47.45:773][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2060' (Feature Level 11_0)
+[2021.11.30-19.47.45:773][  0]LogD3D11RHI:       5980/0/16086 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2021.11.30-19.47.45:859][  0]LogD3D11RHI:    1. 'AMD Radeon(TM) Graphics' (Feature Level 11_0)
+[2021.11.30-19.47.45:859][  0]LogD3D11RHI:       496/0/16086 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1002
+[2021.11.30-19.47.45:865][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.11.30-19.47.45:865][  0]LogD3D11RHI:       0/0/16086 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.11.30-19.47.45:865][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.11.30-19.47.45:886][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.11.30-19.47.45:886][  0]LogD3D11RHI:     GPU DeviceId: 0x1f15 (for the marketing name, search the web for "GPU Device Id")
+[2021.11.30-19.47.45:886][  0]LogWindows: EnumDisplayDevices:
+[2021.11.30-19.47.45:887][  0]LogWindows:    0. 'AMD Radeon(TM) Graphics' (P:0 D:1)
+[2021.11.30-19.47.45:889][  0]LogWindows:    1. 'AMD Radeon(TM) Graphics' (P:1 D:1)
+[2021.11.30-19.47.45:892][  0]LogWindows:    2. 'AMD Radeon(TM) Graphics' (P:0 D:0)
+[2021.11.30-19.47.45:895][  0]LogWindows:    3. 'AMD Radeon(TM) Graphics' (P:0 D:0)
+[2021.11.30-19.47.45:898][  0]LogWindows:    4. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2021.11.30-19.47.45:899][  0]LogWindows:    5. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2021.11.30-19.47.45:901][  0]LogWindows:    6. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2021.11.30-19.47.45:903][  0]LogWindows:    7. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2021.11.30-19.47.45:904][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2021.11.30-19.47.45:904][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2060
+[2021.11.30-19.47.45:904][  0]LogD3D11RHI:   Driver Version: 466.27 (internal:27.21.14.6627, unified:466.27)
+[2021.11.30-19.47.45:904][  0]LogD3D11RHI:      Driver Date: 4-23-2021
+[2021.11.30-19.47.45:904][  0]LogRHI: Texture pool is 4186 MB (70% of 5980 MB)
+[2021.11.30-19.47.46:054][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.11.30-19.47.46:054][  0]LogD3D11RHI: Async texture creation enabled
+[2021.11.30-19.47.46:054][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.11.30-19.47.46:106][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.11.30-19.47.46:110][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.11.30-19.47.47:146][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.11.30-19.47.47:199][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.11.30-19.47.47:199][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.11.30-19.47.47:199][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.11.30-19.47.47:199][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.11.30-19.47.47:199][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.11.30-19.47.47:199][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.11.30-19.47.47:199][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.11.30-19.47.47:199][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.11.30-19.47.47:199][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.11.30-19.47.47:199][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.11.30-19.47.47:271][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.11.30-19.47.47:271][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.11.30-19.47.47:300][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.11.30-19.47.47:323][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.11.30-19.47.47:348][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.11.30-19.47.47:372][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.11.30-19.47.47:395][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.11.30-19.47.47:416][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.11.30-19.47.47:438][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.11.30-19.47.47:494][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.11.30-19.47.47:494][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.11.30-19.47.47:513][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.11.30-19.47.47:537][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.11.30-19.47.47:558][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.11.30-19.47.47:576][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.11.30-19.47.47:603][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.11.30-19.47.47:603][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.11.30-19.47.47:620][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.11.30-19.47.47:638][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.11.30-19.47.47:655][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.11.30-19.47.47:674][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.11.30-19.47.47:674][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.11.30-19.47.47:695][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.11.30-19.47.47:867][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.11.30-19.47.47:867][  0]LogShaderCompilers: Guid format shader working directory is -36 characters bigger than the processId version (../../../../../../Users/user/Desktop/ServerPrograming/Portfolio/3EJS/HelMaClient/Intermediate/Shaders/WorkingDirectory/36996/).
+[2021.11.30-19.47.47:868][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/user/AppData/Local/Temp/UnrealShaderWorkingDir/2E847B444C5B4AB5678E178D88AD4F27/'.
+[2021.11.30-19.47.47:868][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.11.30-19.47.47:868][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.11.30-19.47.49:001][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.11.30-19.47.49:162][  0]LogDerivedDataCache: Loaded boot cache 0.16s 176MB C:/Users/user/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.11.30-19.47.49:162][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/user/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.11.30-19.47.49:162][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/user/Desktop/ServerPrograming/Portfolio/3EJS/HelMaClient/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.11.30-19.47.49:162][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.11.30-19.47.49:162][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/user/Desktop/ServerPrograming/Portfolio/3EJS/HelMaClient/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.11.30-19.47.49:162][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.11.30-19.47.49:186][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.11.30-19.47.49:186][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.11.30-19.47.49:186][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.11.30-19.47.49:220][  0]LogDerivedDataCache: Speed tests for C:/Users/user/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.03 seconds
+[2021.11.30-19.47.49:220][  0]LogDerivedDataCache: Display: Performance to C:/Users/user/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.11ms. RandomReadSpeed=211.07MBs, RandomWriteSpeed=34.10MBs. Assigned SpeedClass 'Local'
+[2021.11.30-19.47.49:221][  0]LogDerivedDataCache: Using Local data cache path C:/Users/user/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.11.30-19.47.49:221][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.11.30-19.47.49:221][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.11.30-19.47.49:311][  0]LogSlate: Using FreeType 2.10.0
+[2021.11.30-19.47.49:313][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.11.30-19.47.49:369][  0]LogAssetRegistry: FAssetRegistry took 0.0088 seconds to start up
+[2021.11.30-19.47.49:920][  0]LogInit: Selected Device Profile: [Windows]
+[2021.11.30-19.47.49:920][  0]LogInit: Active device profile: [00000241523EF100][0000024152F975C0 49] Windows
+[2021.11.30-19.47.49:920][  0]LogInit: Profiles: [00000241523EF100][0000024152F975C0 49] Windows, [0000024152359200][0000024152F93700 49] WindowsNoEditor, [00000241523ED300][0000024153009840 49] WindowsServer, [000002415235AA00][000002415300D980 49] WindowsClient, [00000241523EEB00][0000024153015B00 49] IOS, [0000024152359700][0000024153019C80 49] iPadAir, [00000241523ED800][000002415301C140 49] iPadAir2, [000002415220C700][0000024153024400 49] IPadPro, [000002415220C800][0000024153020440 49] iPadAir3, [00000241523EF200][00000241530285C0 49] iPadAir4, [000002415220EF00][000002415302C740 49] iPadMini2, [00000241523ED200][00000241530308C0 49] iPadMini3, [000002415220C900][0000024153034A40 49] iPadMini4, [00000241523EED00][0000024153038BC0 49] iPadMini5, [00000241521F7F00][0000024153040E80 49] iPhone6, [00000241521F7E00][000002415303CEC0 49] iPodTouch6, [000002415235BA00][0000024153049180 49] iPhone7, [000002415220F100][00000241530451C0 49] iPodTouch7, [00000241521F5500][000002415304D340 49] iPhone5S, [000002415220E000][00000241530514C0 49] iPhone6Plus, [00000241521F6800][0000024153055640 49] iPhone6S, [000002415220EA00][0000024153011780 49] iPhone6SPlus, [00000241521F5400][00000241530598C0 49] iPhone7Plus, [000002415220E900][000002415305DA00 49] iPhoneSE, [00000241521F6A00][0000024153065B80 49] iPhone8, [000002415220EE00][0000024153069D00 49] iPhone8Plus, [00000241521F7500][000002415306C1C0 49] iPhoneX, [000002415220F300][0000024153070340 49] iPhoneXS, [00000241521F7D00][00000241530744C0 49] iPhoneXSMax, [000002415220EC00][0000024153078640 49] iPhoneXR, [00000241521F5100][000002415307C7C0 49] iPhone11, [000002415220DA00][0000024153080940 49] iPhone11Pro, [00000241521F6200][0000024153084AC0 49] iPhone11ProMax, [000002415220F400][0000024153088C40 49] iPhoneSE2, [00000241521F6100][000002415308CDC0 49] iPhone12Mini, [000002415220DD00][0000024153090F40 49] iPhone12, [00000241521F6D00][00000241530950C0 49] iPhone12Pro, [000002415220E400][0000024153099240 49] iPhone12ProMax, [00000241521F5800][000002415309D3C0 49] iPadPro105, [000002415220FF00][00000241530B1540 49] iPadPro129, [00000241521F5B00][00000241530B56C0 49] iPadPro97, [000002415220D400][0000024153061800 49] iPadPro2_129, [00000241521F6F00][00000241530B9940 49] iPad5, [000002415220F800][00000241530BDA80 49] iPad6, [00000241521F4600][00000241530C5C00 49] iPad7, [000002415220E600][00000241530C80C0 49] iPad8, [00000241521F7300][00000241530CC240 49] iPadPro11, [000002415220FC00][00000241530D03C0 49] iPadPro2_11, [00000241521F7100][00000241530D4540 49] iPadPro3_129, [000002415220CF00][00000241530D86C0 49] iPadPro4_129, [00000241521F7400][00000241530DC840 49] AppleTV, [000002415220D200][00000241530E09C0 49] AppleTV4K, [00000241521F5300][00000241530E4B40 49] TVOS, [000002415220DF00][00000241530E8CC0 49] Mac, [00000241521F4900][00000241530ECE40 49] MacClient, [000002415220C100][00000241530F4FC0 49] MacNoEditor, [0000024152540300][0000024153145140 49] MacServer, [0000024152358D00][00000241531552C0 49] Linux, [0000024152541100][0000024153159440 49] LinuxAArch64, [0000024152359A00][000002415315D5C0 49] LinuxNoEditor, [0000024152541000][0000024153161740 49] LinuxAArch64NoEditor, [0000024152359300][00000241530C1880 49] LinuxClient, [0000024152540600][000002415318D9C0 49] LinuxAArch64Client, [0000024152358400][0000024153191B00 49] LinuxServer, [0000024152540D00][0000024153199C40 49] LinuxAArch64Server, [0000024152359400][00000241531A0100 49] Android, [00000241521F6C00][00000241531A4280 49] Android_Low, [0000024152359900][00000241531AC400 49] Android_Mid, [00000241521F7900][00000241531B8580 49] Android_High, [000002415235B400][00000241531BC700 49] Android_Default, [00000241521F6300][00000241531CC880 49] Android_Adreno4xx, [000002415235AE00][00000241531E2A00 49] Android_Adreno5xx_Low, [00000241521F4300][00000241531E6B80 49] Android_Adreno5xx, [0000024152359F00][00000241531EAD00 49] Android_Adreno6xx, [00000241521F4E00][00000241531EEE80 49] Android_Adreno6xx_Vulkan, [000002415235B700][00000241531F3000 49] Android_Mali_T6xx, [00000241521F6900][00000241531F7180 49] Android_Mali_T7xx, [0000024152358700][00000241531FB300 49] Android_Mali_T8xx, [00000241521F4200][00000241531FF480 49] Android_Mali_G71, [0000024152358E00][0000024153203600 49] Android_Mali_G72, [00000241521F4400][0000024153227780 49] Android_Mali_G72_Vulkan, [000002415235B300][000002415319D8C0 49] Android_Mali_G76, [00000241521F5700][000002415322BA00 49] Android_Mali_G76_Vulkan, [000002415235A500][000002415322FB40 49] Android_Mali_G77, [00000241521F6E00][0000024153233C80 49] Android_Mali_G77_Vulkan, [000002415235BE00][000002415323A140 49] Android_Vulkan_SM5, [00000241521F6400][000002415323E2C0 49] Android_PowerVR_G6xxx, [0000024152358300][000002415326E440 49] Android_PowerVR_GT7xxx, [00000241521F6500][00000241532725C0 49] Android_PowerVR_GE8xxx, [000002415235B600][0000024153276740 49] Android_PowerVR_GM9xxx, [00000241521F7700][000002415327A8C0 49] Android_PowerVR_GM9xxx_Vulkan, [0000024152358500][000002415327EA40 49] Android_TegraK1, [00000241521F4800][0000024153282BC0 49] Android_Unknown_Vulkan, [000002415235B800][0000024153286D40 49] Lumin, [00000241521F5E00][00000241532C6EC0 49] Lumin_Desktop, [000002415235BB00][00000241532CB040 49] HoloLens, 
+[2021.11.30-19.47.50:199][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.11.30-19.47.50:199][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.11.30-19.47.50:199][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.11.30-19.47.50:199][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.11.30-19.47.50:199][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.11.30-19.47.50:251][  0]LogNetVersion: UEHelMa 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 2450561976)
+[2021.11.30-19.47.51:114][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.11.30-19.47.51:321][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.206173 seconds
+[2021.11.30-19.47.51:334][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
+[2021.11.30-19.47.51:334][  0]LogUObjectAllocator: 4209728 out of 0 bytes used by permanent object pool.
+[2021.11.30-19.47.51:334][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.11.30-19.47.52:483][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.11.30-19.47.52:507][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.11.30-19.47.54:959][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2021.11.30-19.47.54:959][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2021.11.30-19.47.54:983][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2021.11.30-19.47.55:009][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2021.11.30-19.47.55:028][  0]LogUProjectInfo: Found projects:
+[2021.11.30-19.47.55:056][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2021.11.30-19.47.55:613][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.11.30-19.47.55:700][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.11.30-19.47.55:700][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.11.30-19.47.55:906][  0]LogCollectionManager: Loaded 0 collections in 0.002698 seconds
+[2021.11.30-19.47.55:986][  0]LogFileCache: Scanning file cache for directory 'C:/Users/user/Desktop/ServerPrograming/Portfolio/3EJS/HelMaClient/Saved/Collections/' took 0.00s
+[2021.11.30-19.47.55:986][  0]LogFileCache: Scanning file cache for directory 'C:/Users/user/Desktop/ServerPrograming/Portfolio/3EJS/HelMaClient/Content/Developers/user/Collections/' took 0.00s
+[2021.11.30-19.47.55:986][  0]LogFileCache: Scanning file cache for directory 'C:/Users/user/Desktop/ServerPrograming/Portfolio/3EJS/HelMaClient/Content/Collections/' took 0.00s
+[2021.11.30-19.47.55:986][  0]LogOcInput: OculusInput pre-init called
+[2021.11.30-19.47.56:022][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.11.30-19.47.56:023][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.11.30-19.47.56:141][  0]LogEngine: Initializing Engine...
+[2021.11.30-19.47.56:143][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.11.30-19.47.56:143][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.11.30-19.47.56:145][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.11.30-19.47.56:358][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.11.30-19.47.56:382][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.11.30-19.47.56:389][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.11.30-19.47.56:400][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.11.30-19.47.56:400][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.11.30-19.47.56:401][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.30-19.47.56:401][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.30-19.47.56:401][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.30-19.47.56:401][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.30-19.47.56:401][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.30-19.47.56:401][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.30-19.47.56:401][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.30-19.47.56:401][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.30-19.47.56:402][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.11.30-19.47.56:402][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.30-19.47.56:451][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.30-19.47.56:451][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.11.30-19.47.56:451][  0]LogAudioMixer: Display: 2: FrontCenter
+[2021.11.30-19.47.56:451][  0]LogAudioMixer: Display: 3: LowFrequency
+[2021.11.30-19.47.56:451][  0]LogAudioMixer: Display: 4: BackLeft
+[2021.11.30-19.47.56:451][  0]LogAudioMixer: Display: 5: BackRight
+[2021.11.30-19.47.56:451][  0]LogAudioMixer: Display: 6: SideLeft
+[2021.11.30-19.47.56:451][  0]LogAudioMixer: Display: 7: SideRight
+[2021.11.30-19.47.56:570][  0]LogAudioMixer: Display: Using Audio Device 스피커(2- Logitech G430 Gaming Headset)
+[2021.11.30-19.47.56:571][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.30-19.47.56:577][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.30-19.47.56:577][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.30-19.47.56:578][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.30-19.47.56:578][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.30-19.47.56:579][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.11.30-19.47.56:580][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.30-19.47.56:581][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.30-19.47.56:581][  0]LogInit: FAudioDevice initialized.
+[2021.11.30-19.47.56:581][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.11.30-19.47.56:581][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.11.30-19.47.56:765][  0]LogDerivedDataCache: Saved boot cache 0.18s 176MB C:/Users/user/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.11.30-19.47.56:772][  0]LogInit: Texture streaming: Enabled
+[2021.11.30-19.47.56:817][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2021.11.30-19.47.56:830][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.11.30-19.47.56:830][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.11.30-19.47.56:840][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.11.30-19.47.56:922][  0]LogInit: Transaction tracking system initialized
+[2021.11.30-19.47.57:006][  0]BlueprintLog: New page: 에디터 로드
+[2021.11.30-19.47.57:240][  0]LocalizationService: 현지화 서비스가 비활성화되었습니다.
+[2021.11.30-19.47.57:329][  0]TimingProfiler: Initialize
+[2021.11.30-19.47.57:329][  0]TimingProfiler: OnSessionChanged
+[2021.11.30-19.47.57:329][  0]LoadingProfiler: Initialize
+[2021.11.30-19.47.57:329][  0]LoadingProfiler: OnSessionChanged
+[2021.11.30-19.47.57:329][  0]NetworkingProfiler: Initialize
+[2021.11.30-19.47.57:329][  0]NetworkingProfiler: OnSessionChanged
+[2021.11.30-19.47.57:329][  0]MemoryProfiler: Initialize
+[2021.11.30-19.47.57:329][  0]MemoryProfiler: OnSessionChanged
+[2021.11.30-19.47.57:744][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.11.30-19.47.57:744][  0]LogCook: Display: Mobile HDR setting 1
+[2021.11.30-19.47.58:109][  0]LogFileCache: Scanning file cache for directory 'C:/Users/user/Desktop/ServerPrograming/Portfolio/3EJS/HelMaClient/Content/' took 0.12s
+[2021.11.30-19.47.58:624][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.11.30-19.47.58:633][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2021.11.30-19.47.58:633][  0]LogUnrealEdMisc: Loading editor; pre map load, took 17.185
+[2021.11.30-19.47.58:633][  0]Cmd: MAP LOAD FILE="../../../../../../Users/user/Desktop/ServerPrograming/Portfolio/3EJS/HelMaClient/Content/Level/Start.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.11.30-19.47.58:634][  0]LightingResults: New page: 라이팅 빌드
+[2021.11.30-19.47.58:636][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.11.30-19.47.58:636][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.30-19.47.58:636][  0]MapCheck: New page: 맵 체크
+[2021.11.30-19.47.58:636][  0]LightingResults: New page: 라이팅 빌드
+[2021.11.30-19.47.58:648][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2021.11.30-19.47.58:654][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Start'.
+[2021.11.30-19.47.58:656][  0]LogAIModule: Creating AISystem for world Start
+[2021.11.30-19.47.58:657][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.11.30-19.47.58:664][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2021.11.30-19.47.58:665][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.11.30-19.47.58:665][  0]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 0.306ms.
+[2021.11.30-19.47.58:665][  0]LogFileHelpers: Loading map 'Start' took 0.032
+[2021.11.30-19.47.58:677][  0]LogUnrealEdMisc: Total Editor Startup Time, took 17.229
+[2021.11.30-19.47.58:900][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.30-19.47.58:913][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.30-19.47.58:926][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.30-19.47.58:939][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.30-19.47.58:975][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0206 seconds. Added 3624 classes and 861 folders.
+[2021.11.30-19.47.58:983][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2021.11.30-19.47.58:987][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.11.30-19.47.58:987][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.30-19.47.58:987][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.11.30-19.47.58:987][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2021.11.30-19.47.58:989][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.11.30-19.47.58:989][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.30-19.47.58:989][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.11.30-19.47.58:990][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2021.11.30-19.47.58:992][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.11.30-19.47.58:992][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.30-19.47.58:992][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.11.30-19.47.58:992][  0]LogPakFile: OnPakFileMounted2Time == 0.000044
+[2021.11.30-19.47.58:994][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.11.30-19.47.58:994][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.30-19.47.58:994][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.11.30-19.47.58:994][  0]LogPakFile: OnPakFileMounted2Time == 0.000051
+[2021.11.30-19.47.58:996][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.11.30-19.47.58:996][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.30-19.47.58:996][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.11.30-19.47.58:996][  0]LogPakFile: OnPakFileMounted2Time == 0.000056
+[2021.11.30-19.47.58:998][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.11.30-19.47.58:998][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.30-19.47.58:998][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.11.30-19.47.58:998][  0]LogPakFile: OnPakFileMounted2Time == 0.000062
+[2021.11.30-19.47.59:001][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.11.30-19.47.59:002][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.30-19.47.59:002][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.11.30-19.47.59:002][  0]LogPakFile: OnPakFileMounted2Time == 0.000073
+[2021.11.30-19.47.59:004][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.11.30-19.47.59:004][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.30-19.47.59:004][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.11.30-19.47.59:004][  0]LogPakFile: OnPakFileMounted2Time == 0.000079
+[2021.11.30-19.47.59:007][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.11.30-19.47.59:007][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.30-19.47.59:007][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.11.30-19.47.59:007][  0]LogPakFile: OnPakFileMounted2Time == 0.000085
+[2021.11.30-19.47.59:010][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.11.30-19.47.59:010][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.30-19.47.59:010][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.11.30-19.47.59:010][  0]LogPakFile: OnPakFileMounted2Time == 0.000092
+[2021.11.30-19.47.59:013][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.11.30-19.47.59:013][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.30-19.47.59:013][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.11.30-19.47.59:013][  0]LogPakFile: OnPakFileMounted2Time == 0.000105
+[2021.11.30-19.47.59:016][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.11.30-19.47.59:016][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.30-19.47.59:016][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.11.30-19.47.59:016][  0]LogPakFile: OnPakFileMounted2Time == 0.000112
+[2021.11.30-19.47.59:018][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.11.30-19.47.59:018][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.30-19.47.59:018][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.11.30-19.47.59:018][  0]LogPakFile: OnPakFileMounted2Time == 0.000120
+[2021.11.30-19.47.59:021][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.11.30-19.47.59:021][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.30-19.47.59:021][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.11.30-19.47.59:021][  0]LogPakFile: OnPakFileMounted2Time == 0.000127
+[2021.11.30-19.47.59:024][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.11.30-19.47.59:024][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.30-19.47.59:024][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.11.30-19.47.59:024][  0]LogPakFile: OnPakFileMounted2Time == 0.000136
+[2021.11.30-19.47.59:026][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.11.30-19.47.59:026][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.30-19.47.59:026][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.11.30-19.47.59:026][  0]LogPakFile: OnPakFileMounted2Time == 0.000144
+[2021.11.30-19.47.59:029][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.11.30-19.47.59:029][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.30-19.47.59:029][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.11.30-19.47.59:029][  0]LogPakFile: OnPakFileMounted2Time == 0.000151
+[2021.11.30-19.47.59:031][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.11.30-19.47.59:031][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.30-19.47.59:031][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.11.30-19.47.59:031][  0]LogPakFile: OnPakFileMounted2Time == 0.000162
+[2021.11.30-19.47.59:034][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.11.30-19.47.59:034][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.30-19.47.59:034][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.11.30-19.47.59:034][  0]LogPakFile: OnPakFileMounted2Time == 0.000170
+[2021.11.30-19.47.59:037][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.11.30-19.47.59:037][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.30-19.47.59:037][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.11.30-19.47.59:037][  0]LogPakFile: OnPakFileMounted2Time == 0.000178
+[2021.11.30-19.47.59:039][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.11.30-19.47.59:040][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.30-19.47.59:040][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.11.30-19.47.59:040][  0]LogPakFile: OnPakFileMounted2Time == 0.000185
+[2021.11.30-19.47.59:043][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.11.30-19.47.59:043][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.30-19.47.59:043][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.11.30-19.47.59:043][  0]LogPakFile: OnPakFileMounted2Time == 0.000191
+[2021.11.30-19.47.59:046][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.11.30-19.47.59:046][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.30-19.47.59:046][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.11.30-19.47.59:046][  0]LogPakFile: OnPakFileMounted2Time == 0.000199
+[2021.11.30-19.47.59:048][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.11.30-19.47.59:048][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.30-19.47.59:048][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.11.30-19.47.59:049][  0]LogPakFile: OnPakFileMounted2Time == 0.000206
+[2021.11.30-19.47.59:051][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.11.30-19.47.59:051][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.30-19.47.59:051][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.11.30-19.47.59:051][  0]LogPakFile: OnPakFileMounted2Time == 0.000217
+[2021.11.30-19.47.59:054][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.11.30-19.47.59:054][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.30-19.47.59:054][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.11.30-19.47.59:054][  0]LogPakFile: OnPakFileMounted2Time == 0.000225
+[2021.11.30-19.47.59:206][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2021.11.30-19.47.59:234][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WorldBrowser' in 0.0006 seconds. Added 2 classes and 3 folders.
+[2021.11.30-19.47.59:245][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0008 seconds. Added 2 classes and 0 folders.
+[2021.11.30-19.47.59:490][  0]LogSlate: Took 0.000743 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.11.30-19.47.59:494][  0]LogSlate: Took 0.003469 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2021.11.30-19.47.59:501][  0]LogSlate: Took 0.005584 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicBold.ttf' (4188K)
+[2021.11.30-19.47.59:502][  0]LogSlate: Took 0.000726 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.11.30-19.47.59:509][  0]LogSlate: Took 0.000733 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.11.30-19.47.59:510][  0]LogSlate: Took 0.000710 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.11.30-19.47.59:584][  0]LogSlate: Took 0.004452 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicExtraBold.ttf' (4074K)
+[2021.11.30-19.47.59:783][  0]LogRenderer: Reallocating scene render targets to support 1232x572 Format 10 NumSamples 1 (Frame:1).
+[2021.11.30-19.47.59:987][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2021.11.30-19.47.59:987][  0]LogLoad: (Engine Initialization) Total time: 18.54 seconds
+[2021.11.30-19.47.59:987][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.11.30-19.47.59:987][  0]LogInit: First time updating LLM stats...
+[2021.11.30-19.48.00:187][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.11.30-19.48.00:289][  2]LogAssetRegistry: Asset discovery search completed in 10.9229 seconds
+[2021.11.30-19.48.00:293][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000005 seconds (updated 0 objects)
+[2021.11.30-19.48.01:722][ 74]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2021.11.30-19.48.01:732][ 74]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.30-19.48.01:733][ 74]PIE: New page: PIE 세션: Start (2021. 12. 1. 오후 1:48:01)
+[2021.11.30-19.48.01:734][ 74]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.11.30-19.48.01:736][ 74]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.11.30-19.48.01:737][ 74]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Start
+[2021.11.30-19.48.01:738][ 74]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001573s)
+[2021.11.30-19.48.01:740][ 74]LogAIModule: Creating AISystem for world Start
+[2021.11.30-19.48.01:740][ 74]LogPlayLevel: PIE: World Init took: (0.001739s)
+[2021.11.30-19.48.01:740][ 74]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Start.Start to /Game/Level/UEDPIE_0_Start.Start (0.003575s)
+[2021.11.30-19.48.01:750][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2021.11.30-19.48.01:755][ 74]LogTemp: Error: UnResManager::ResInit()
+[2021.11.30-19.48.01:767][ 74]LogTemp: Error: Res Load OK 0
+[2021.11.30-19.48.01:768][ 74]LogTemp: Error: Res Load OK 1
+[2021.11.30-19.48.01:768][ 74]LogTemp: Error: Res Load OK 2
+[2021.11.30-19.48.01:768][ 74]LogTemp: Error: Res Load 3
+[2021.11.30-19.48.01:768][ 74]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.11.30-19.48.01:768][ 74]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.30-19.48.01:768][ 74]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.30-19.48.01:768][ 74]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.30-19.48.01:768][ 74]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.30-19.48.01:768][ 74]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.30-19.48.01:768][ 74]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.30-19.48.01:768][ 74]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.30-19.48.01:768][ 74]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.30-19.48.01:768][ 74]LogAudio: Display: Using built-in audio occlusion.
+[2021.11.30-19.48.01:768][ 74]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.30-19.48.01:794][ 74]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.30-19.48.01:794][ 74]LogAudioMixer: Display: 1: FrontRight
+[2021.11.30-19.48.01:794][ 74]LogAudioMixer: Display: 2: FrontCenter
+[2021.11.30-19.48.01:794][ 74]LogAudioMixer: Display: 3: LowFrequency
+[2021.11.30-19.48.01:794][ 74]LogAudioMixer: Display: 4: BackLeft
+[2021.11.30-19.48.01:794][ 74]LogAudioMixer: Display: 5: BackRight
+[2021.11.30-19.48.01:794][ 74]LogAudioMixer: Display: 6: SideLeft
+[2021.11.30-19.48.01:794][ 74]LogAudioMixer: Display: 7: SideRight
+[2021.11.30-19.48.01:857][ 74]LogAudioMixer: Display: Using Audio Device 스피커(2- Logitech G430 Gaming Headset)
+[2021.11.30-19.48.01:857][ 74]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.30-19.48.01:857][ 74]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.30-19.48.01:857][ 74]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.30-19.48.01:858][ 74]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.30-19.48.01:858][ 74]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.30-19.48.01:858][ 74]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.11.30-19.48.01:902][ 74]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.30-19.48.01:902][ 74]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.30-19.48.01:902][ 74]LogInit: FAudioDevice initialized.
+[2021.11.30-19.48.01:902][ 74]LogAudio: Display: Audio Device (ID: 2) registered with world 'Start'.
+[2021.11.30-19.48.01:978][ 74]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.30-19.48.01:979][ 74]LogLoad: Game class is 'StartGameMode'
+[2021.11.30-19.48.01:981][ 74]LogWorld: Bringing World /Game/Level/UEDPIE_0_Start.Start up for play (max tick rate 60) at 2021.12.01-04.48.01
+[2021.11.30-19.48.01:982][ 74]LogWorld: Bringing up level for play took: 0.000849
+[2021.11.30-19.48.01:982][ 74]LogOnline: OSS: Creating online subsystem instance for: :Context_1
+[2021.11.30-19.48.01:989][ 74]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0006 seconds. Added 20 classes and 0 folders.
+[2021.11.30-19.48.01:994][ 74]LogTemp: Error: 0
+[2021.11.30-19.48.01:995][ 74]LogTemp: Error: 1
+[2021.11.30-19.48.01:995][ 74]LogTemp: Error: 2
+[2021.11.30-19.48.01:995][ 74]LogTemp: Error: 3
+[2021.11.30-19.48.01:995][ 74]LogTemp: Error: 4
+[2021.11.30-19.48.01:995][ 74]LogTemp: Error: 5
+[2021.11.30-19.48.01:995][ 74]LogTemp: Error: 6
+[2021.11.30-19.48.01:995][ 74]LogTemp: Error: 7
+[2021.11.30-19.48.01:995][ 74]LogTemp: Error: 8
+[2021.11.30-19.48.01:995][ 74]LogTemp: Error: 9
+[2021.11.30-19.48.02:001][ 74]PIE: 서버가 로그인했습니다.
+[2021.11.30-19.48.02:003][ 74]PIE: 에디터에서 플레이 총 시작 시간 0.275초입니다.
+[2021.11.30-19.48.02:136][ 75]LogRenderer: Reallocating scene render targets to support 1300x740 Format 10 NumSamples 1 (Frame:1).
+[2021.11.30-19.48.02:977][119]UEHelMa: Warning: UWidget_Start::ConnectButtonCallback{80} : ConnectButtonCallback
+[2021.11.30-19.48.02:990][120]UEHelMa: Warning: UEServerConnect::Close{227} : UnServerConnect::Close() 
+[2021.11.30-19.48.02:990][120]UEHelMa: Warning: UEServerConnect::ConnectSocketCreate{139} : Socket Init
+[2021.11.30-19.48.02:990][120]UEHelMa: Error: UEServerConnect::ConnectSocketCreate{150} : Socket Create OK
+[2021.11.30-19.48.02:990][120]UEHelMa: Warning: UEServerConnect::ConnectSocketCreate{158} : 127.0.0.1
+[2021.11.30-19.48.02:990][120]UEHelMa: Warning: UEServerConnect::Connect{182} : Server Connect Success
+[2021.11.30-19.48.09:199][477]UEHelMa: Warning: UWidget_Start::LoginButtonCallback{90} : LoginButtonCallback
+[2021.11.30-19.48.09:199][477]UEHelMa: Warning: UWidget_Start::LoginButtonCallback{111} : Is Login Packet Send ID g | PW g
+[2021.11.30-19.48.09:212][478]UEHelMa: Warning: ClientPacketFunc::LoginResultPacketProcess{49} : PacketCode:0
+[2021.11.30-19.48.09:212][478]UEHelMa: Warning: ClientPacketFunc::LoginResultPacketProcess{50} : Login OK 
+[2021.11.30-19.48.09:217][478]LogNet: Browse: /Game/Level/Select
+[2021.11.30-19.48.09:217][478]LogLoad: LoadMap: /Game/Level/Select
+[2021.11.30-19.48.09:217][478]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_Start
+[2021.11.30-19.48.09:219][478]LogWorld: UWorld::CleanupWorld for Start, bSessionEnded=true, bCleanupResources=true
+[2021.11.30-19.48.09:219][478]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.30-19.48.09:246][478]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.30-19.48.09:249][478]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2021.11.30-19.48.09:334][478]LogAudio: Display: Audio Device (ID: 2) registered with world 'Select'.
+[2021.11.30-19.48.09:336][478]LogAIModule: Creating AISystem for world Select
+[2021.11.30-19.48.09:336][478]LogLoad: Game class is 'SelectGameMode'
+[2021.11.30-19.48.09:360][478]LogWorld: Bringing World /Game/Level/UEDPIE_0_Select.Select up for play (max tick rate 60) at 2021.12.01-04.48.09
+[2021.11.30-19.48.09:361][478]LogWorld: Bringing up level for play took: 0.023561
+[2021.11.30-19.48.09:365][478]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.11.30-19.48.09:365][478]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2021.11.30-19.48.09:365][478]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2021.11.30-19.48.09:365][478]LogLoad: Took 0.148406 seconds to LoadMap(/Game/Level/Select)
+[2021.11.30-19.48.09:452][478]LogRenderer: Reallocating scene render targets to support 1920x1080 Format 10 NumSamples 1 (Frame:1).
+[2021.11.30-19.48.09:452][478]UEHelMa: Warning: UEWorldMsgFunc::SelectCreate{31} : SelectCreate!!!!!!!!!!!!!!!!!!!
+[2021.11.30-19.48.09:452][478]UEHelMa: Warning: UWidget_Select::VisibleCharacterWidgetImg0{350} : VisibleCharacterWidgetImg0
+[2021.11.30-19.48.12:830][608]UEHelMa: Warning: ClientPacketFunc::CharacterPacketProcess{56} : CharacterPacketProcess
+[2021.11.30-19.48.12:830][608]UEHelMa: Warning: ClientPacketFunc::CharacterPacketProcess{69} : KallariStart
+[2021.11.30-19.48.12:830][608]UEHelMa: Warning: ClientPacketFunc::PlayerUpdatePacketProcess{132} : PlayerUpdatePacketProcess
+[2021.11.30-19.48.12:845][608]LogNet: Browse: /Game/Level/Main
+[2021.11.30-19.48.12:846][608]LogLoad: LoadMap: /Game/Level/Main
+[2021.11.30-19.48.12:846][608]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_Select
+[2021.11.30-19.48.12:847][608]LogWorld: UWorld::CleanupWorld for Select, bSessionEnded=true, bCleanupResources=true
+[2021.11.30-19.48.12:847][608]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.30-19.48.12:853][608]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.30-19.48.12:869][608]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2021.11.30-19.48.12:994][608]LogAudio: Display: Audio Device (ID: 2) registered with world 'Main'.
+[2021.11.30-19.48.12:995][608]LogAIModule: Creating AISystem for world Main
+[2021.11.30-19.48.12:996][608]LogLoad: Game class is 'BP_HelMaGameMode_C'
+[2021.11.30-19.48.12:996][608]LogBlueprintUserMessages: [BP_HelMaGameMode_C_0] tttttttttttttttttt
+[2021.11.30-19.48.12:996][608]LogBlueprintUserMessages: [BP_HelMaGameMode_C_0] Kallari
+[2021.11.30-19.48.13:027][608]LogBlueprintUserMessages: [BP_HelMaGameMode_C_0] tttttttttttttttttt
+[2021.11.30-19.48.13:027][608]LogBlueprintUserMessages: [BP_HelMaGameMode_C_0] Kallari
+[2021.11.30-19.48.13:027][608]LogWorld: Bringing World /Game/Level/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2021.12.01-04.48.13
+[2021.11.30-19.48.13:027][608]LogWorld: Bringing up level for play took: 0.030393
+[2021.11.30-19.48.13:045][608]LogLoad: Took 0.199264 seconds to LoadMap(/Game/Level/Main)
+[2021.11.30-19.48.13:045][608]UEHelMa: Warning: UEWorldMsgFunc::PlayerCreate{148} : PlayerCreate!!!!!!!!!!!!!!!!!!!
+[2021.11.30-19.48.13:045][608]UEHelMa: Warning: UEWorldMsgFunc::PlayerCreate{157} : KallariStart
+[2021.11.30-19.48.13:046][608]UEHelMa: Warning: UECharacterManager::CharacterManagerInit{39} : 1
+[2021.11.30-19.48.13:046][608]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-19.48.13:047][608]UEHelMa: Warning: ClientPacketFunc::GameStartPacketProcess{112} : GameStartPacketProcess
+[2021.11.30-19.48.13:047][608]UEHelMa: Warning: ClientPacketFunc::PlayerUpdatePacketProcess{132} : PlayerUpdatePacketProcess
+[2021.11.30-19.48.18:769][888]LogSlate: Took 0.000619 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.11.30-19.48.29:477][427]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.30-19.48.29:477][427]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_Main
+[2021.11.30-19.48.29:477][427]LogSlate: Window 'UEHelMa 프리뷰 [NetMode: Standalone]  (64-bit/Windows)' being destroyed
+[2021.11.30-19.48.29:483][427]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2021.11.30-19.48.29:484][427]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.30-19.48.29:502][427]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.30-19.48.29:506][427]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.30-19.48.29:512][427]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.30-19.48.29:513][427]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.30-19.48.29:568][427]LogTemp: Error: UnResManager::Release()
+[2021.11.30-19.48.29:568][427]UEHelMa: Warning: UEServerConnect::Close{227} : UnServerConnect::Close() 
+[2021.11.30-19.48.29:570][427]LogTemp: Error: Recv Error false
+[2021.11.30-19.48.29:570][427]LogTemp: Error: Thread End
+[2021.11.30-19.48.29:570][427]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2021.11.30-19.48.29:647][428]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2021.11.30-19.48.33:603][637]LogSlate: Took 0.000531 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.11.30-19.48.39:689][982]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2021.11.30-19.48.39:701][982]LogSlate: Took 0.001065 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.11.30-19.48.39:745][982]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Level/Main.Main
+[2021.11.30-19.48.39:746][982]Cmd: MAP LOAD FILE="../../../../../../Users/user/Desktop/ServerPrograming/Portfolio/3EJS/HelMaClient/Content/Level/Main.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.11.30-19.48.39:746][982]LightingResults: New page: 라이팅 빌드
+[2021.11.30-19.48.39:746][982]LoadErrors: New page: 맵 로드중: Main.umap
+[2021.11.30-19.48.39:747][982]LogWorld: UWorld::CleanupWorld for Start, bSessionEnded=true, bCleanupResources=true
+[2021.11.30-19.48.39:747][982]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.30-19.48.39:749][982]MapCheck: New page: 맵 체크
+[2021.11.30-19.48.39:749][982]LightingResults: New page: 라이팅 빌드
+[2021.11.30-19.48.39:754][982]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.30-19.48.39:756][982]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2021.11.30-19.48.39:757][982]LogAudio: Display: Audio Device (ID: 1) registered with world 'Main'.
+[2021.11.30-19.48.39:917][982]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.11.30-19.48.39:917][982]LogAIModule: Creating AISystem for world Main
+[2021.11.30-19.48.39:928][982]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2021.11.30-19.48.39:937][982]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.11.30-19.48.39:937][982]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 0.371ms.
+[2021.11.30-19.48.39:937][982]LogFileHelpers: Loading map 'Main' took 0.192
+[2021.11.30-19.49.27:826][750]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2021.11.30-19.49.27:842][750]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.30-19.49.27:842][750]PIE: New page: PIE 세션: Main (2021. 12. 1. 오후 1:49:27)
+[2021.11.30-19.49.27:843][750]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Main
+[2021.11.30-19.49.27:851][750]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008638s)
+[2021.11.30-19.49.27:853][750]LogAIModule: Creating AISystem for world Main
+[2021.11.30-19.49.27:853][750]LogPlayLevel: PIE: World Init took: (0.001905s)
+[2021.11.30-19.49.27:854][750]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Main.Main to /Game/Level/UEDPIE_0_Main.Main (0.010840s)
+[2021.11.30-19.49.27:859][750]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2021.11.30-19.49.27:862][750]LogTemp: Error: UnResManager::ResInit()
+[2021.11.30-19.49.27:863][750]LogTemp: Error: Res Load OK 0
+[2021.11.30-19.49.27:863][750]LogTemp: Error: Res Load OK 1
+[2021.11.30-19.49.27:863][750]LogTemp: Error: Res Load OK 2
+[2021.11.30-19.49.27:863][750]LogTemp: Error: Res Load 3
+[2021.11.30-19.49.27:863][750]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.11.30-19.49.27:864][750]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.30-19.49.27:864][750]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.30-19.49.27:864][750]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.30-19.49.27:864][750]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.30-19.49.27:864][750]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.30-19.49.27:864][750]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.30-19.49.27:864][750]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.30-19.49.27:864][750]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.30-19.49.27:865][750]LogAudio: Display: Using built-in audio occlusion.
+[2021.11.30-19.49.27:865][750]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.30-19.49.27:892][750]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.30-19.49.27:892][750]LogAudioMixer: Display: 1: FrontRight
+[2021.11.30-19.49.27:892][750]LogAudioMixer: Display: 2: FrontCenter
+[2021.11.30-19.49.27:892][750]LogAudioMixer: Display: 3: LowFrequency
+[2021.11.30-19.49.27:892][750]LogAudioMixer: Display: 4: BackLeft
+[2021.11.30-19.49.27:892][750]LogAudioMixer: Display: 5: BackRight
+[2021.11.30-19.49.27:892][750]LogAudioMixer: Display: 6: SideLeft
+[2021.11.30-19.49.27:892][750]LogAudioMixer: Display: 7: SideRight
+[2021.11.30-19.49.27:964][750]LogAudioMixer: Display: Using Audio Device 스피커(2- Logitech G430 Gaming Headset)
+[2021.11.30-19.49.27:964][750]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.30-19.49.27:965][750]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.30-19.49.27:965][750]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.30-19.49.27:966][750]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.30-19.49.27:966][750]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.30-19.49.27:966][750]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.11.30-19.49.28:011][750]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.30-19.49.28:011][750]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.30-19.49.28:011][750]LogInit: FAudioDevice initialized.
+[2021.11.30-19.49.28:011][750]LogAudio: Display: Audio Device (ID: 3) registered with world 'Main'.
+[2021.11.30-19.49.28:086][750]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.30-19.49.28:087][750]LogLoad: Game class is 'BP_HelMaGameMode_C'
+[2021.11.30-19.49.28:087][750]LogBlueprintUserMessages: [BP_HelMaGameMode_C_0] tttttttttttttttttt
+[2021.11.30-19.49.28:119][750]LogWorld: Bringing World /Game/Level/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2021.12.01-04.49.28
+[2021.11.30-19.49.28:120][750]LogWorld: Bringing up level for play took: 0.032177
+[2021.11.30-19.49.28:121][750]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2021.11.30-19.49.28:129][750]PIE: 서버가 로그인했습니다.
+[2021.11.30-19.49.28:133][750]PIE: 에디터에서 플레이 총 시작 시간 0.296초입니다.
+[2021.11.30-19.49.29:614][829]LogSlate: Window 'UEHelMa 프리뷰 [NetMode: Standalone]  (64-bit/Windows)' being destroyed
+[2021.11.30-19.49.29:647][829]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_Main
+[2021.11.30-19.49.29:671][829]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2021.11.30-19.49.29:672][829]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.30-19.49.29:689][829]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.30-19.49.29:709][829]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.30-19.49.29:715][829]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.30-19.49.29:715][829]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.30-19.49.29:717][829]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.30-19.49.29:771][829]LogTemp: Error: UnResManager::Release()
+[2021.11.30-19.49.29:771][829]UEHelMa: Warning: UEServerConnect::Close{227} : UnServerConnect::Close() 
+[2021.11.30-19.49.29:772][829]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2021.11.30-19.49.29:866][830]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2021.11.30-19.49.30:719][875]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2021.11.30-19.49.30:730][875]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.30-19.49.30:730][875]PIE: New page: PIE 세션: Main (2021. 12. 1. 오후 1:49:30)
+[2021.11.30-19.49.30:730][875]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Main
+[2021.11.30-19.49.30:736][875]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005946s)
+[2021.11.30-19.49.30:737][875]LogAIModule: Creating AISystem for world Main
+[2021.11.30-19.49.30:738][875]LogPlayLevel: PIE: World Init took: (0.001416s)
+[2021.11.30-19.49.30:738][875]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Main.Main to /Game/Level/UEDPIE_0_Main.Main (0.007519s)
+[2021.11.30-19.49.30:742][875]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2021.11.30-19.49.30:743][875]LogTemp: Error: UnResManager::ResInit()
+[2021.11.30-19.49.30:743][875]LogTemp: Error: Res Load OK 0
+[2021.11.30-19.49.30:743][875]LogTemp: Error: Res Load OK 1
+[2021.11.30-19.49.30:743][875]LogTemp: Error: Res Load OK 2
+[2021.11.30-19.49.30:743][875]LogTemp: Error: Res Load 3
+[2021.11.30-19.49.30:743][875]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2021.11.30-19.49.30:743][875]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.30-19.49.30:743][875]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.30-19.49.30:743][875]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.30-19.49.30:743][875]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.30-19.49.30:743][875]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.30-19.49.30:743][875]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.30-19.49.30:743][875]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.30-19.49.30:743][875]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.30-19.49.30:744][875]LogAudio: Display: Using built-in audio occlusion.
+[2021.11.30-19.49.30:744][875]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.30-19.49.30:762][875]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.30-19.49.30:763][875]LogAudioMixer: Display: 1: FrontRight
+[2021.11.30-19.49.30:763][875]LogAudioMixer: Display: 2: FrontCenter
+[2021.11.30-19.49.30:763][875]LogAudioMixer: Display: 3: LowFrequency
+[2021.11.30-19.49.30:763][875]LogAudioMixer: Display: 4: BackLeft
+[2021.11.30-19.49.30:763][875]LogAudioMixer: Display: 5: BackRight
+[2021.11.30-19.49.30:763][875]LogAudioMixer: Display: 6: SideLeft
+[2021.11.30-19.49.30:763][875]LogAudioMixer: Display: 7: SideRight
+[2021.11.30-19.49.30:816][875]LogAudioMixer: Display: Using Audio Device 스피커(2- Logitech G430 Gaming Headset)
+[2021.11.30-19.49.30:817][875]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.30-19.49.30:817][875]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.30-19.49.30:817][875]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.30-19.49.30:817][875]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.30-19.49.30:817][875]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.30-19.49.30:817][875]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.11.30-19.49.30:860][875]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.30-19.49.30:860][875]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.30-19.49.30:860][875]LogInit: FAudioDevice initialized.
+[2021.11.30-19.49.30:860][875]LogAudio: Display: Audio Device (ID: 4) registered with world 'Main'.
+[2021.11.30-19.49.30:927][875]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.30-19.49.30:927][875]LogLoad: Game class is 'BP_HelMaGameMode_C'
+[2021.11.30-19.49.30:927][875]LogBlueprintUserMessages: [BP_HelMaGameMode_C_0] tttttttttttttttttt
+[2021.11.30-19.49.30:956][875]LogWorld: Bringing World /Game/Level/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2021.12.01-04.49.30
+[2021.11.30-19.49.30:956][875]LogWorld: Bringing up level for play took: 0.028456
+[2021.11.30-19.49.30:957][875]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2021.11.30-19.49.30:963][875]PIE: 서버가 로그인했습니다.
+[2021.11.30-19.49.30:966][875]PIE: 에디터에서 플레이 총 시작 시간 0.24초입니다.
+[2021.11.30-19.49.32:432][947]LogSlate: Window 'UEHelMa 프리뷰 [NetMode: Standalone]  (64-bit/Windows)' being destroyed
+[2021.11.30-19.49.32:454][947]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_Main
+[2021.11.30-19.49.32:454][947]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2021.11.30-19.49.32:455][947]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.30-19.49.32:471][947]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.30-19.49.32:495][947]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.30-19.49.32:501][947]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.30-19.49.32:501][947]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.30-19.49.32:503][947]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.30-19.49.32:552][947]LogTemp: Error: UnResManager::Release()
+[2021.11.30-19.49.32:552][947]UEHelMa: Warning: UEServerConnect::Close{227} : UnServerConnect::Close() 
+[2021.11.30-19.49.32:554][947]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2021.11.30-19.49.32:622][948]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2021.11.30-19.52.23:223][311]LogHotReload: New module detected: UE4Editor-UEHelMa-6166.dll
+[2021.11.30-19.52.24:973][339]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2021.11.30-19.52.25:036][339]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Level/Start.Start
+[2021.11.30-19.52.25:037][339]Cmd: MAP LOAD FILE="../../../../../../Users/user/Desktop/ServerPrograming/Portfolio/3EJS/HelMaClient/Content/Level/Start.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.11.30-19.52.25:037][339]LightingResults: New page: 라이팅 빌드
+[2021.11.30-19.52.25:037][339]LoadErrors: New page: 맵 로드중: Start.umap
+[2021.11.30-19.52.25:044][339]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2021.11.30-19.52.25:044][339]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.30-19.52.25:045][339]MapCheck: New page: 맵 체크
+[2021.11.30-19.52.25:045][339]LightingResults: New page: 라이팅 빌드
+[2021.11.30-19.52.25:052][339]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.30-19.52.25:058][339]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2021.11.30-19.52.25:059][339]LogAudio: Display: Audio Device (ID: 1) registered with world 'Start'.
+[2021.11.30-19.52.25:171][339]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.11.30-19.52.25:171][339]LogAIModule: Creating AISystem for world Start
+[2021.11.30-19.52.25:183][339]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2021.11.30-19.52.25:191][339]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.11.30-19.52.25:192][339]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 0.467ms.
+[2021.11.30-19.52.25:192][339]LogFileHelpers: Loading map 'Start' took 0.156
+[2021.11.30-19.52.27:996][395]LogHotReload: Starting Hot-Reload from IDE
+[2021.11.30-19.52.28:175][395]LogClass: EMonsterAnim HotReload.
+[2021.11.30-19.52.28:175][395]LogClass: EDirAnim HotReload.
+[2021.11.30-19.52.28:176][395]LogClass: ECharacterName HotReload.
+[2021.11.30-19.52.28:176][395]LogClass: EKallariAnim HotReload.
+[2021.11.30-19.52.28:176][395]LogClass: EPhaseAnim HotReload.
+[2021.11.30-19.52.28:176][395]LogClass: ESelectAnim HotReload.
+[2021.11.30-19.52.28:176][395]LogClass: EShinbiAnim HotReload.
+[2021.11.30-19.52.28:201][395]LogHotReload: Re-instancing Pawn_SelectPlayer after hot-reload.
+[2021.11.30-19.52.28:226][395]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'UEHelMa' in 0.0005 seconds. Added 23 classes and 2 folders.
+[2021.11.30-19.52.28:230][395]Display: HotReload successful (19 functions remapped  0 scriptstructs remapped)
+[2021.11.30-19.52.28:356][395]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0183 seconds. Added 3626 classes and 864 folders.
+[2021.11.30-19.52.28:440][395]Display: HotReload took  0.4s.
+[2021.11.30-19.52.55:275][959]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2021.11.30-19.52.55:291][959]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.30-19.52.55:291][959]PIE: New page: PIE 세션: Start (2021. 12. 1. 오후 1:52:55)
+[2021.11.30-19.52.55:291][959]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Start
+[2021.11.30-19.52.55:293][959]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001473s)
+[2021.11.30-19.52.55:295][959]LogAIModule: Creating AISystem for world Start
+[2021.11.30-19.52.55:296][959]LogPlayLevel: PIE: World Init took: (0.002701s)
+[2021.11.30-19.52.55:297][959]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Start.Start to /Game/Level/UEDPIE_0_Start.Start (0.005305s)
+[2021.11.30-19.52.55:304][959]LogTemp: Error: UnResManager::Release()
+[2021.11.30-19.52.55:305][959]UEHelMa: Warning: UEServerConnect::Close{227} : UnServerConnect::Close() 
+[2021.11.30-19.52.55:305][959]LogTemp: Error: UnResManager::Release()
+[2021.11.30-19.52.55:305][959]UEHelMa: Warning: UEServerConnect::Close{227} : UnServerConnect::Close() 
+[2021.11.30-19.52.55:307][959]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2021.11.30-19.52.55:309][959]LogTemp: Error: UnResManager::ResInit()
+[2021.11.30-19.52.55:310][959]LogTemp: Error: Res Load OK 0
+[2021.11.30-19.52.55:310][959]LogTemp: Error: Res Load OK 1
+[2021.11.30-19.52.55:310][959]LogTemp: Error: Res Load OK 2
+[2021.11.30-19.52.55:310][959]LogTemp: Error: Res Load 3
+[2021.11.30-19.52.55:310][959]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2021.11.30-19.52.55:310][959]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.30-19.52.55:310][959]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.30-19.52.55:311][959]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.30-19.52.55:311][959]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.30-19.52.55:311][959]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.30-19.52.55:311][959]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.30-19.52.55:311][959]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.30-19.52.55:311][959]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.30-19.52.55:312][959]LogAudio: Display: Using built-in audio occlusion.
+[2021.11.30-19.52.55:312][959]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.30-19.52.55:330][959]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.30-19.52.55:331][959]LogAudioMixer: Display: 1: FrontRight
+[2021.11.30-19.52.55:331][959]LogAudioMixer: Display: 2: FrontCenter
+[2021.11.30-19.52.55:331][959]LogAudioMixer: Display: 3: LowFrequency
+[2021.11.30-19.52.55:331][959]LogAudioMixer: Display: 4: BackLeft
+[2021.11.30-19.52.55:331][959]LogAudioMixer: Display: 5: BackRight
+[2021.11.30-19.52.55:331][959]LogAudioMixer: Display: 6: SideLeft
+[2021.11.30-19.52.55:332][959]LogAudioMixer: Display: 7: SideRight
+[2021.11.30-19.52.55:464][959]LogAudioMixer: Display: Using Audio Device 스피커(2- Logitech G430 Gaming Headset)
+[2021.11.30-19.52.55:464][959]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.30-19.52.55:465][959]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.30-19.52.55:465][959]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.30-19.52.55:466][959]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.30-19.52.55:466][959]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.30-19.52.55:466][959]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.11.30-19.52.55:513][959]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.30-19.52.55:513][959]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.30-19.52.55:513][959]LogInit: FAudioDevice initialized.
+[2021.11.30-19.52.55:513][959]LogAudio: Display: Audio Device (ID: 5) registered with world 'Start'.
+[2021.11.30-19.52.55:587][959]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.30-19.52.55:588][959]LogLoad: Game class is 'StartGameMode'
+[2021.11.30-19.52.55:590][959]LogWorld: Bringing World /Game/Level/UEDPIE_0_Start.Start up for play (max tick rate 60) at 2021.12.01-04.52.55
+[2021.11.30-19.52.55:590][959]LogWorld: Bringing up level for play took: 0.001282
+[2021.11.30-19.52.55:591][959]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2021.11.30-19.52.55:601][959]LogTemp: Error: 0
+[2021.11.30-19.52.55:602][959]LogTemp: Error: 1
+[2021.11.30-19.52.55:602][959]LogTemp: Error: 2
+[2021.11.30-19.52.55:602][959]LogTemp: Error: 3
+[2021.11.30-19.52.55:603][959]LogTemp: Error: 4
+[2021.11.30-19.52.55:603][959]LogTemp: Error: 5
+[2021.11.30-19.52.55:603][959]LogTemp: Error: 6
+[2021.11.30-19.52.55:603][959]LogTemp: Error: 7
+[2021.11.30-19.52.55:603][959]LogTemp: Error: 8
+[2021.11.30-19.52.55:603][959]LogTemp: Error: 9
+[2021.11.30-19.52.55:609][959]PIE: 서버가 로그인했습니다.
+[2021.11.30-19.52.55:614][959]PIE: 에디터에서 플레이 총 시작 시간 0.328초입니다.
+[2021.11.30-19.52.56:299][990]UEHelMa: Warning: UWidget_Start::ConnectButtonCallback{80} : ConnectButtonCallback
+[2021.11.30-19.52.56:318][991]UEHelMa: Warning: UEServerConnect::Close{227} : UnServerConnect::Close() 
+[2021.11.30-19.52.56:318][991]UEHelMa: Warning: UEServerConnect::ConnectSocketCreate{139} : Socket Init
+[2021.11.30-19.52.56:318][991]UEHelMa: Error: UEServerConnect::ConnectSocketCreate{150} : Socket Create OK
+[2021.11.30-19.52.56:318][991]UEHelMa: Warning: UEServerConnect::ConnectSocketCreate{158} : 127.0.0.1
+[2021.11.30-19.52.56:318][991]UEHelMa: Warning: UEServerConnect::Connect{182} : Server Connect Success
+[2021.11.30-19.52.57:933][ 84]UEHelMa: Warning: UWidget_Start::LoginButtonCallback{90} : LoginButtonCallback
+[2021.11.30-19.52.57:934][ 84]UEHelMa: Warning: UWidget_Start::LoginButtonCallback{111} : Is Login Packet Send ID g | PW g
+[2021.11.30-19.52.57:948][ 85]UEHelMa: Warning: ClientPacketFunc::LoginResultPacketProcess{49} : PacketCode:0
+[2021.11.30-19.52.57:948][ 85]UEHelMa: Warning: ClientPacketFunc::LoginResultPacketProcess{50} : Login OK 
+[2021.11.30-19.52.57:950][ 85]LogNet: Browse: /Game/Level/Select
+[2021.11.30-19.52.57:950][ 85]LogLoad: LoadMap: /Game/Level/Select
+[2021.11.30-19.52.57:951][ 85]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_Start
+[2021.11.30-19.52.57:954][ 85]LogWorld: UWorld::CleanupWorld for Start, bSessionEnded=true, bCleanupResources=true
+[2021.11.30-19.52.57:955][ 85]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.30-19.52.57:961][ 85]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.30-19.52.57:965][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2021.11.30-19.52.57:979][ 85]LogAudio: Display: Audio Device (ID: 5) registered with world 'Select'.
+[2021.11.30-19.52.57:980][ 85]LogAIModule: Creating AISystem for world Select
+[2021.11.30-19.52.57:981][ 85]LogLoad: Game class is 'SelectGameMode'
+[2021.11.30-19.52.58:007][ 85]LogWorld: Bringing World /Game/Level/UEDPIE_0_Select.Select up for play (max tick rate 60) at 2021.12.01-04.52.58
+[2021.11.30-19.52.58:009][ 85]LogWorld: Bringing up level for play took: 0.026107
+[2021.11.30-19.52.58:013][ 85]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.11.30-19.52.58:014][ 85]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2021.11.30-19.52.58:014][ 85]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2021.11.30-19.52.58:014][ 85]LogLoad: Took 0.063568 seconds to LoadMap(/Game/Level/Select)
+[2021.11.30-19.52.58:084][ 85]UEHelMa: Warning: UEWorldMsgFunc::SelectCreate{31} : SelectCreate!!!!!!!!!!!!!!!!!!!
+[2021.11.30-19.52.58:084][ 85]UEHelMa: Warning: UWidget_Select::VisibleCharacterWidgetImg0{350} : VisibleCharacterWidgetImg0
+[2021.11.30-19.53.01:275][207]UEHelMa: Warning: ClientPacketFunc::CharacterPacketProcess{56} : CharacterPacketProcess
+[2021.11.30-19.53.01:275][207]UEHelMa: Warning: ClientPacketFunc::CharacterPacketProcess{82} : ShinbiStart
+[2021.11.30-19.53.01:275][207]UEHelMa: Warning: ClientPacketFunc::PlayerUpdatePacketProcess{132} : PlayerUpdatePacketProcess
+[2021.11.30-19.53.01:288][207]LogNet: Browse: /Game/Level/Main
+[2021.11.30-19.53.01:288][207]LogLoad: LoadMap: /Game/Level/Main
+[2021.11.30-19.53.01:289][207]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_Select
+[2021.11.30-19.53.01:290][207]LogWorld: UWorld::CleanupWorld for Select, bSessionEnded=true, bCleanupResources=true
+[2021.11.30-19.53.01:291][207]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.30-19.53.01:299][207]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.30-19.53.01:320][207]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2021.11.30-19.53.04:862][207]LogAudio: Display: Audio Device (ID: 5) registered with world 'Main'.
+[2021.11.30-19.53.04:864][207]LogAIModule: Creating AISystem for world Main
+[2021.11.30-19.53.04:882][207]LogLoad: Game class is 'BP_HelMaGameMode_C'
+[2021.11.30-19.53.04:882][207]LogBlueprintUserMessages: [BP_HelMaGameMode_C_0] tttttttttttttttttt
+[2021.11.30-19.53.50:770][207]LogBlueprintUserMessages: [BP_HelMaGameMode_C_0] ShinbiOK
+[2021.11.30-19.53.50:800][207]LogBlueprintUserMessages: [BP_HelMaGameMode_C_0] tttttttttttttttttt
+[2021.11.30-19.53.50:801][207]LogBlueprintUserMessages: [BP_HelMaGameMode_C_0] ShinbiOK
+[2021.11.30-19.53.50:802][207]LogWorld: Bringing World /Game/Level/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2021.12.01-04.53.50
+[2021.11.30-19.53.50:803][207]LogWorld: Bringing up level for play took: 0.029802
+[2021.11.30-19.53.50:814][207]LogLoad: Took 49.526306 seconds to LoadMap(/Game/Level/Main)
+[2021.11.30-19.53.53:819][207]UEHelMa: Warning: UEWorldMsgFunc::PlayerCreate{148} : PlayerCreate!!!!!!!!!!!!!!!!!!!
+[2021.11.30-19.53.53:923][207]UEHelMa: Warning: UEWorldMsgFunc::PlayerCreate{172} : ShinbiStart
+[2021.11.30-19.53.53:923][207]UEHelMa: Warning: UECharacterManager::CharacterManagerInit{39} : 1
+[2021.11.30-19.53.53:923][207]LogTemp: Error: PlayerPacket Update Create 1976189317744
+[2021.11.30-19.53.53:924][207]UEHelMa: Warning: ClientPacketFunc::GameStartPacketProcess{112} : GameStartPacketProcess
+[2021.11.30-19.53.53:924][207]UEHelMa: Warning: ClientPacketFunc::PlayerUpdatePacketProcess{132} : PlayerUpdatePacketProcess
+[2021.11.30-19.53.53:924][207]UEHelMa: Warning: AOtherPlayer::CharacterName{223} : TestCharacterName
+[2021.11.30-19.53.53:938][207]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.54:000][208]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.54:036][209]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.54:059][210]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.54:078][211]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.54:096][212]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.54:118][213]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.54:137][214]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.54:157][215]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.54:175][216]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.54:192][217]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.54:209][218]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.54:228][219]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.54:246][220]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.54:264][221]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.54:281][222]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.54:298][223]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.54:314][224]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.54:332][225]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.54:349][226]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.54:367][227]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.54:404][228]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.54:423][229]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.54:441][230]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.54:459][231]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.54:476][232]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.54:494][233]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.54:513][234]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.54:531][235]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.54:549][236]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.54:567][237]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.54:584][238]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.54:602][239]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.54:620][240]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.54:639][241]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.54:656][242]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.54:675][243]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.54:692][244]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.54:711][245]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.54:730][246]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.54:750][247]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.54:770][248]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.54:788][249]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.54:806][250]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.54:824][251]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.54:841][252]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.54:858][253]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.54:875][254]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.54:892][255]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.54:910][256]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.54:927][257]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.54:945][258]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.54:963][259]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.54:983][260]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.55:003][261]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.55:023][262]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.55:040][263]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.55:060][264]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.55:080][265]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.55:099][266]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.55:116][267]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.55:133][268]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.55:150][269]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.55:169][270]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.55:187][271]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.55:204][272]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.55:221][273]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.55:238][274]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.55:258][275]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.55:275][276]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.55:292][277]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.55:310][278]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.55:331][279]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.55:354][280]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.55:373][281]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.55:393][282]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.55:412][283]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.55:428][284]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.55:449][285]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.55:467][286]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.55:488][287]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.55:509][288]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.55:528][289]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.55:547][290]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.55:564][291]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.55:586][292]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.55:607][293]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.55:630][294]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.55:649][295]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.55:666][296]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.55:684][297]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.55:702][298]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.55:719][299]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.55:735][300]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.55:752][301]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.55:770][302]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.55:786][303]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.55:803][304]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.55:819][305]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.55:838][306]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.55:856][307]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.55:874][308]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.55:893][309]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.55:909][310]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.55:928][311]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.55:946][312]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.55:965][313]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.55:983][314]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.56:000][315]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.56:018][316]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.56:039][317]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.56:060][318]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.56:078][319]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.56:095][320]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.56:112][321]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.56:130][322]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.56:146][323]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.56:164][324]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.56:182][325]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.56:199][326]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.56:215][327]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.56:234][328]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.56:252][329]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.56:269][330]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.56:284][331]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.56:302][332]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.56:318][333]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.56:334][334]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.56:351][335]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.56:368][336]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.56:384][337]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.56:401][338]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.56:418][339]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.56:435][340]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.56:452][341]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.56:470][342]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.56:488][343]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.56:506][344]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.56:523][345]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.56:542][346]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.56:560][347]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.56:577][348]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.56:596][349]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.56:614][350]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.56:632][351]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.56:652][352]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.56:668][353]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.56:685][354]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.56:702][355]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.56:718][356]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.56:735][357]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.56:751][358]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.56:768][359]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.56:785][360]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.56:801][361]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.56:818][362]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.56:835][363]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.56:851][364]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.56:868][365]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.56:885][366]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.56:901][367]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.56:918][368]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.56:935][369]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.56:951][370]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.56:968][371]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.56:990][372]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.57:007][373]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.57:024][374]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.57:044][375]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.57:063][376]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.57:080][377]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.57:096][378]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.57:114][379]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.57:131][380]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.57:148][381]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.57:165][382]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.57:183][383]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.57:200][384]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.57:222][385]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.57:245][386]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.57:268][387]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.57:290][388]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.57:314][389]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.57:340][390]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.57:361][391]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.57:386][392]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.57:411][393]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.57:435][394]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.57:464][395]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.57:487][396]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.57:507][397]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.57:525][398]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.57:544][399]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.57:564][400]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.57:583][401]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.57:602][402]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.57:624][403]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.57:644][404]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.57:663][405]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.57:687][406]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.57:716][407]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.57:740][408]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.57:769][409]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.57:794][410]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.57:817][411]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.57:842][412]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.57:874][413]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.57:896][414]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.57:931][415]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.57:965][416]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.57:990][417]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.58:019][418]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.58:042][419]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.58:068][420]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.58:097][421]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.58:126][422]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.58:157][423]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.58:179][424]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.58:203][425]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.58:230][426]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.58:255][427]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.58:274][428]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.58:295][429]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.58:315][430]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.58:338][431]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.58:363][432]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.58:383][433]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.58:406][434]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.58:425][435]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.58:447][436]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.58:470][437]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.58:493][438]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.58:513][439]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.58:535][440]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.58:562][441]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.58:589][442]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.58:611][443]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.58:637][444]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.58:659][445]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.58:684][446]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.58:706][447]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.58:729][448]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.58:750][449]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.58:773][450]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.58:796][451]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.58:816][452]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.58:837][453]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.58:856][454]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.58:877][455]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.58:897][456]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.58:917][457]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.58:937][458]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.58:960][459]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.58:980][460]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.59:005][461]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.59:028][462]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.59:052][463]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.59:080][464]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.59:106][465]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.59:128][466]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.59:150][467]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.59:172][468]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.59:193][469]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.59:213][470]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.59:231][471]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.59:250][472]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.59:267][473]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.59:285][474]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.59:303][475]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.59:319][476]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.59:338][477]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.59:356][478]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.59:377][479]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.59:400][480]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.59:420][481]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.59:438][482]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.59:459][483]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.59:478][484]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.59:497][485]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.59:515][486]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.59:534][487]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.59:553][488]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.59:572][489]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.59:593][490]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.59:616][491]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.59:639][492]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.59:661][493]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.59:682][494]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.59:693][495]UEHelMa: Warning: ClientPacketFunc::PlayerUpdatePacketProcess{132} : PlayerUpdatePacketProcess
+[2021.11.30-19.53.59:702][495]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.59:724][496]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.59:748][497]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.59:772][498]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.59:795][499]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.59:819][500]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.59:841][501]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.59:864][502]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.59:887][503]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.59:910][504]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.59:934][505]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.59:958][506]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.53.59:980][507]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.00:002][508]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.00:024][509]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.00:044][510]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.00:064][511]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.00:084][512]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.00:102][513]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.00:121][514]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.00:138][515]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.00:157][516]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.00:173][517]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.00:190][518]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.00:207][519]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.00:225][520]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.00:244][521]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.00:263][522]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.00:282][523]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.00:299][524]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.00:316][525]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.00:334][526]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.00:352][527]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.00:369][528]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.00:386][529]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.00:403][530]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.00:420][531]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.00:436][532]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.00:454][533]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.00:471][534]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.00:489][535]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.00:508][536]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.00:526][537]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.00:543][538]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.00:563][539]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.00:579][540]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.00:598][541]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.00:616][542]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.00:633][543]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.00:652][544]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.00:670][545]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.00:688][546]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.00:704][547]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.00:720][548]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.00:737][549]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.00:754][550]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.00:770][551]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.00:787][552]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.00:805][553]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.00:826][554]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.00:852][555]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.00:874][556]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.00:898][557]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.00:920][558]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.00:939][559]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.00:959][560]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.00:980][561]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.01:001][562]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.01:023][563]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.01:048][564]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.01:076][565]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.01:101][566]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.01:126][567]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.01:150][568]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.01:172][569]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.01:196][570]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.01:219][571]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.01:244][572]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.01:267][573]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.01:292][574]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.01:313][575]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.01:337][576]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.01:354][577]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.01:374][578]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.01:393][579]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.01:412][580]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.01:432][581]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.01:450][582]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.01:470][583]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.01:490][584]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.01:508][585]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.01:525][586]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.01:542][587]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.01:562][588]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.01:583][589]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.01:601][590]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.01:619][591]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.01:638][592]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.01:659][593]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.01:679][594]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.01:695][595]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.01:712][596]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.01:729][597]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.01:746][598]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.01:764][599]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.01:782][600]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.01:800][601]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.01:818][602]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.01:839][603]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.01:856][604]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.01:874][605]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.01:900][606]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.01:915][607]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.01:930][608]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.01:950][609]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.01:968][610]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.01:984][611]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.02:002][612]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.02:024][613]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.02:038][614]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.02:055][615]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.02:072][616]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.02:094][617]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.02:111][618]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.02:127][619]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.02:145][620]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.02:170][621]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.02:182][622]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.02:198][623]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.02:215][624]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.02:232][625]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.02:248][626]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.02:265][627]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.02:288][628]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.02:305][629]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.02:321][630]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.02:337][631]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.02:354][632]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.02:370][633]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.02:387][634]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.02:404][635]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.02:420][636]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.02:437][637]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.02:454][638]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.02:472][639]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.02:490][640]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.02:506][641]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.02:521][642]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.02:536][643]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.02:554][644]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.02:572][645]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.02:586][646]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.02:603][647]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.02:622][648]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.02:637][649]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.02:654][650]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.02:672][651]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.02:688][652]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.02:705][653]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.02:724][654]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.02:740][655]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.02:754][656]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.02:772][657]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.02:787][658]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.02:805][659]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.02:821][660]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.02:838][661]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.02:855][662]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.02:872][663]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.02:888][664]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.02:905][665]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.02:922][666]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.02:938][667]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.02:955][668]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.02:971][669]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.02:987][670]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.03:003][671]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.03:022][672]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.03:045][673]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.03:057][674]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.03:076][675]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.03:091][676]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.03:109][677]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.03:122][678]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.03:141][679]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.03:160][680]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.03:175][681]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.03:193][682]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.03:210][683]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.03:226][684]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.03:243][685]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.03:259][686]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.03:276][687]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.03:292][688]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.03:310][689]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.03:324][690]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.03:342][691]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.03:357][692]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.03:373][693]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.03:390][694]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.03:408][695]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.03:427][696]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.03:445][697]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.03:458][698]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.03:476][699]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.03:492][700]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.03:512][701]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.03:528][702]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.03:544][703]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.03:559][704]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.03:577][705]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.03:594][706]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.03:621][707]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.03:632][708]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.03:648][709]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.03:665][710]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.03:681][711]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.03:698][712]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.03:715][713]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.03:731][714]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.03:748][715]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.03:767][716]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.03:782][717]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.03:799][718]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.03:815][719]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.03:834][720]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.03:848][721]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.03:865][722]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.03:882][723]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.03:901][724]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.03:914][725]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.03:931][726]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.03:948][727]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.03:965][728]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.03:982][729]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.03:997][730]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.04:015][731]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.04:031][732]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.04:047][733]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.04:064][734]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.04:081][735]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.04:098][736]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.04:114][737]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.04:131][738]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.04:147][739]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.04:164][740]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.04:181][741]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.04:197][742]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.04:214][743]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.04:231][744]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.04:248][745]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.04:265][746]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.04:282][747]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.04:298][748]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.04:315][749]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.04:334][750]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.04:351][751]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.04:367][752]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.04:384][753]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.04:400][754]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.04:417][755]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.04:434][756]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.04:451][757]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.04:467][758]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.04:484][759]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.04:500][760]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.04:517][761]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.04:534][762]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.04:550][763]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.04:567][764]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.04:584][765]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.04:601][766]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.04:618][767]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.04:633][768]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.04:651][769]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.04:667][770]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.04:684][771]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.04:700][772]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.04:717][773]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.04:733][774]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.04:750][775]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.04:767][776]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.04:789][777]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.04:805][778]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.04:819][779]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.04:835][780]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.04:853][781]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.04:868][782]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.04:885][783]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.04:901][784]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.04:917][785]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.04:934][786]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.04:950][787]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.04:967][788]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.04:984][789]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.05:000][790]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.05:017][791]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.05:034][792]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.05:050][793]UEHelMa: Warning: ACharacter_Shinbi::ServerUpdate{67} : ShinbiUpdate
+[2021.11.30-19.54.05:067][794]LogSlate: Window 'UEHelMa 프리뷰 [NetMode: Standalone]  (64-bit/Windows)' being destroyed
+[2021.11.30-19.54.05:099][794]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_Main
+[2021.11.30-19.54.05:099][794]LogTemp: Error: Player Death
+[2021.11.30-19.54.05:099][794]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2021.11.30-19.54.05:100][794]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.30-19.54.05:117][794]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.30-19.54.05:122][794]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.30-19.54.05:129][794]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.30-19.54.05:131][794]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.30-19.54.05:180][794]LogTemp: Error: UnResManager::Release()
+[2021.11.30-19.54.05:180][794]UEHelMa: Warning: UEServerConnect::Close{227} : UnServerConnect::Close() 
+[2021.11.30-19.54.05:183][794]LogTemp: Error: Recv Error false
+[2021.11.30-19.54.05:183][794]LogTemp: Error: Thread End
+[2021.11.30-19.54.05:183][794]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2021.11.30-19.54.05:238][795]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2021.11.30-19.55.20:287][275]LogHotReload: New module detected: UE4Editor-UEHelMa-0053.dll
+[2021.11.30-19.55.23:182][342]LogHotReload: Starting Hot-Reload from IDE
+[2021.11.30-19.55.23:345][342]LogClass: EMonsterAnim HotReload.
+[2021.11.30-19.55.23:345][342]LogClass: EDirAnim HotReload.
+[2021.11.30-19.55.23:345][342]LogClass: ECharacterName HotReload.
+[2021.11.30-19.55.23:345][342]LogClass: EKallariAnim HotReload.
+[2021.11.30-19.55.23:345][342]LogClass: EPhaseAnim HotReload.
+[2021.11.30-19.55.23:346][342]LogClass: ESelectAnim HotReload.
+[2021.11.30-19.55.23:346][342]LogClass: EShinbiAnim HotReload.
+[2021.11.30-19.55.23:376][342]LogHotReload: Re-instancing Pawn_SelectPlayer after hot-reload.
+[2021.11.30-19.55.23:398][342]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'UEHelMa' in 0.0005 seconds. Added 23 classes and 2 folders.
+[2021.11.30-19.55.23:401][342]Display: HotReload successful (19 functions remapped  0 scriptstructs remapped)
+[2021.11.30-19.55.23:444][342]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0156 seconds. Added 3626 classes and 864 folders.
+[2021.11.30-19.55.23:458][342]Display: HotReload took  0.3s.
+[2021.11.30-19.55.26:853][525]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2021.11.30-19.55.26:862][525]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.30-19.55.26:862][525]PIE: New page: PIE 세션: Start (2021. 12. 1. 오후 1:55:26)
+[2021.11.30-19.55.26:862][525]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Start
+[2021.11.30-19.55.26:863][525]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000796s)
+[2021.11.30-19.55.26:864][525]LogAIModule: Creating AISystem for world Start
+[2021.11.30-19.55.26:864][525]LogPlayLevel: PIE: World Init took: (0.001106s)
+[2021.11.30-19.55.26:864][525]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Start.Start to /Game/Level/UEDPIE_0_Start.Start (0.002025s)
+[2021.11.30-19.55.26:869][525]LogTemp: Error: UnResManager::Release()
+[2021.11.30-19.55.26:869][525]UEHelMa: Warning: UEServerConnect::Close{227} : UnServerConnect::Close() 
+[2021.11.30-19.55.26:869][525]LogTemp: Error: UnResManager::Release()
+[2021.11.30-19.55.26:869][525]UEHelMa: Warning: UEServerConnect::Close{227} : UnServerConnect::Close() 
+[2021.11.30-19.55.26:871][525]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2021.11.30-19.55.26:872][525]LogTemp: Error: UnResManager::ResInit()
+[2021.11.30-19.55.26:872][525]LogTemp: Error: Res Load OK 0
+[2021.11.30-19.55.26:872][525]LogTemp: Error: Res Load OK 1
+[2021.11.30-19.55.26:872][525]LogTemp: Error: Res Load OK 2
+[2021.11.30-19.55.26:872][525]LogTemp: Error: Res Load 3
+[2021.11.30-19.55.26:872][525]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2021.11.30-19.55.26:872][525]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.30-19.55.26:872][525]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.30-19.55.26:872][525]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.30-19.55.26:872][525]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.30-19.55.26:872][525]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.30-19.55.26:872][525]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.30-19.55.26:872][525]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.30-19.55.26:872][525]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.30-19.55.26:873][525]LogAudio: Display: Using built-in audio occlusion.
+[2021.11.30-19.55.26:873][525]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.30-19.55.26:889][525]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.30-19.55.26:889][525]LogAudioMixer: Display: 1: FrontRight
+[2021.11.30-19.55.26:889][525]LogAudioMixer: Display: 2: FrontCenter
+[2021.11.30-19.55.26:889][525]LogAudioMixer: Display: 3: LowFrequency
+[2021.11.30-19.55.26:889][525]LogAudioMixer: Display: 4: BackLeft
+[2021.11.30-19.55.26:889][525]LogAudioMixer: Display: 5: BackRight
+[2021.11.30-19.55.26:889][525]LogAudioMixer: Display: 6: SideLeft
+[2021.11.30-19.55.26:889][525]LogAudioMixer: Display: 7: SideRight
+[2021.11.30-19.55.26:933][525]LogAudioMixer: Display: Using Audio Device 스피커(2- Logitech G430 Gaming Headset)
+[2021.11.30-19.55.26:933][525]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.30-19.55.26:933][525]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.30-19.55.26:933][525]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.30-19.55.26:934][525]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.30-19.55.26:934][525]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.30-19.55.26:934][525]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.11.30-19.55.26:965][525]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.30-19.55.26:965][525]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.30-19.55.26:965][525]LogInit: FAudioDevice initialized.
+[2021.11.30-19.55.26:965][525]LogAudio: Display: Audio Device (ID: 6) registered with world 'Start'.
+[2021.11.30-19.55.27:030][525]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.30-19.55.27:031][525]LogLoad: Game class is 'StartGameMode'
+[2021.11.30-19.55.27:032][525]LogWorld: Bringing World /Game/Level/UEDPIE_0_Start.Start up for play (max tick rate 60) at 2021.12.01-04.55.27
+[2021.11.30-19.55.27:032][525]LogWorld: Bringing up level for play took: 0.000859
+[2021.11.30-19.55.27:033][525]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2021.11.30-19.55.27:038][525]LogTemp: Error: 0
+[2021.11.30-19.55.27:038][525]LogTemp: Error: 1
+[2021.11.30-19.55.27:038][525]LogTemp: Error: 2
+[2021.11.30-19.55.27:038][525]LogTemp: Error: 3
+[2021.11.30-19.55.27:038][525]LogTemp: Error: 4
+[2021.11.30-19.55.27:038][525]LogTemp: Error: 5
+[2021.11.30-19.55.27:038][525]LogTemp: Error: 6
+[2021.11.30-19.55.27:038][525]LogTemp: Error: 7
+[2021.11.30-19.55.27:038][525]LogTemp: Error: 8
+[2021.11.30-19.55.27:038][525]LogTemp: Error: 9
+[2021.11.30-19.55.27:041][525]PIE: 서버가 로그인했습니다.
+[2021.11.30-19.55.27:045][525]PIE: 에디터에서 플레이 총 시작 시간 0.186초입니다.
+[2021.11.30-19.55.27:773][560]UEHelMa: Warning: UWidget_Start::ConnectButtonCallback{80} : ConnectButtonCallback
+[2021.11.30-19.55.27:783][561]UEHelMa: Warning: UEServerConnect::Close{227} : UnServerConnect::Close() 
+[2021.11.30-19.55.27:783][561]UEHelMa: Warning: UEServerConnect::ConnectSocketCreate{139} : Socket Init
+[2021.11.30-19.55.27:783][561]UEHelMa: Error: UEServerConnect::ConnectSocketCreate{150} : Socket Create OK
+[2021.11.30-19.55.27:783][561]UEHelMa: Warning: UEServerConnect::ConnectSocketCreate{158} : 127.0.0.1
+[2021.11.30-19.55.27:783][561]UEHelMa: Warning: UEServerConnect::Connect{182} : Server Connect Success
+[2021.11.30-19.55.29:507][664]UEHelMa: Warning: UWidget_Start::LoginButtonCallback{90} : LoginButtonCallback
+[2021.11.30-19.55.29:507][664]UEHelMa: Warning: UWidget_Start::LoginButtonCallback{111} : Is Login Packet Send ID g | PW g
+[2021.11.30-19.55.29:515][665]UEHelMa: Warning: ClientPacketFunc::LoginResultPacketProcess{49} : PacketCode:0
+[2021.11.30-19.55.29:516][665]UEHelMa: Warning: ClientPacketFunc::LoginResultPacketProcess{50} : Login OK 
+[2021.11.30-19.55.29:524][665]LogNet: Browse: /Game/Level/Select
+[2021.11.30-19.55.29:524][665]LogLoad: LoadMap: /Game/Level/Select
+[2021.11.30-19.55.29:524][665]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_Start
+[2021.11.30-19.55.29:525][665]LogWorld: UWorld::CleanupWorld for Start, bSessionEnded=true, bCleanupResources=true
+[2021.11.30-19.55.29:525][665]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.30-19.55.29:528][665]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.30-19.55.29:531][665]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2021.11.30-19.55.29:540][665]LogAudio: Display: Audio Device (ID: 6) registered with world 'Select'.
+[2021.11.30-19.55.29:541][665]LogAIModule: Creating AISystem for world Select
+[2021.11.30-19.55.29:541][665]LogLoad: Game class is 'SelectGameMode'
+[2021.11.30-19.55.29:560][665]LogWorld: Bringing World /Game/Level/UEDPIE_0_Select.Select up for play (max tick rate 60) at 2021.12.01-04.55.29
+[2021.11.30-19.55.29:560][665]LogWorld: Bringing up level for play took: 0.018332
+[2021.11.30-19.55.29:563][665]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.11.30-19.55.29:563][665]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2021.11.30-19.55.29:563][665]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2021.11.30-19.55.29:563][665]LogLoad: Took 0.038846 seconds to LoadMap(/Game/Level/Select)
+[2021.11.30-19.55.29:607][665]UEHelMa: Warning: UEWorldMsgFunc::SelectCreate{31} : SelectCreate!!!!!!!!!!!!!!!!!!!
+[2021.11.30-19.55.29:607][665]UEHelMa: Warning: UWidget_Select::VisibleCharacterWidgetImg0{350} : VisibleCharacterWidgetImg0
+[2021.11.30-19.55.34:609][846]UEHelMa: Warning: ClientPacketFunc::CharacterPacketProcess{56} : CharacterPacketProcess
+[2021.11.30-19.55.34:609][846]UEHelMa: Warning: ClientPacketFunc::CharacterPacketProcess{69} : KallariStart
+[2021.11.30-19.55.34:609][846]UEHelMa: Warning: ClientPacketFunc::PlayerUpdatePacketProcess{132} : PlayerUpdatePacketProcess
+[2021.11.30-19.55.34:630][846]UEHelMa: Warning: UEWorldMsgFunc::PlayerCreate{148} : PlayerCreate!!!!!!!!!!!!!!!!!!!
+[2021.11.30-19.55.34:630][846]UEHelMa: Warning: UEWorldMsgFunc::PlayerCreate{157} : KallariStart

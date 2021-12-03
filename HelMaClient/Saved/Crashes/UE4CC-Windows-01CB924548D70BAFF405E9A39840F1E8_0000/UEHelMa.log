@@ -1,0 +1,2019 @@
+﻿Log file open, 12/01/21 00:56:48
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: UEHelMa
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.314758
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: AMD Ryzen 9 4900H with Radeon Graphics         , GPU: AMD Radeon(TM) Graphics
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/user/Desktop/ServerPrograming/Portfolio/3EJS/HelMaClient/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.11.30-15.56.49:072][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.11.30-15.56.49:072][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.11.30-15.56.49:072][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/user/Desktop/ServerPrograming/Portfolio/3EJS/HelMaClient/Saved/Config/Windows/Engine.ini]
+[2021.11.30-15.56.49:072][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.11.30-15.56.49:072][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/user/Desktop/ServerPrograming/Portfolio/3EJS/HelMaClient/Saved/Config/Windows/Engine.ini]
+[2021.11.30-15.56.49:072][  0]LogConfig: Setting CVar [[r.SupportAllShaderPermutations:0]]
+[2021.11.30-15.56.49:072][  0]LogConfig: Setting CVar [[r.SkinCache.ForceRecomputeTangents:0]]
+[2021.11.30-15.56.49:072][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/user/Desktop/ServerPrograming/Portfolio/3EJS/HelMaClient/Saved/Config/Windows/Engine.ini]
+[2021.11.30-15.56.49:072][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.11.30-15.56.49:072][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.11.30-15.56.49:072][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.11.30-15.56.49:072][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.11.30-15.56.49:072][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.11.30-15.56.49:072][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.11.30-15.56.49:072][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.11.30-15.56.49:072][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.11.30-15.56.49:072][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.11.30-15.56.49:072][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.11.30-15.56.49:072][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.11.30-15.56.49:072][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.11.30-15.56.49:072][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.11.30-15.56.49:072][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.11.30-15.56.49:072][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/user/Desktop/ServerPrograming/Portfolio/3EJS/HelMaClient/Saved/Config/Windows/Engine.ini]
+[2021.11.30-15.56.49:072][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.11.30-15.56.49:072][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.11.30-15.56.49:072][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.11.30-15.56.49:072][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.11.30-15.56.49:072][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.11.30-15.56.49:072][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.11.30-15.56.49:072][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.11.30-15.56.49:072][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.11.30-15.56.49:072][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.11.30-15.56.49:072][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.11.30-15.56.49:072][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.11.30-15.56.49:072][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.11.30-15.56.49:072][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.11.30-15.56.49:072][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.11.30-15.56.49:072][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/user/Desktop/ServerPrograming/Portfolio/3EJS/HelMaClient/Saved/Config/Windows/Engine.ini]
+[2021.11.30-15.56.49:072][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/user/Desktop/ServerPrograming/Portfolio/3EJS/HelMaClient/Saved/Config/Windows/Engine.ini]
+[2021.11.30-15.56.49:114][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/user/Desktop/ServerPrograming/Portfolio/3EJS/HelMaClient/Saved/Config/Windows/Scalability.ini]
+[2021.11.30-15.56.49:114][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.11.30-15.56.49:114][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.11.30-15.56.49:114][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/user/Desktop/ServerPrograming/Portfolio/3EJS/HelMaClient/Saved/Config/Windows/Scalability.ini]
+[2021.11.30-15.56.49:114][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.11.30-15.56.49:114][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/user/Desktop/ServerPrograming/Portfolio/3EJS/HelMaClient/Saved/Config/Windows/Scalability.ini]
+[2021.11.30-15.56.49:114][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.11.30-15.56.49:114][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.11.30-15.56.49:114][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.11.30-15.56.49:114][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.11.30-15.56.49:114][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.11.30-15.56.49:114][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.11.30-15.56.49:114][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.11.30-15.56.49:114][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.11.30-15.56.49:114][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.11.30-15.56.49:114][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.11.30-15.56.49:114][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.11.30-15.56.49:114][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.11.30-15.56.49:114][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.11.30-15.56.49:114][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.11.30-15.56.49:114][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.11.30-15.56.49:114][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.11.30-15.56.49:114][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.11.30-15.56.49:114][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.11.30-15.56.49:114][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/user/Desktop/ServerPrograming/Portfolio/3EJS/HelMaClient/Saved/Config/Windows/Scalability.ini]
+[2021.11.30-15.56.49:114][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.11.30-15.56.49:114][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.11.30-15.56.49:114][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.11.30-15.56.49:114][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.11.30-15.56.49:114][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.11.30-15.56.49:114][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.11.30-15.56.49:114][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.11.30-15.56.49:114][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.11.30-15.56.49:114][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.11.30-15.56.49:115][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.11.30-15.56.49:115][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.11.30-15.56.49:115][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.11.30-15.56.49:115][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.11.30-15.56.49:115][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.11.30-15.56.49:115][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.11.30-15.56.49:115][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.11.30-15.56.49:115][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.11.30-15.56.49:115][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.11.30-15.56.49:115][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.11.30-15.56.49:115][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.11.30-15.56.49:115][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.11.30-15.56.49:115][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.11.30-15.56.49:115][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.11.30-15.56.49:115][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.11.30-15.56.49:115][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.11.30-15.56.49:115][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.11.30-15.56.49:115][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.11.30-15.56.49:115][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.11.30-15.56.49:115][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.11.30-15.56.49:115][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.11.30-15.56.49:115][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/user/Desktop/ServerPrograming/Portfolio/3EJS/HelMaClient/Saved/Config/Windows/Scalability.ini]
+[2021.11.30-15.56.49:115][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.11.30-15.56.49:115][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.11.30-15.56.49:115][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.11.30-15.56.49:115][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.11.30-15.56.49:115][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.11.30-15.56.49:115][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.11.30-15.56.49:115][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.11.30-15.56.49:115][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.11.30-15.56.49:115][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.11.30-15.56.49:115][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/user/Desktop/ServerPrograming/Portfolio/3EJS/HelMaClient/Saved/Config/Windows/Scalability.ini]
+[2021.11.30-15.56.49:115][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.11.30-15.56.49:115][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.11.30-15.56.49:115][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.11.30-15.56.49:115][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.11.30-15.56.49:115][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.11.30-15.56.49:115][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.11.30-15.56.49:115][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.11.30-15.56.49:115][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.11.30-15.56.49:115][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.11.30-15.56.49:115][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.11.30-15.56.49:115][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.11.30-15.56.49:115][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.11.30-15.56.49:115][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.11.30-15.56.49:115][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.11.30-15.56.49:115][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.11.30-15.56.49:115][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.11.30-15.56.49:115][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.11.30-15.56.49:115][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.11.30-15.56.49:115][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.11.30-15.56.49:115][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.11.30-15.56.49:115][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.11.30-15.56.49:115][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.11.30-15.56.49:115][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.11.30-15.56.49:115][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.11.30-15.56.49:115][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.11.30-15.56.49:115][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.11.30-15.56.49:115][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.11.30-15.56.49:115][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/user/Desktop/ServerPrograming/Portfolio/3EJS/HelMaClient/Saved/Config/Windows/Scalability.ini]
+[2021.11.30-15.56.49:115][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.11.30-15.56.49:115][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.11.30-15.56.49:115][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/user/Desktop/ServerPrograming/Portfolio/3EJS/HelMaClient/Saved/Config/Windows/Scalability.ini]
+[2021.11.30-15.56.49:115][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.11.30-15.56.49:115][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.11.30-15.56.49:115][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.11.30-15.56.49:115][  0]LogInit: Selected Device Profile: [Windows]
+[2021.11.30-15.56.49:115][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.11.30-15.56.49:115][  0]LogHAL: Display: Platform has ~ 32 GB [33736564736 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.11.30-15.56.49:115][  0]LogInit: Going up to parent DeviceProfile []
+[2021.11.30-15.56.49:115][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/user/Desktop/ServerPrograming/Portfolio/3EJS/HelMaClient/Saved/Config/Windows/Scalability.ini]
+[2021.11.30-15.56.49:115][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.11.30-15.56.49:115][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.11.30-15.56.49:115][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/user/Desktop/ServerPrograming/Portfolio/3EJS/HelMaClient/Saved/Config/Windows/Scalability.ini]
+[2021.11.30-15.56.49:115][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.11.30-15.56.49:115][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/user/Desktop/ServerPrograming/Portfolio/3EJS/HelMaClient/Saved/Config/Windows/Scalability.ini]
+[2021.11.30-15.56.49:115][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.11.30-15.56.49:115][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.11.30-15.56.49:115][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.11.30-15.56.49:115][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.11.30-15.56.49:115][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.11.30-15.56.49:115][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.11.30-15.56.49:115][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.11.30-15.56.49:115][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.11.30-15.56.49:115][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.11.30-15.56.49:115][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.11.30-15.56.49:115][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.11.30-15.56.49:115][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.11.30-15.56.49:115][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.11.30-15.56.49:115][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.11.30-15.56.49:116][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.11.30-15.56.49:116][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.11.30-15.56.49:116][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.11.30-15.56.49:116][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.11.30-15.56.49:116][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/user/Desktop/ServerPrograming/Portfolio/3EJS/HelMaClient/Saved/Config/Windows/Scalability.ini]
+[2021.11.30-15.56.49:116][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.11.30-15.56.49:116][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.11.30-15.56.49:116][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.11.30-15.56.49:116][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.11.30-15.56.49:116][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.11.30-15.56.49:116][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.11.30-15.56.49:116][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.11.30-15.56.49:116][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.11.30-15.56.49:116][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.11.30-15.56.49:116][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.11.30-15.56.49:116][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.11.30-15.56.49:116][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.11.30-15.56.49:116][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.11.30-15.56.49:116][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.11.30-15.56.49:116][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.11.30-15.56.49:116][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.11.30-15.56.49:116][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.11.30-15.56.49:116][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.11.30-15.56.49:116][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.11.30-15.56.49:116][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.11.30-15.56.49:116][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.11.30-15.56.49:116][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.11.30-15.56.49:116][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.11.30-15.56.49:116][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.11.30-15.56.49:116][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.11.30-15.56.49:116][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.11.30-15.56.49:116][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.11.30-15.56.49:116][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.11.30-15.56.49:116][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.11.30-15.56.49:116][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.11.30-15.56.49:116][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/user/Desktop/ServerPrograming/Portfolio/3EJS/HelMaClient/Saved/Config/Windows/Scalability.ini]
+[2021.11.30-15.56.49:116][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.11.30-15.56.49:116][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.11.30-15.56.49:116][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.11.30-15.56.49:116][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.11.30-15.56.49:116][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.11.30-15.56.49:116][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.11.30-15.56.49:116][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.11.30-15.56.49:116][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.11.30-15.56.49:116][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.11.30-15.56.49:116][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/user/Desktop/ServerPrograming/Portfolio/3EJS/HelMaClient/Saved/Config/Windows/Scalability.ini]
+[2021.11.30-15.56.49:116][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.11.30-15.56.49:116][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.11.30-15.56.49:116][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.11.30-15.56.49:116][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.11.30-15.56.49:116][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.11.30-15.56.49:116][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.11.30-15.56.49:116][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.11.30-15.56.49:116][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.11.30-15.56.49:116][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.11.30-15.56.49:116][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.11.30-15.56.49:116][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.11.30-15.56.49:116][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.11.30-15.56.49:116][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.11.30-15.56.49:116][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.11.30-15.56.49:116][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.11.30-15.56.49:116][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.11.30-15.56.49:116][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.11.30-15.56.49:116][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.11.30-15.56.49:116][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.11.30-15.56.49:116][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.11.30-15.56.49:116][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.11.30-15.56.49:116][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.11.30-15.56.49:116][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.11.30-15.56.49:116][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.11.30-15.56.49:116][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.11.30-15.56.49:116][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.11.30-15.56.49:116][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.11.30-15.56.49:116][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/user/Desktop/ServerPrograming/Portfolio/3EJS/HelMaClient/Saved/Config/Windows/Scalability.ini]
+[2021.11.30-15.56.49:116][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.11.30-15.56.49:116][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.11.30-15.56.49:116][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/user/Desktop/ServerPrograming/Portfolio/3EJS/HelMaClient/Saved/Config/Windows/Scalability.ini]
+[2021.11.30-15.56.49:116][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.11.30-15.56.49:116][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.11.30-15.56.49:116][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.11.30-15.56.49:116][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.11.30-15.56.49:117][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.11.30-15.56.49:117][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.11.30-15.56.49:117][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.11.30-15.56.49:117][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/user/Desktop/ServerPrograming/Portfolio/3EJS/HelMaClient/Saved/Config/Windows/Engine.ini]
+[2021.11.30-15.56.49:117][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/user/Desktop/ServerPrograming/Portfolio/3EJS/HelMaClient/Saved/Config/Windows/Editor.ini]
+[2021.11.30-15.56.49:117][  0]LogInit: Computer: DESKTOP-728A1T6
+[2021.11.30-15.56.49:117][  0]LogInit: User: user
+[2021.11.30-15.56.49:117][  0]LogInit: CPU Page size=4096, Cores=8
+[2021.11.30-15.56.49:117][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.11.30-15.56.49:117][  0]LogMemory: Memory total: Physical=31.4GB (32GB approx)
+[2021.11.30-15.56.49:117][  0]LogMemory: Platform Memory Stats for Windows
+[2021.11.30-15.56.49:117][  0]LogMemory: Process Physical Memory: 138.02 MB used, 138.03 MB peak
+[2021.11.30-15.56.49:117][  0]LogMemory: Process Virtual Memory: 112.20 MB used, 112.20 MB peak
+[2021.11.30-15.56.49:117][  0]LogMemory: Physical Memory: 7240.70 MB used,  24932.99 MB free, 32173.70 MB total
+[2021.11.30-15.56.49:117][  0]LogMemory: Virtual Memory: 134184288.00 MB used,  33435.97 MB free, 134217728.00 MB total
+[2021.11.30-15.56.49:130][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.11.30-15.56.49:240][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.11.30-15.56.49:241][  0]LogInit: Using OS detected language (ko-KR).
+[2021.11.30-15.56.49:241][  0]LogInit: Using OS detected locale (ko-KR).
+[2021.11.30-15.56.49:253][  0]LogTextLocalizationManager: No specific localization for 'ko-KR' exists, so the 'ko' localization will be used.
+[2021.11.30-15.56.49:357][  0]LogInit: Setting process to per monitor DPI aware
+[2021.11.30-15.56.49:383][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.11.30-15.56.49:404][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.11.30-15.56.49:404][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.11.30-15.56.49:684][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.11.30-15.56.49:685][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.11.30-15.56.49:685][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.11.30-15.56.49:685][  0]LogD3D11RHI: D3D11 adapters:
+[2021.11.30-15.56.49:823][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2060' (Feature Level 11_0)
+[2021.11.30-15.56.49:823][  0]LogD3D11RHI:       5980/0/16086 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2021.11.30-15.56.49:863][  0]LogD3D11RHI:    1. 'AMD Radeon(TM) Graphics' (Feature Level 11_0)
+[2021.11.30-15.56.49:863][  0]LogD3D11RHI:       496/0/16086 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1002
+[2021.11.30-15.56.49:866][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.11.30-15.56.49:866][  0]LogD3D11RHI:       0/0/16086 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.11.30-15.56.49:866][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.11.30-15.56.49:874][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.11.30-15.56.49:874][  0]LogD3D11RHI:     GPU DeviceId: 0x1f15 (for the marketing name, search the web for "GPU Device Id")
+[2021.11.30-15.56.49:874][  0]LogWindows: EnumDisplayDevices:
+[2021.11.30-15.56.49:875][  0]LogWindows:    0. 'AMD Radeon(TM) Graphics' (P:0 D:1)
+[2021.11.30-15.56.49:877][  0]LogWindows:    1. 'AMD Radeon(TM) Graphics' (P:1 D:1)
+[2021.11.30-15.56.49:879][  0]LogWindows:    2. 'AMD Radeon(TM) Graphics' (P:0 D:0)
+[2021.11.30-15.56.49:880][  0]LogWindows:    3. 'AMD Radeon(TM) Graphics' (P:0 D:0)
+[2021.11.30-15.56.49:881][  0]LogWindows:    4. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2021.11.30-15.56.49:882][  0]LogWindows:    5. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2021.11.30-15.56.49:883][  0]LogWindows:    6. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2021.11.30-15.56.49:883][  0]LogWindows:    7. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2021.11.30-15.56.49:884][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2021.11.30-15.56.49:884][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2060
+[2021.11.30-15.56.49:884][  0]LogD3D11RHI:   Driver Version: 466.27 (internal:27.21.14.6627, unified:466.27)
+[2021.11.30-15.56.49:884][  0]LogD3D11RHI:      Driver Date: 4-23-2021
+[2021.11.30-15.56.49:884][  0]LogRHI: Texture pool is 4186 MB (70% of 5980 MB)
+[2021.11.30-15.56.49:960][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.11.30-15.56.49:960][  0]LogD3D11RHI: Async texture creation enabled
+[2021.11.30-15.56.49:960][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.11.30-15.56.49:986][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.11.30-15.56.49:988][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.11.30-15.56.50:422][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.11.30-15.56.50:447][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.11.30-15.56.50:447][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.11.30-15.56.50:447][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.11.30-15.56.50:447][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.11.30-15.56.50:447][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.11.30-15.56.50:447][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.11.30-15.56.50:447][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.11.30-15.56.50:447][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.11.30-15.56.50:447][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.11.30-15.56.50:447][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.11.30-15.56.50:476][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.11.30-15.56.50:476][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.11.30-15.56.50:488][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.11.30-15.56.50:500][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.11.30-15.56.50:511][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.11.30-15.56.50:522][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.11.30-15.56.50:534][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.11.30-15.56.50:546][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.11.30-15.56.50:558][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.11.30-15.56.50:603][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.11.30-15.56.50:603][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.11.30-15.56.50:618][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.11.30-15.56.50:635][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.11.30-15.56.50:650][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.11.30-15.56.50:661][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.11.30-15.56.50:679][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.11.30-15.56.50:679][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.11.30-15.56.50:691][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.11.30-15.56.50:703][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.11.30-15.56.50:714][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.11.30-15.56.50:725][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.11.30-15.56.50:725][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.11.30-15.56.50:740][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.11.30-15.56.50:851][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.11.30-15.56.50:851][  0]LogShaderCompilers: Guid format shader working directory is -36 characters bigger than the processId version (../../../../../../Users/user/Desktop/ServerPrograming/Portfolio/3EJS/HelMaClient/Intermediate/Shaders/WorkingDirectory/30312/).
+[2021.11.30-15.56.50:851][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/user/AppData/Local/Temp/UnrealShaderWorkingDir/B14852EB4CE7F055C111A1AEEB1E7F66/'.
+[2021.11.30-15.56.50:851][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.11.30-15.56.50:851][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.11.30-15.56.51:542][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.11.30-15.56.51:630][  0]LogDerivedDataCache: Loaded boot cache 0.09s 176MB C:/Users/user/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.11.30-15.56.51:630][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/user/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.11.30-15.56.51:630][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/user/Desktop/ServerPrograming/Portfolio/3EJS/HelMaClient/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.11.30-15.56.51:630][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.11.30-15.56.51:630][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/user/Desktop/ServerPrograming/Portfolio/3EJS/HelMaClient/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.11.30-15.56.51:630][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.11.30-15.56.51:642][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.11.30-15.56.51:642][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.11.30-15.56.51:642][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.11.30-15.56.51:658][  0]LogDerivedDataCache: Speed tests for C:/Users/user/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.02 seconds
+[2021.11.30-15.56.51:658][  0]LogDerivedDataCache: Display: Performance to C:/Users/user/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.05ms. RandomReadSpeed=706.61MBs, RandomWriteSpeed=66.97MBs. Assigned SpeedClass 'Local'
+[2021.11.30-15.56.51:659][  0]LogDerivedDataCache: Using Local data cache path C:/Users/user/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.11.30-15.56.51:659][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.11.30-15.56.51:659][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.11.30-15.56.51:703][  0]LogSlate: Using FreeType 2.10.0
+[2021.11.30-15.56.51:704][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.11.30-15.56.51:729][  0]LogAssetRegistry: FAssetRegistry took 0.0029 seconds to start up
+[2021.11.30-15.56.51:952][  0]LogInit: Selected Device Profile: [Windows]
+[2021.11.30-15.56.51:952][  0]LogInit: Active device profile: [000002AC67F33100][000002AC69CE87C0 49] Windows
+[2021.11.30-15.56.51:952][  0]LogInit: Profiles: [000002AC67F33100][000002AC69CE87C0 49] Windows, [000002AC67EE9200][000002AC69FFC940 49] WindowsNoEditor, [000002AC67F31300][000002AC6A000AC0 49] WindowsServer, [000002AC67EEAA00][000002AC6A004C40 49] WindowsClient, [000002AC67F32B00][000002AC6A008DC0 49] IOS, [000002AC67EE9700][000002AC6A00CF40 49] iPadAir, [000002AC67F31800][000002AC6A0110C0 49] iPadAir2, [000002AC67E50700][000002AC6A019380 49] IPadPro, [000002AC67E50800][000002AC6A0153C0 49] iPadAir3, [000002AC67F33200][000002AC6A01D540 49] iPadAir4, [000002AC67E52F00][000002AC69CED680 49] iPadMini2, [000002AC67F31200][000002AC6A0217C0 49] iPadMini3, [000002AC67E50900][000002AC6A025900 49] iPadMini4, [000002AC67F32D00][000002AC6A05FA80 49] iPadMini5, [000002AC67E43F00][000002AC6A067D40 49] iPhone6, [000002AC67E43E00][000002AC6A0620C0 49] iPodTouch6, [000002AC67EEBA00][000002AC6A06E380 49] iPhone7, [000002AC67E53100][000002AC6A06A3C0 49] iPodTouch7, [000002AC67E41500][000002AC6A072540 49] iPhone5S, [000002AC67E52000][000002AC6A0766C0 49] iPhone6Plus, [000002AC67E42800][000002AC6A07A840 49] iPhone6S, [000002AC67E52A00][000002AC6A07E9C0 49] iPhone6SPlus, [000002AC67E41400][000002AC6A082B40 49] iPhone7Plus, [000002AC67E52900][000002AC6A086CC0 49] iPhoneSE, [000002AC67E42A00][000002AC6A08AE40 49] iPhone8, [000002AC67E52E00][000002AC6A08EFC0 49] iPhone8Plus, [000002AC67E43500][000002AC6A093140 49] iPhoneX, [000002AC67E53300][000002AC6A0972C0 49] iPhoneXS, [000002AC67E43D00][000002AC6A09B440 49] iPhoneXSMax, [000002AC67E52C00][000002AC6A09F5C0 49] iPhoneXR, [000002AC67E41100][000002AC6A05B700 49] iPhone11, [000002AC67E51A00][000002AC6A0A3840 49] iPhone11Pro, [000002AC67E42200][000002AC6A0A7980 49] iPhone11ProMax, [000002AC67E53400][000002AC6A0ABAC0 49] iPhoneSE2, [000002AC67E42100][000002AC6A0B3C40 49] iPhone12Mini, [000002AC67E51D00][000002AC6A0B6100 49] iPhone12, [000002AC67E42D00][000002AC6A0BA280 49] iPhone12Pro, [000002AC67E52400][000002AC6A0BE400 49] iPhone12ProMax, [000002AC67E41800][000002AC6A0C2580 49] iPadPro105, [000002AC67E53F00][000002AC6A0C6700 49] iPadPro129, [000002AC67E41B00][000002AC6A0CA880 49] iPadPro97, [000002AC67E51400][000002AC6A0CEA00 49] iPadPro2_129, [000002AC67E42F00][000002AC6A0D2B80 49] iPad5, [000002AC67E53800][000002AC6A0D6D00 49] iPad6, [000002AC67E40600][000002AC6A0DAE80 49] iPad7, [000002AC67E52600][000002AC6A0DF000 49] iPad8, [000002AC67E43300][000002AC6A0E3180 49] iPadPro11, [000002AC67E53C00][000002AC6A0E7300 49] iPadPro2_11, [000002AC67E43100][000002AC6A0EB480 49] iPadPro3_129, [000002AC67E50F00][000002AC6A0EF600 49] iPadPro4_129, [000002AC67E43400][000002AC6A0AF740 49] AppleTV, [000002AC67E51200][000002AC6A0F3880 49] AppleTV4K, [000002AC67E41300][000002AC6A0F79C0 49] TVOS, [000002AC67E51F00][000002AC6A0FBB00 49] Mac, [000002AC67E40900][000002AC6A11FC80 49] MacClient, [000002AC67E50100][000002AC6A122140 49] MacNoEditor, [000002AC67F90300][000002AC6A1262C0 49] MacServer, [000002AC67EE8D00][000002AC6A12A440 49] Linux, [000002AC67F91100][000002AC6A12E5C0 49] LinuxAArch64, [000002AC67EE9A00][000002AC6A132740 49] LinuxNoEditor, [000002AC67F91000][000002AC6A1368C0 49] LinuxAArch64NoEditor, [000002AC67EE9300][000002AC6A13AA40 49] LinuxClient, [000002AC67F90600][000002AC6A150BC0 49] LinuxAArch64Client, [000002AC67EE8400][000002AC6A154D40 49] LinuxServer, [000002AC67F90D00][000002AC6A170EC0 49] LinuxAArch64Server, [000002AC67EE9400][000002AC6A17D040 49] Android, [000002AC67E42C00][000002AC6A1891C0 49] Android_Low, [000002AC67EE9900][000002AC6A18D340 49] Android_Mid, [000002AC67E43900][000002AC6A1914C0 49] Android_High, [000002AC67EEB400][000002AC6A195640 49] Android_Default, [000002AC67E42300][000002AC6A1997C0 49] Android_Adreno4xx, [000002AC67EEAE00][000002AC6A11B900 49] Android_Adreno5xx_Low, [000002AC67E40300][000002AC6A1A1A40 49] Android_Adreno5xx, [000002AC67EE9F00][000002AC6A229B80 49] Android_Adreno6xx, [000002AC67E40E00][000002AC6A23DD00 49] Android_Adreno6xx_Vulkan, [000002AC67EEB700][000002AC6A26E1C0 49] Android_Mali_T6xx, [000002AC67E42900][000002AC6A27E340 49] Android_Mali_T7xx, [000002AC67EE8700][000002AC6A2B64C0 49] Android_Mali_T8xx, [000002AC67E40200][000002AC6A2BA640 49] Android_Mali_G71, [000002AC67EE8E00][000002AC6A2BE7C0 49] Android_Mali_G72, [000002AC67E40400][000002AC6A2C2940 49] Android_Mali_G72_Vulkan, [000002AC67EEB300][000002AC6A2C6AC0 49] Android_Mali_G76, [000002AC67E41700][000002AC6A2CEC40 49] Android_Mali_G76_Vulkan, [000002AC67EEA500][000002AC6A31EDC0 49] Android_Mali_G77, [000002AC67E42E00][000002AC6A32EF40 49] Android_Mali_G77_Vulkan, [000002AC67EEBE00][000002AC6A3330C0 49] Android_Vulkan_SM5, [000002AC67E42400][000002AC6A337240 49] Android_PowerVR_G6xxx, [000002AC67EE8300][000002AC6A33B3C0 49] Android_PowerVR_GT7xxx, [000002AC67E42500][000002AC6A33F540 49] Android_PowerVR_GE8xxx, [000002AC67EEB600][000002AC6A3436C0 49] Android_PowerVR_GM9xxx, [000002AC67E43700][000002AC6A367840 49] Android_PowerVR_GM9xxx_Vulkan, [000002AC67EE8500][000002AC6A239980 49] Android_TegraK1, [000002AC67E40800][000002AC6A36BAC0 49] Android_Unknown_Vulkan, [000002AC67EEB800][000002AC6A36FC00 49] Lumin, [000002AC67E41E00][000002AC6A3820C0 49] Lumin_Desktop, [000002AC67EEBB00][000002AC6A386240 49] HoloLens, 
+[2021.11.30-15.56.52:076][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.11.30-15.56.52:076][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.11.30-15.56.52:076][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.11.30-15.56.52:076][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.11.30-15.56.52:076][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.11.30-15.56.52:100][  0]LogNetVersion: UEHelMa 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 2450561976)
+[2021.11.30-15.56.52:573][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.11.30-15.56.52:679][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.105125 seconds
+[2021.11.30-15.56.52:685][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
+[2021.11.30-15.56.52:685][  0]LogUObjectAllocator: 4209728 out of 0 bytes used by permanent object pool.
+[2021.11.30-15.56.52:685][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.11.30-15.56.53:258][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.11.30-15.56.53:267][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.11.30-15.56.54:844][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.11.30-15.56.54:883][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.11.30-15.56.54:883][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.11.30-15.56.54:980][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2021.11.30-15.56.54:980][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2021.11.30-15.56.54:987][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2021.11.30-15.56.54:993][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2021.11.30-15.56.55:011][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2021.11.30-15.56.55:025][  0]LogUProjectInfo: Found projects:
+[2021.11.30-15.56.55:057][  0]LogCollectionManager: Loaded 0 collections in 0.001712 seconds
+[2021.11.30-15.56.55:098][  0]LogFileCache: Scanning file cache for directory 'C:/Users/user/Desktop/ServerPrograming/Portfolio/3EJS/HelMaClient/Saved/Collections/' took 0.00s
+[2021.11.30-15.56.55:098][  0]LogFileCache: Scanning file cache for directory 'C:/Users/user/Desktop/ServerPrograming/Portfolio/3EJS/HelMaClient/Content/Developers/user/Collections/' took 0.00s
+[2021.11.30-15.56.55:098][  0]LogFileCache: Scanning file cache for directory 'C:/Users/user/Desktop/ServerPrograming/Portfolio/3EJS/HelMaClient/Content/Collections/' took 0.00s
+[2021.11.30-15.56.55:098][  0]LogOcInput: OculusInput pre-init called
+[2021.11.30-15.56.55:120][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.11.30-15.56.55:121][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.11.30-15.56.55:189][  0]LogEngine: Initializing Engine...
+[2021.11.30-15.56.55:191][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.11.30-15.56.55:191][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.11.30-15.56.55:192][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.11.30-15.56.55:301][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.11.30-15.56.55:314][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.11.30-15.56.55:314][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.11.30-15.56.55:321][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.11.30-15.56.55:321][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.11.30-15.56.55:321][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.30-15.56.55:321][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.30-15.56.55:321][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.30-15.56.55:321][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.30-15.56.55:321][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.30-15.56.55:321][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.30-15.56.55:321][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.30-15.56.55:321][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.30-15.56.55:322][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.11.30-15.56.55:322][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.30-15.56.55:351][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.30-15.56.55:351][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.11.30-15.56.55:351][  0]LogAudioMixer: Display: 2: FrontCenter
+[2021.11.30-15.56.55:351][  0]LogAudioMixer: Display: 3: LowFrequency
+[2021.11.30-15.56.55:351][  0]LogAudioMixer: Display: 4: BackLeft
+[2021.11.30-15.56.55:351][  0]LogAudioMixer: Display: 5: BackRight
+[2021.11.30-15.56.55:351][  0]LogAudioMixer: Display: 6: SideLeft
+[2021.11.30-15.56.55:351][  0]LogAudioMixer: Display: 7: SideRight
+[2021.11.30-15.56.55:424][  0]LogAudioMixer: Display: Using Audio Device 스피커(2- Logitech G430 Gaming Headset)
+[2021.11.30-15.56.55:425][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.30-15.56.55:428][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.30-15.56.55:428][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.30-15.56.55:429][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.30-15.56.55:429][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.30-15.56.55:429][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.11.30-15.56.55:430][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.30-15.56.55:430][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.30-15.56.55:430][  0]LogInit: FAudioDevice initialized.
+[2021.11.30-15.56.55:430][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.11.30-15.56.55:430][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.11.30-15.56.55:541][  0]LogDerivedDataCache: Saved boot cache 0.11s 176MB C:/Users/user/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.11.30-15.56.55:542][  0]LogInit: Texture streaming: Enabled
+[2021.11.30-15.56.55:575][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2021.11.30-15.56.55:588][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.11.30-15.56.55:588][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.11.30-15.56.55:595][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.11.30-15.56.55:644][  0]LogInit: Transaction tracking system initialized
+[2021.11.30-15.56.55:691][  0]BlueprintLog: New page: 에디터 로드
+[2021.11.30-15.56.55:817][  0]LocalizationService: 현지화 서비스가 비활성화되었습니다.
+[2021.11.30-15.56.55:856][  0]TimingProfiler: Initialize
+[2021.11.30-15.56.55:857][  0]TimingProfiler: OnSessionChanged
+[2021.11.30-15.56.55:857][  0]LoadingProfiler: Initialize
+[2021.11.30-15.56.55:857][  0]LoadingProfiler: OnSessionChanged
+[2021.11.30-15.56.55:857][  0]NetworkingProfiler: Initialize
+[2021.11.30-15.56.55:857][  0]NetworkingProfiler: OnSessionChanged
+[2021.11.30-15.56.55:857][  0]MemoryProfiler: Initialize
+[2021.11.30-15.56.55:857][  0]MemoryProfiler: OnSessionChanged
+[2021.11.30-15.56.56:059][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.11.30-15.56.56:059][  0]LogCook: Display: Mobile HDR setting 1
+[2021.11.30-15.56.56:339][  0]LogFileCache: Scanning file cache for directory 'C:/Users/user/Desktop/ServerPrograming/Portfolio/3EJS/HelMaClient/Content/' took 0.06s
+[2021.11.30-15.56.56:549][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.11.30-15.56.56:555][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2021.11.30-15.56.56:555][  0]LogUnrealEdMisc: Loading editor; pre map load, took 8.846
+[2021.11.30-15.56.56:555][  0]Cmd: MAP LOAD FILE="../../../../../../Users/user/Desktop/ServerPrograming/Portfolio/3EJS/HelMaClient/Content/Level/Start.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.11.30-15.56.56:556][  0]LightingResults: New page: 라이팅 빌드
+[2021.11.30-15.56.56:557][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.11.30-15.56.56:557][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.30-15.56.56:557][  0]MapCheck: New page: 맵 체크
+[2021.11.30-15.56.56:557][  0]LightingResults: New page: 라이팅 빌드
+[2021.11.30-15.56.56:572][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2021.11.30-15.56.56:575][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Start'.
+[2021.11.30-15.56.56:576][  0]LogAIModule: Creating AISystem for world Start
+[2021.11.30-15.56.56:577][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.11.30-15.56.56:583][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2021.11.30-15.56.56:583][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.11.30-15.56.56:584][  0]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 0.312ms.
+[2021.11.30-15.56.56:584][  0]LogFileHelpers: Loading map 'Start' took 0.029
+[2021.11.30-15.56.56:592][  0]LogUnrealEdMisc: Total Editor Startup Time, took 8.883
+[2021.11.30-15.56.56:788][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.30-15.56.56:795][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.30-15.56.56:800][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.30-15.56.56:806][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.30-15.56.56:836][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0093 seconds. Added 3624 classes and 861 folders.
+[2021.11.30-15.56.56:842][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.11.30-15.56.56:847][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.11.30-15.56.56:847][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.30-15.56.56:847][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.11.30-15.56.56:847][  0]LogPakFile: OnPakFileMounted2Time == 0.000009
+[2021.11.30-15.56.56:849][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.11.30-15.56.56:849][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.30-15.56.56:849][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.11.30-15.56.56:849][  0]LogPakFile: OnPakFileMounted2Time == 0.000013
+[2021.11.30-15.56.56:850][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.11.30-15.56.56:850][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.30-15.56.56:850][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.11.30-15.56.56:850][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2021.11.30-15.56.56:851][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.11.30-15.56.56:852][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.30-15.56.56:852][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.11.30-15.56.56:852][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2021.11.30-15.56.56:852][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.11.30-15.56.56:852][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.30-15.56.56:852][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.11.30-15.56.56:852][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2021.11.30-15.56.56:853][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.11.30-15.56.56:853][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.30-15.56.56:853][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.11.30-15.56.56:853][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2021.11.30-15.56.56:855][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.11.30-15.56.56:855][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.30-15.56.56:855][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.11.30-15.56.56:855][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2021.11.30-15.56.56:856][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.11.30-15.56.56:856][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.30-15.56.56:856][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.11.30-15.56.56:856][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2021.11.30-15.56.56:857][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.11.30-15.56.56:857][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.30-15.56.56:857][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.11.30-15.56.56:857][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2021.11.30-15.56.56:857][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.11.30-15.56.56:857][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.30-15.56.56:857][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.11.30-15.56.56:857][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2021.11.30-15.56.56:858][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.11.30-15.56.56:858][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.30-15.56.56:858][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.11.30-15.56.56:858][  0]LogPakFile: OnPakFileMounted2Time == 0.000042
+[2021.11.30-15.56.56:859][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.11.30-15.56.56:859][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.30-15.56.56:859][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.11.30-15.56.56:859][  0]LogPakFile: OnPakFileMounted2Time == 0.000044
+[2021.11.30-15.56.56:860][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.11.30-15.56.56:860][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.30-15.56.56:860][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.11.30-15.56.56:860][  0]LogPakFile: OnPakFileMounted2Time == 0.000047
+[2021.11.30-15.56.56:861][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.11.30-15.56.56:861][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.30-15.56.56:861][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.11.30-15.56.56:861][  0]LogPakFile: OnPakFileMounted2Time == 0.000049
+[2021.11.30-15.56.56:862][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.11.30-15.56.56:862][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.30-15.56.56:862][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.11.30-15.56.56:862][  0]LogPakFile: OnPakFileMounted2Time == 0.000051
+[2021.11.30-15.56.56:862][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.11.30-15.56.56:862][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.30-15.56.56:862][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.11.30-15.56.56:862][  0]LogPakFile: OnPakFileMounted2Time == 0.000053
+[2021.11.30-15.56.56:863][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.11.30-15.56.56:864][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.30-15.56.56:864][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.11.30-15.56.56:864][  0]LogPakFile: OnPakFileMounted2Time == 0.000057
+[2021.11.30-15.56.56:864][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.11.30-15.56.56:864][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.30-15.56.56:864][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.11.30-15.56.56:865][  0]LogPakFile: OnPakFileMounted2Time == 0.000060
+[2021.11.30-15.56.56:865][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.11.30-15.56.56:865][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.30-15.56.56:865][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.11.30-15.56.56:865][  0]LogPakFile: OnPakFileMounted2Time == 0.000063
+[2021.11.30-15.56.56:866][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.11.30-15.56.56:867][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.30-15.56.56:867][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.11.30-15.56.56:867][  0]LogPakFile: OnPakFileMounted2Time == 0.000067
+[2021.11.30-15.56.56:867][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.11.30-15.56.56:867][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.30-15.56.56:867][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.11.30-15.56.56:867][  0]LogPakFile: OnPakFileMounted2Time == 0.000069
+[2021.11.30-15.56.56:868][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.11.30-15.56.56:868][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.30-15.56.56:868][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.11.30-15.56.56:868][  0]LogPakFile: OnPakFileMounted2Time == 0.000072
+[2021.11.30-15.56.56:869][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.11.30-15.56.56:869][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.30-15.56.56:869][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.11.30-15.56.56:869][  0]LogPakFile: OnPakFileMounted2Time == 0.000075
+[2021.11.30-15.56.56:870][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.11.30-15.56.56:870][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.30-15.56.56:870][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.11.30-15.56.56:870][  0]LogPakFile: OnPakFileMounted2Time == 0.000077
+[2021.11.30-15.56.56:871][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.11.30-15.56.56:871][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.30-15.56.56:871][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.11.30-15.56.56:871][  0]LogPakFile: OnPakFileMounted2Time == 0.000080
+[2021.11.30-15.56.56:872][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.11.30-15.56.56:872][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.30-15.56.56:872][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.11.30-15.56.56:872][  0]LogPakFile: OnPakFileMounted2Time == 0.000082
+[2021.11.30-15.56.56:961][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.11.30-15.56.56:984][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WorldBrowser' in 0.0004 seconds. Added 2 classes and 3 folders.
+[2021.11.30-15.56.56:999][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2021.11.30-15.56.57:198][  0]LogSlate: Took 0.000480 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.11.30-15.56.57:200][  0]LogSlate: Took 0.001900 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2021.11.30-15.56.57:203][  0]LogSlate: Took 0.001786 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicBold.ttf' (4188K)
+[2021.11.30-15.56.57:203][  0]LogSlate: Took 0.000432 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.11.30-15.56.57:208][  0]LogSlate: Took 0.000403 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.11.30-15.56.57:208][  0]LogSlate: Took 0.000485 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.11.30-15.56.57:250][  0]LogSlate: Took 0.001651 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicExtraBold.ttf' (4074K)
+[2021.11.30-15.56.57:364][  0]LogRenderer: Reallocating scene render targets to support 1232x572 Format 10 NumSamples 1 (Frame:1).
+[2021.11.30-15.56.57:703][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.11.30-15.56.57:703][  0]LogLoad: (Engine Initialization) Total time: 9.99 seconds
+[2021.11.30-15.56.57:703][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.11.30-15.56.57:703][  0]LogInit: First time updating LLM stats...
+[2021.11.30-15.56.57:777][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.11.30-15.56.57:814][  1]LogAssetRegistry: Asset discovery search completed in 6.0849 seconds
+[2021.11.30-15.56.57:815][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2021.11.30-15.56.58:647][ 46]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2021.11.30-15.56.58:656][ 46]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.30-15.56.58:658][ 46]PIE: New page: PIE 세션: Start (2021. 12. 1. 오전 9:56:58)
+[2021.11.30-15.56.58:660][ 46]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.11.30-15.56.58:661][ 46]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.11.30-15.56.58:662][ 46]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Start
+[2021.11.30-15.56.58:663][ 46]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001153s)
+[2021.11.30-15.56.58:664][ 46]LogAIModule: Creating AISystem for world Start
+[2021.11.30-15.56.58:664][ 46]LogPlayLevel: PIE: World Init took: (0.001284s)
+[2021.11.30-15.56.58:664][ 46]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Start.Start to /Game/Level/UEDPIE_0_Start.Start (0.002769s)
+[2021.11.30-15.56.58:678][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2021.11.30-15.56.58:680][ 46]LogTemp: Error: UnResManager::ResInit()
+[2021.11.30-15.56.58:688][ 46]LogTemp: Error: Res Load OK 0
+[2021.11.30-15.56.58:688][ 46]LogTemp: Error: Res Load OK 1
+[2021.11.30-15.56.58:688][ 46]LogTemp: Error: Res Load OK 2
+[2021.11.30-15.56.58:688][ 46]LogTemp: Error: Res Load 3
+[2021.11.30-15.56.58:688][ 46]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.11.30-15.56.58:688][ 46]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.30-15.56.58:688][ 46]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.30-15.56.58:688][ 46]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.30-15.56.58:688][ 46]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.30-15.56.58:688][ 46]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.30-15.56.58:688][ 46]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.30-15.56.58:688][ 46]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.30-15.56.58:688][ 46]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.30-15.56.58:689][ 46]LogAudio: Display: Using built-in audio occlusion.
+[2021.11.30-15.56.58:689][ 46]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.30-15.56.58:702][ 46]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.30-15.56.58:702][ 46]LogAudioMixer: Display: 1: FrontRight
+[2021.11.30-15.56.58:703][ 46]LogAudioMixer: Display: 2: FrontCenter
+[2021.11.30-15.56.58:703][ 46]LogAudioMixer: Display: 3: LowFrequency
+[2021.11.30-15.56.58:703][ 46]LogAudioMixer: Display: 4: BackLeft
+[2021.11.30-15.56.58:703][ 46]LogAudioMixer: Display: 5: BackRight
+[2021.11.30-15.56.58:703][ 46]LogAudioMixer: Display: 6: SideLeft
+[2021.11.30-15.56.58:703][ 46]LogAudioMixer: Display: 7: SideRight
+[2021.11.30-15.56.58:736][ 46]LogAudioMixer: Display: Using Audio Device 스피커(2- Logitech G430 Gaming Headset)
+[2021.11.30-15.56.58:736][ 46]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.30-15.56.58:736][ 46]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.30-15.56.58:736][ 46]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.30-15.56.58:737][ 46]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.30-15.56.58:737][ 46]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.30-15.56.58:737][ 46]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.11.30-15.56.58:759][ 46]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.30-15.56.58:759][ 46]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.30-15.56.58:759][ 46]LogInit: FAudioDevice initialized.
+[2021.11.30-15.56.58:759][ 46]LogAudio: Display: Audio Device (ID: 2) registered with world 'Start'.
+[2021.11.30-15.56.58:809][ 46]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.30-15.56.58:809][ 46]LogLoad: Game class is 'StartGameMode'
+[2021.11.30-15.56.58:811][ 46]LogWorld: Bringing World /Game/Level/UEDPIE_0_Start.Start up for play (max tick rate 60) at 2021.12.01-00.56.58
+[2021.11.30-15.56.58:811][ 46]LogWorld: Bringing up level for play took: 0.000398
+[2021.11.30-15.56.58:811][ 46]LogOnline: OSS: Creating online subsystem instance for: :Context_1
+[2021.11.30-15.56.58:819][ 46]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2021.11.30-15.56.58:825][ 46]LogTemp: Error: 0
+[2021.11.30-15.56.58:825][ 46]LogTemp: Error: 1
+[2021.11.30-15.56.58:825][ 46]LogTemp: Error: 2
+[2021.11.30-15.56.58:825][ 46]LogTemp: Error: 3
+[2021.11.30-15.56.58:825][ 46]LogTemp: Error: 4
+[2021.11.30-15.56.58:825][ 46]LogTemp: Error: 5
+[2021.11.30-15.56.58:825][ 46]LogTemp: Error: 6
+[2021.11.30-15.56.58:825][ 46]LogTemp: Error: 7
+[2021.11.30-15.56.58:825][ 46]LogTemp: Error: 8
+[2021.11.30-15.56.58:825][ 46]LogTemp: Error: 9
+[2021.11.30-15.56.58:828][ 46]PIE: 서버가 로그인했습니다.
+[2021.11.30-15.56.58:829][ 46]PIE: 에디터에서 플레이 총 시작 시간 0.177초입니다.
+[2021.11.30-15.56.58:902][ 47]LogRenderer: Reallocating scene render targets to support 1300x740 Format 10 NumSamples 1 (Frame:1).
+[2021.11.30-15.56.59:472][ 80]UEHelMa: Warning: UWidget_Start::ConnectButtonCallback{80} : ConnectButtonCallback
+[2021.11.30-15.56.59:479][ 81]UEHelMa: Warning: UEServerConnect::Close{227} : UnServerConnect::Close() 
+[2021.11.30-15.56.59:479][ 81]UEHelMa: Warning: UEServerConnect::ConnectSocketCreate{139} : Socket Init
+[2021.11.30-15.56.59:479][ 81]UEHelMa: Error: UEServerConnect::ConnectSocketCreate{150} : Socket Create OK
+[2021.11.30-15.56.59:479][ 81]UEHelMa: Warning: UEServerConnect::ConnectSocketCreate{158} : 127.0.0.1
+[2021.11.30-15.56.59:479][ 81]UEHelMa: Warning: UEServerConnect::Connect{182} : Server Connect Success
+[2021.11.30-15.57.03:239][306]UEHelMa: Warning: UWidget_Start::LoginButtonCallback{90} : LoginButtonCallback
+[2021.11.30-15.57.03:239][306]UEHelMa: Warning: UWidget_Start::LoginButtonCallback{111} : Is Login Packet Send ID g | PW g
+[2021.11.30-15.57.03:247][307]UEHelMa: Warning: ClientPacketFunc::LoginResultPacketProcess{49} : PacketCode:0
+[2021.11.30-15.57.03:247][307]UEHelMa: Warning: ClientPacketFunc::LoginResultPacketProcess{50} : Login OK 
+[2021.11.30-15.57.03:256][307]LogNet: Browse: /Game/Level/Select
+[2021.11.30-15.57.03:256][307]LogLoad: LoadMap: /Game/Level/Select
+[2021.11.30-15.57.03:256][307]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_Start
+[2021.11.30-15.57.03:257][307]LogWorld: UWorld::CleanupWorld for Start, bSessionEnded=true, bCleanupResources=true
+[2021.11.30-15.57.03:257][307]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.30-15.57.03:287][307]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.30-15.57.03:288][307]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2021.11.30-15.57.03:346][307]LogAudio: Display: Audio Device (ID: 2) registered with world 'Select'.
+[2021.11.30-15.57.03:347][307]LogAIModule: Creating AISystem for world Select
+[2021.11.30-15.57.03:347][307]LogLoad: Game class is 'SelectGameMode'
+[2021.11.30-15.57.03:367][307]LogWorld: Bringing World /Game/Level/UEDPIE_0_Select.Select up for play (max tick rate 60) at 2021.12.01-00.57.03
+[2021.11.30-15.57.03:367][307]LogWorld: Bringing up level for play took: 0.019564
+[2021.11.30-15.57.03:369][307]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.11.30-15.57.03:369][307]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2021.11.30-15.57.03:369][307]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2021.11.30-15.57.03:369][307]LogLoad: Took 0.113227 seconds to LoadMap(/Game/Level/Select)
+[2021.11.30-15.57.03:432][307]LogRenderer: Reallocating scene render targets to support 1920x1080 Format 10 NumSamples 1 (Frame:1).
+[2021.11.30-15.57.03:432][307]UEHelMa: Warning: UEWorldMsgFunc::SelectCreate{31} : SelectCreate!!!!!!!!!!!!!!!!!!!
+[2021.11.30-15.57.03:432][307]UEHelMa: Warning: UWidget_Select::VisibleCharacterWidgetImg0{350} : VisibleCharacterWidgetImg0
+[2021.11.30-15.57.06:695][494]UEHelMa: Warning: ClientPacketFunc::CharacterPacketProcess{56} : CharacterPacketProcess
+[2021.11.30-15.57.06:695][494]UEHelMa: Warning: ClientPacketFunc::CharacterPacketProcess{69} : KallariStart
+[2021.11.30-15.57.06:695][494]UEHelMa: Warning: ClientPacketFunc::PlayerUpdatePacketProcess{132} : PlayerUpdatePacketProcess
+[2021.11.30-15.57.06:695][494]LogNet: Browse: /Game/Level/Main
+[2021.11.30-15.57.06:695][494]LogLoad: LoadMap: /Game/Level/Main
+[2021.11.30-15.57.06:695][494]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_Select
+[2021.11.30-15.57.06:696][494]LogWorld: UWorld::CleanupWorld for Select, bSessionEnded=true, bCleanupResources=true
+[2021.11.30-15.57.06:697][494]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.30-15.57.06:700][494]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.30-15.57.06:703][494]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2021.11.30-15.57.06:779][494]LogAudio: Display: Audio Device (ID: 2) registered with world 'Main'.
+[2021.11.30-15.57.06:780][494]LogAIModule: Creating AISystem for world Main
+[2021.11.30-15.57.06:781][494]LogLoad: Game class is 'BP_HelMaGameMode_C'
+[2021.11.30-15.57.06:781][494]LogBlueprintUserMessages: [BP_HelMaGameMode_C_0] tttttttttttttttttt
+[2021.11.30-15.57.06:781][494]LogBlueprintUserMessages: [BP_HelMaGameMode_C_0] Kallari
+[2021.11.30-15.57.06:802][494]LogBlueprintUserMessages: [BP_HelMaGameMode_C_0] tttttttttttttttttt
+[2021.11.30-15.57.06:802][494]LogBlueprintUserMessages: [BP_HelMaGameMode_C_0] Kallari
+[2021.11.30-15.57.06:803][494]LogWorld: Bringing World /Game/Level/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2021.12.01-00.57.06
+[2021.11.30-15.57.06:803][494]LogWorld: Bringing up level for play took: 0.021237
+[2021.11.30-15.57.06:817][494]LogLoad: Took 0.122129 seconds to LoadMap(/Game/Level/Main)
+[2021.11.30-15.57.06:818][494]UEHelMa: Warning: UEWorldMsgFunc::PlayerCreate{148} : PlayerCreate!!!!!!!!!!!!!!!!!!!
+[2021.11.30-15.57.06:818][494]UEHelMa: Warning: UEWorldMsgFunc::PlayerCreate{157} : KallariStart
+[2021.11.30-15.57.06:818][494]UEHelMa: Warning: UECharacterManager::CharacterManagerInit{39} : 1
+[2021.11.30-15.57.06:818][494]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.06:853][495]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.06:866][496]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.06:882][497]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.06:899][498]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.06:915][499]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.06:932][500]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.06:949][501]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.06:965][502]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.06:982][503]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.06:999][504]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.07:015][505]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.07:032][506]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.07:049][507]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.07:065][508]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.07:082][509]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.07:099][510]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.07:115][511]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.07:132][512]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.07:149][513]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.07:165][514]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.07:182][515]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.07:199][516]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.07:215][517]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.07:232][518]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.07:249][519]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.07:266][520]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.07:283][521]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.07:300][522]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.07:316][523]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.07:333][524]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.07:350][525]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.07:366][526]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.07:383][527]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.07:400][528]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.07:416][529]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.07:433][530]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.07:450][531]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.07:466][532]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.07:483][533]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.07:500][534]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.07:516][535]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.07:533][536]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.07:550][537]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.07:567][538]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.07:583][539]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.07:600][540]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.07:616][541]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.07:634][542]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.07:650][543]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.07:666][544]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.07:683][545]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.07:700][546]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.07:716][547]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.07:733][548]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.07:751][549]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.07:767][550]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.07:783][551]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.07:800][552]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.07:816][553]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.07:833][554]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.07:850][555]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.07:869][556]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.07:883][557]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.07:900][558]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.07:917][559]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.07:934][560]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.07:950][561]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.07:967][562]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.07:984][563]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.08:001][564]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.08:017][565]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.08:035][566]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.08:050][567]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.08:067][568]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.08:085][569]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.08:101][570]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.08:117][571]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.08:134][572]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.08:150][573]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.08:167][574]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.08:184][575]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.08:200][576]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.08:217][577]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.08:234][578]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.08:250][579]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.08:268][580]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.08:284][581]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.08:301][582]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.08:317][583]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.08:333][584]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.08:350][585]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.08:366][586]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.08:383][587]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.08:400][588]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.08:416][589]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.08:433][590]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.08:450][591]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.08:467][592]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.08:484][593]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.08:499][594]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.08:516][595]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.08:533][596]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.08:549][597]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.08:566][598]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.08:583][599]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.08:599][600]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.08:616][601]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.08:633][602]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.08:649][603]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.08:666][604]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.08:683][605]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.08:700][606]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.08:717][607]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.08:735][608]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.08:752][609]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.08:767][610]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.08:784][611]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.08:800][612]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.08:817][613]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.08:834][614]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.08:850][615]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.08:869][616]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.08:883][617]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.08:900][618]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.08:917][619]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.08:933][620]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.08:949][621]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.08:966][622]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.08:983][623]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.08:999][624]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.09:016][625]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.09:033][626]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.09:049][627]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.09:066][628]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.09:083][629]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.09:099][630]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.09:116][631]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.09:133][632]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.09:149][633]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.09:166][634]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.09:183][635]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.09:199][636]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.09:216][637]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.09:233][638]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.09:250][639]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.09:266][640]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.09:283][641]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.09:299][642]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.09:316][643]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.09:334][644]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.09:349][645]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.09:366][646]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.09:383][647]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.09:399][648]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.09:416][649]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.09:433][650]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.09:449][651]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.09:466][652]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.09:483][653]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.09:500][654]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.09:516][655]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.09:533][656]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.09:549][657]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.09:566][658]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.09:583][659]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.09:599][660]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.09:616][661]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.09:632][662]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.09:649][663]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.09:666][664]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.09:683][665]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.09:699][666]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.09:716][667]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.09:733][668]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.09:749][669]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.09:766][670]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.09:782][671]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.09:799][672]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.09:816][673]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.09:833][674]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.09:849][675]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.09:866][676]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.09:886][677]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.09:899][678]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.09:916][679]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.09:932][680]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.09:949][681]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.09:966][682]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.09:983][683]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.09:999][684]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.10:016][685]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.10:032][686]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.10:049][687]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.10:066][688]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.10:083][689]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.10:099][690]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.10:116][691]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.10:133][692]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.10:149][693]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.10:166][694]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.10:183][695]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.10:199][696]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.10:216][697]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.10:233][698]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.10:249][699]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.10:266][700]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.10:283][701]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.10:299][702]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.10:316][703]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.10:333][704]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.10:349][705]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.10:366][706]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.10:382][707]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.10:399][708]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.10:416][709]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.10:432][710]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.10:449][711]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.10:466][712]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.10:482][713]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.10:499][714]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.10:516][715]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.10:532][716]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.10:549][717]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.10:566][718]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.10:582][719]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.10:599][720]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.10:616][721]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.10:633][722]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.10:649][723]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.10:666][724]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.10:682][725]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.10:699][726]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.10:716][727]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.10:732][728]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.10:749][729]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.10:766][730]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.10:782][731]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.10:799][732]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.10:816][733]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.10:833][734]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.10:849][735]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.10:866][736]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.10:882][737]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.10:902][738]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.10:916][739]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.10:932][740]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.10:949][741]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.10:966][742]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.10:982][743]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.10:999][744]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.11:016][745]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.11:032][746]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.11:049][747]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.11:066][748]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.11:082][749]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.11:099][750]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.11:116][751]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.11:133][752]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.11:149][753]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.11:166][754]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.11:183][755]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.11:200][756]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.11:216][757]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.11:233][758]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.11:249][759]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.11:266][760]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.11:284][761]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.11:300][762]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.11:316][763]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.11:333][764]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.11:350][765]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.11:366][766]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.11:383][767]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.11:400][768]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.11:416][769]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.11:433][770]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.11:449][771]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.11:466][772]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.11:483][773]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.11:500][774]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.11:517][775]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.11:535][776]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.11:550][777]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.11:566][778]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.11:583][779]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.11:600][780]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.11:616][781]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.11:634][782]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.11:651][783]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.11:667][784]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.11:684][785]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.11:700][786]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.11:717][787]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.11:734][788]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.11:751][789]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.11:767][790]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.11:785][791]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.11:800][792]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.11:817][793]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.11:833][794]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.11:850][795]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.11:867][796]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.11:884][797]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.11:903][798]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.11:917][799]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.11:934][800]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.11:950][801]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.11:968][802]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.11:984][803]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.12:000][804]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.12:017][805]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.12:034][806]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.12:050][807]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.12:067][808]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.12:083][809]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.12:100][810]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.12:117][811]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.12:134][812]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.12:151][813]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.12:167][814]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.12:184][815]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.12:201][816]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.12:219][817]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.12:234][818]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.12:251][819]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.12:268][820]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.12:287][821]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.12:302][822]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.12:318][823]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.12:334][824]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.12:351][825]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.12:368][826]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.12:384][827]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.12:401][828]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.12:417][829]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.12:434][830]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.12:450][831]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.12:468][832]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.12:485][833]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.12:501][834]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.12:518][835]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.12:534][836]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.12:550][837]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.12:567][838]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.12:584][839]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.12:600][840]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.12:617][841]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.12:634][842]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.12:650][843]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.12:667][844]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.12:684][845]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.12:700][846]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.12:717][847]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.12:735][848]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.12:752][849]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.12:767][850]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.12:786][851]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.12:800][852]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.12:818][853]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.12:834][854]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.12:851][855]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.12:867][856]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.12:884][857]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.12:900][858]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.12:920][859]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.12:935][860]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.12:950][861]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.12:967][862]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.12:984][863]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.13:000][864]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.13:017][865]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.13:035][866]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.13:051][867]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.13:067][868]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.13:084][869]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.13:100][870]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.13:117][871]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.13:134][872]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.13:151][873]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.13:166][874]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.13:183][875]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.13:200][876]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.13:216][877]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.13:233][878]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.13:250][879]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.13:267][880]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.13:283][881]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.13:300][882]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.13:316][883]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.13:333][884]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.13:349][885]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.13:366][886]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.13:383][887]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.13:399][888]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.13:416][889]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.13:433][890]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.13:450][891]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.13:466][892]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.13:483][893]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.13:499][894]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.13:516][895]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.13:533][896]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.13:550][897]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.13:566][898]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.13:583][899]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.13:599][900]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.13:616][901]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.13:633][902]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.13:650][903]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.13:666][904]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.13:683][905]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.13:700][906]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.13:716][907]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.13:733][908]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.13:749][909]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.13:766][910]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.13:783][911]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.13:800][912]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.13:816][913]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.13:833][914]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.13:850][915]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.13:866][916]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.13:883][917]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.13:900][918]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.13:916][919]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.13:936][920]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.13:949][921]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.13:966][922]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.13:983][923]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.14:000][924]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.14:016][925]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.14:034][926]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.14:049][927]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.14:066][928]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.14:083][929]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.14:100][930]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.14:116][931]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.14:133][932]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.14:149][933]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.14:166][934]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.14:183][935]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.14:199][936]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.14:216][937]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.14:233][938]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.14:249][939]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.14:267][940]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.14:283][941]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.14:300][942]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.14:316][943]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.14:333][944]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.14:350][945]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.14:367][946]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.14:383][947]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.14:400][948]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.14:416][949]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.14:433][950]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.14:449][951]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.14:466][952]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.14:482][953]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.14:499][954]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.14:516][955]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.14:533][956]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.14:549][957]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.14:566][958]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.14:582][959]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.14:599][960]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.14:616][961]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.14:633][962]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.14:650][963]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.14:666][964]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.14:683][965]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.14:700][966]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.14:716][967]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.14:733][968]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.14:750][969]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.14:766][970]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.14:783][971]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.14:800][972]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.14:816][973]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.14:832][974]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.14:849][975]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.14:866][976]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.14:883][977]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.14:899][978]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.14:916][979]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.14:936][980]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.14:949][981]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.14:967][982]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.14:983][983]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.14:999][984]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.15:016][985]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.15:033][986]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.15:049][987]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.15:066][988]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.15:083][989]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.15:100][990]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.15:116][991]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.15:133][992]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.15:149][993]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.15:166][994]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.15:182][995]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.15:199][996]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.15:216][997]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.15:233][998]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.15:249][999]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.15:266][  0]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.15:282][  1]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.15:299][  2]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.15:316][  3]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.15:332][  4]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.15:349][  5]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.15:366][  6]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.15:382][  7]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.15:399][  8]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.15:416][  9]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.15:432][ 10]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.15:449][ 11]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.15:466][ 12]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.15:482][ 13]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.15:499][ 14]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.15:516][ 15]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.15:532][ 16]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.15:549][ 17]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.15:566][ 18]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.15:582][ 19]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.15:599][ 20]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.15:616][ 21]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.15:632][ 22]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.15:649][ 23]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.15:666][ 24]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.15:682][ 25]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.15:699][ 26]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.15:716][ 27]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.15:732][ 28]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.15:749][ 29]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.15:766][ 30]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.15:783][ 31]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.15:799][ 32]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.15:816][ 33]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.15:832][ 34]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.15:849][ 35]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.15:866][ 36]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.15:882][ 37]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.15:899][ 38]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.15:915][ 39]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.15:932][ 40]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.15:951][ 41]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.15:966][ 42]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.15:982][ 43]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.15:999][ 44]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.16:023][ 45]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.16:038][ 46]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.16:055][ 47]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.16:072][ 48]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.16:089][ 49]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.16:105][ 50]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.16:122][ 51]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.16:139][ 52]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.16:155][ 53]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.16:172][ 54]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.16:189][ 55]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.16:205][ 56]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.16:222][ 57]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.16:239][ 58]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.16:255][ 59]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.16:272][ 60]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.16:289][ 61]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.16:305][ 62]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.16:322][ 63]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.16:339][ 64]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.16:355][ 65]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.16:372][ 66]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.16:389][ 67]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.16:405][ 68]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.16:422][ 69]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.16:439][ 70]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.16:455][ 71]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.16:472][ 72]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.16:489][ 73]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.16:505][ 74]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.16:522][ 75]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.16:539][ 76]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.16:555][ 77]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.16:572][ 78]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.16:589][ 79]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.16:605][ 80]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.16:622][ 81]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.16:640][ 82]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.16:655][ 83]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.16:672][ 84]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.16:689][ 85]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.16:705][ 86]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.16:722][ 87]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.16:739][ 88]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.16:755][ 89]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.16:772][ 90]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.16:789][ 91]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.16:806][ 92]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.16:823][ 93]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.16:845][ 94]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.16:885][ 95]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.16:902][ 96]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.16:918][ 97]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.16:935][ 98]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.16:955][ 99]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.16:968][100]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.16:985][101]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.17:002][102]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.17:018][103]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.17:035][104]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.17:052][105]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.17:068][106]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.17:085][107]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.17:102][108]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.17:118][109]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.17:135][110]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.17:152][111]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.17:168][112]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.17:185][113]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.17:203][114]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.17:218][115]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.17:236][116]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.17:252][117]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.17:268][118]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.17:285][119]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.17:302][120]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.17:318][121]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.17:335][122]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.17:352][123]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.17:368][124]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.17:385][125]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.17:402][126]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.17:418][127]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.17:435][128]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.17:453][129]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.17:469][130]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.17:485][131]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.17:503][132]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.17:518][133]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.17:535][134]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.17:551][135]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.17:568][136]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.17:585][137]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.17:602][138]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.17:618][139]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.17:635][140]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.17:651][141]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.17:668][142]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.17:685][143]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.17:701][144]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.17:719][145]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.17:735][146]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.17:752][147]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.17:768][148]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.17:785][149]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.17:801][150]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.17:819][151]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.17:835][152]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.17:853][153]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.17:868][154]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.17:886][155]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.17:903][156]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.17:919][157]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.17:936][158]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.17:952][159]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.17:971][160]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.17:986][161]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.18:003][162]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.18:019][163]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.18:035][164]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.18:053][165]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.18:070][166]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.18:085][167]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.18:103][168]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.18:119][169]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.18:136][170]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.18:152][171]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.18:170][172]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.18:186][173]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.18:203][174]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.18:220][175]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.18:236][176]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.18:252][177]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.18:268][178]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.18:285][179]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.18:301][180]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.18:318][181]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.18:335][182]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.18:351][183]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.18:368][184]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.18:385][185]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.18:401][186]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.18:418][187]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.18:435][188]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.18:451][189]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.18:468][190]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.18:485][191]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.18:501][192]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.18:518][193]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.18:535][194]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.18:562][195]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.18:575][196]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.18:592][197]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.18:609][198]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.18:625][199]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.18:642][200]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.18:659][201]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.18:676][202]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.18:692][203]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.18:710][204]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.18:724][205]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.18:742][206]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.18:758][207]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.18:775][208]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.18:791][209]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.18:808][210]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.18:825][211]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.18:841][212]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.18:859][213]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.18:875][214]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.18:891][215]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.18:909][216]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.18:925][217]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.18:942][218]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.18:958][219]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.18:977][220]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.18:992][221]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.19:008][222]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.19:024][223]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.19:041][224]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.19:059][225]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.19:074][226]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.19:091][227]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.19:107][228]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.19:124][229]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.19:141][230]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.19:157][231]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.19:174][232]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.19:191][233]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.19:207][234]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.19:225][235]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.19:243][236]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.19:259][237]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.19:275][238]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.19:292][239]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.19:308][240]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.19:325][241]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.19:342][242]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.19:359][243]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.19:375][244]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.19:391][245]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.19:408][246]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.19:425][247]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.19:442][248]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.19:458][249]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.19:477][250]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.19:491][251]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.19:508][252]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.19:525][253]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.19:542][254]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.19:558][255]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.19:575][256]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.19:591][257]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.19:608][258]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.19:626][259]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.19:641][260]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.19:658][261]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.19:674][262]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.19:691][263]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.19:708][264]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.19:724][265]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.19:741][266]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.19:758][267]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.19:774][268]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.19:791][269]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.19:808][270]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.19:825][271]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.19:841][272]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.19:859][273]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.19:875][274]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.19:891][275]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.19:908][276]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.19:925][277]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.19:941][278]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.19:958][279]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.19:978][280]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.19:991][281]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.20:009][282]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.20:025][283]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.20:041][284]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.20:057][285]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.20:075][286]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.20:091][287]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.20:107][288]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.20:124][289]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.20:141][290]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.20:157][291]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.20:175][292]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.20:191][293]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.20:208][294]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.20:224][295]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.20:241][296]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.20:257][297]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.20:274][298]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.20:291][299]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.20:307][300]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.20:324][301]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.20:341][302]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.20:357][303]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.20:374][304]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.20:391][305]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.20:407][306]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.20:424][307]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.20:442][308]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.20:458][309]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.20:474][310]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.20:492][311]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.20:510][312]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.20:525][313]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.20:542][314]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.20:559][315]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.20:576][316]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.20:593][317]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.20:609][318]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.20:625][319]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.20:642][320]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.20:659][321]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.20:675][322]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.20:692][323]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.20:709][324]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.20:725][325]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.20:742][326]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.20:759][327]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.20:776][328]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.20:792][329]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.20:809][330]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.20:826][331]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.20:842][332]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.20:859][333]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.20:875][334]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.20:892][335]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.20:909][336]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.20:925][337]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.20:942][338]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.20:959][339]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.20:975][340]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.20:995][341]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.21:008][342]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.21:025][343]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.21:041][344]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.21:058][345]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.21:075][346]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.21:091][347]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.21:108][348]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.21:125][349]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.21:142][350]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.21:158][351]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.21:175][352]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.21:192][353]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.21:209][354]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.21:226][355]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.21:241][356]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.21:259][357]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.21:275][358]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.21:292][359]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.21:308][360]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.21:325][361]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.21:341][362]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.21:358][363]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.21:375][364]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.21:392][365]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.21:408][366]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.21:425][367]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.21:442][368]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.21:458][369]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.21:476][370]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.21:492][371]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.21:509][372]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.21:525][373]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.21:542][374]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.21:559][375]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.21:575][376]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.21:592][377]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.21:608][378]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.21:625][379]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.21:641][380]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.21:659][381]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.21:675][382]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.21:692][383]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.21:709][384]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.21:727][385]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.21:742][386]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.21:760][387]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.21:775][388]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.21:792][389]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.21:809][390]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.21:825][391]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.21:842][392]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.21:859][393]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.21:875][394]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.21:892][395]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.21:909][396]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.21:925][397]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.21:942][398]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.21:959][399]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.21:976][400]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.21:996][401]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.22:008][402]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.22:025][403]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.22:042][404]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.22:058][405]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.22:075][406]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.22:092][407]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.22:108][408]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.22:125][409]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.22:141][410]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.22:158][411]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.22:175][412]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.22:192][413]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.22:209][414]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.22:227][415]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.22:242][416]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.22:258][417]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.22:275][418]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.22:292][419]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.22:309][420]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.22:325][421]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.22:342][422]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.22:358][423]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.22:375][424]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.22:392][425]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.22:408][426]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.22:425][427]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.22:441][428]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.22:458][429]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.22:474][430]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.22:491][431]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.22:508][432]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.22:524][433]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.22:541][434]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.22:558][435]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.22:574][436]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.22:591][437]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.22:608][438]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.22:624][439]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.22:642][440]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.22:658][441]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.22:674][442]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.22:691][443]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.22:708][444]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.22:724][445]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.22:741][446]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.22:758][447]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.22:774][448]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.22:791][449]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.22:808][450]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.22:824][451]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.22:841][452]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.22:858][453]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.22:874][454]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.22:891][455]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.22:908][456]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.22:925][457]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.22:941][458]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.22:958][459]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.22:974][460]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.22:991][461]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.23:010][462]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.23:024][463]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.23:041][464]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.23:055][465]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.23:069][466]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.23:085][467]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.23:102][468]UEHelMa: Error: ACharacterMaster::Tick{65} : NotLogin!!
+[2021.11.30-15.57.23:118][469]LogSlate: Window 'UEHelMa 프리뷰 [NetMode: Standalone]  (64-bit/Windows)' being destroyed
+[2021.11.30-15.57.23:138][469]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_Main
+[2021.11.30-15.57.23:164][469]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2021.11.30-15.57.23:165][469]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.30-15.57.23:173][469]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.30-15.57.23:176][469]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.30-15.57.23:179][469]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.30-15.57.23:180][469]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.30-15.57.23:206][469]LogTemp: Error: UnResManager::Release()
+[2021.11.30-15.57.23:206][469]UEHelMa: Warning: UEServerConnect::Close{227} : UnServerConnect::Close() 
+[2021.11.30-15.57.23:207][469]LogTemp: Error: Recv Error false
+[2021.11.30-15.57.23:207][469]LogTemp: Error: Thread End
+[2021.11.30-15.57.23:207][469]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2021.11.30-15.57.23:227][470]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2021.11.30-15.59.14:124][110]LogHotReload: New module detected: UE4Editor-UEHelMa-0118.dll
+[2021.11.30-15.59.16:282][186]LogHotReload: Starting Hot-Reload from IDE
+[2021.11.30-15.59.16:291][186]LogSlate: Took 0.001663 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.11.30-15.59.16:548][186]LogClass: EMonsterAnim HotReload.
+[2021.11.30-15.59.16:548][186]LogClass: EDirAnim HotReload.
+[2021.11.30-15.59.16:548][186]LogClass: ECharacterName HotReload.
+[2021.11.30-15.59.16:548][186]LogClass: EKallariAnim HotReload.
+[2021.11.30-15.59.16:548][186]LogClass: EPhaseAnim HotReload.
+[2021.11.30-15.59.16:548][186]LogClass: ESelectAnim HotReload.
+[2021.11.30-15.59.16:548][186]LogClass: EShinbiAnim HotReload.
+[2021.11.30-15.59.16:569][186]LogHotReload: Re-instancing Pawn_SelectPlayer after hot-reload.
+[2021.11.30-15.59.16:589][186]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'UEHelMa' in 0.0004 seconds. Added 23 classes and 2 folders.
+[2021.11.30-15.59.16:592][186]Display: HotReload successful (19 functions remapped  0 scriptstructs remapped)
+[2021.11.30-15.59.16:653][186]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0124 seconds. Added 3626 classes and 864 folders.
+[2021.11.30-15.59.16:697][186]Display: HotReload took  0.4s.
+[2021.11.30-15.59.32:231][100]LogHotReload: New module detected: UE4Editor-UEHelMa-0119.dll
+[2021.11.30-15.59.34:219][173]LogHotReload: Starting Hot-Reload from IDE
+[2021.11.30-15.59.34:299][173]LogClass: EMonsterAnim HotReload.
+[2021.11.30-15.59.34:299][173]LogClass: EDirAnim HotReload.
+[2021.11.30-15.59.34:299][173]LogClass: ECharacterName HotReload.
+[2021.11.30-15.59.34:299][173]LogClass: EKallariAnim HotReload.
+[2021.11.30-15.59.34:299][173]LogClass: EPhaseAnim HotReload.
+[2021.11.30-15.59.34:299][173]LogClass: ESelectAnim HotReload.
+[2021.11.30-15.59.34:299][173]LogClass: EShinbiAnim HotReload.
+[2021.11.30-15.59.34:319][173]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'UEHelMa' in 0.0003 seconds. Added 23 classes and 2 folders.
+[2021.11.30-15.59.34:322][173]Display: HotReload successful (19 functions remapped  0 scriptstructs remapped)
+[2021.11.30-15.59.34:356][173]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0099 seconds. Added 3626 classes and 864 folders.
+[2021.11.30-15.59.34:362][173]Display: HotReload took  0.1s.
+[2021.11.30-15.59.37:844][365]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2021.11.30-15.59.37:851][365]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.30-15.59.37:851][365]PIE: New page: PIE 세션: Start (2021. 12. 1. 오전 9:59:37)
+[2021.11.30-15.59.37:851][365]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Start
+[2021.11.30-15.59.37:852][365]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000805s)
+[2021.11.30-15.59.37:853][365]LogAIModule: Creating AISystem for world Start
+[2021.11.30-15.59.37:853][365]LogPlayLevel: PIE: World Init took: (0.001265s)
+[2021.11.30-15.59.37:853][365]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Start.Start to /Game/Level/UEDPIE_0_Start.Start (0.002197s)
+[2021.11.30-15.59.37:859][365]LogTemp: Error: UnResManager::Release()
+[2021.11.30-15.59.37:859][365]UEHelMa: Warning: UEServerConnect::Close{227} : UnServerConnect::Close() 
+[2021.11.30-15.59.37:859][365]LogTemp: Error: UnResManager::Release()
+[2021.11.30-15.59.37:859][365]UEHelMa: Warning: UEServerConnect::Close{227} : UnServerConnect::Close() 
+[2021.11.30-15.59.37:859][365]LogTemp: Error: UnResManager::Release()
+[2021.11.30-15.59.37:860][365]UEHelMa: Warning: UEServerConnect::Close{227} : UnServerConnect::Close() 
+[2021.11.30-15.59.37:860][365]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2021.11.30-15.59.37:861][365]LogTemp: Error: UnResManager::ResInit()
+[2021.11.30-15.59.37:861][365]LogTemp: Error: Res Load OK 0
+[2021.11.30-15.59.37:861][365]LogTemp: Error: Res Load OK 1
+[2021.11.30-15.59.37:861][365]LogTemp: Error: Res Load OK 2
+[2021.11.30-15.59.37:861][365]LogTemp: Error: Res Load 3
+[2021.11.30-15.59.37:861][365]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.11.30-15.59.37:861][365]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.30-15.59.37:861][365]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.30-15.59.37:861][365]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.30-15.59.37:861][365]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.30-15.59.37:861][365]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.30-15.59.37:861][365]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.30-15.59.37:861][365]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.30-15.59.37:861][365]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.30-15.59.37:861][365]LogAudio: Display: Using built-in audio occlusion.
+[2021.11.30-15.59.37:861][365]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.30-15.59.37:876][365]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.30-15.59.37:876][365]LogAudioMixer: Display: 1: FrontRight
+[2021.11.30-15.59.37:876][365]LogAudioMixer: Display: 2: FrontCenter
+[2021.11.30-15.59.37:876][365]LogAudioMixer: Display: 3: LowFrequency
+[2021.11.30-15.59.37:876][365]LogAudioMixer: Display: 4: BackLeft
+[2021.11.30-15.59.37:876][365]LogAudioMixer: Display: 5: BackRight
+[2021.11.30-15.59.37:876][365]LogAudioMixer: Display: 6: SideLeft
+[2021.11.30-15.59.37:876][365]LogAudioMixer: Display: 7: SideRight
+[2021.11.30-15.59.37:914][365]LogAudioMixer: Display: Using Audio Device 스피커(2- Logitech G430 Gaming Headset)
+[2021.11.30-15.59.37:915][365]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.30-15.59.37:915][365]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.30-15.59.37:915][365]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.30-15.59.37:915][365]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.30-15.59.37:915][365]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.30-15.59.37:915][365]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.11.30-15.59.37:939][365]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.30-15.59.37:939][365]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.30-15.59.37:939][365]LogInit: FAudioDevice initialized.
+[2021.11.30-15.59.37:939][365]LogAudio: Display: Audio Device (ID: 3) registered with world 'Start'.
+[2021.11.30-15.59.37:999][365]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.30-15.59.38:000][365]LogLoad: Game class is 'StartGameMode'
+[2021.11.30-15.59.38:001][365]LogWorld: Bringing World /Game/Level/UEDPIE_0_Start.Start up for play (max tick rate 60) at 2021.12.01-00.59.38
+[2021.11.30-15.59.38:001][365]LogWorld: Bringing up level for play took: 0.000594
+[2021.11.30-15.59.38:001][365]LogOnline: OSS: Creating online subsystem instance for: :Context_2
+[2021.11.30-15.59.38:005][365]LogTemp: Error: 0
+[2021.11.30-15.59.38:005][365]LogTemp: Error: 1
+[2021.11.30-15.59.38:005][365]LogTemp: Error: 2
+[2021.11.30-15.59.38:005][365]LogTemp: Error: 3
+[2021.11.30-15.59.38:005][365]LogTemp: Error: 4
+[2021.11.30-15.59.38:005][365]LogTemp: Error: 5
+[2021.11.30-15.59.38:005][365]LogTemp: Error: 6
+[2021.11.30-15.59.38:005][365]LogTemp: Error: 7
+[2021.11.30-15.59.38:005][365]LogTemp: Error: 8
+[2021.11.30-15.59.38:005][365]LogTemp: Error: 9
+[2021.11.30-15.59.38:007][365]PIE: 서버가 로그인했습니다.
+[2021.11.30-15.59.38:009][365]PIE: 에디터에서 플레이 총 시작 시간 0.161초입니다.
+[2021.11.30-15.59.38:621][399]UEHelMa: Warning: UWidget_Start::ConnectButtonCallback{80} : ConnectButtonCallback
+[2021.11.30-15.59.38:628][400]UEHelMa: Warning: UEServerConnect::Close{227} : UnServerConnect::Close() 
+[2021.11.30-15.59.38:628][400]UEHelMa: Warning: UEServerConnect::ConnectSocketCreate{139} : Socket Init
+[2021.11.30-15.59.38:628][400]UEHelMa: Error: UEServerConnect::ConnectSocketCreate{150} : Socket Create OK
+[2021.11.30-15.59.38:628][400]UEHelMa: Warning: UEServerConnect::ConnectSocketCreate{158} : 127.0.0.1
+[2021.11.30-15.59.38:628][400]UEHelMa: Warning: UEServerConnect::Connect{182} : Server Connect Success
+[2021.11.30-15.59.40:488][511]UEHelMa: Warning: UWidget_Start::LoginButtonCallback{90} : LoginButtonCallback
+[2021.11.30-15.59.40:488][511]UEHelMa: Warning: UWidget_Start::LoginButtonCallback{111} : Is Login Packet Send ID g | PW g
+[2021.11.30-15.59.40:510][513]UEHelMa: Warning: ClientPacketFunc::LoginResultPacketProcess{49} : PacketCode:0
+[2021.11.30-15.59.40:510][513]UEHelMa: Warning: ClientPacketFunc::LoginResultPacketProcess{50} : Login OK 
+[2021.11.30-15.59.40:522][513]LogNet: Browse: /Game/Level/Select
+[2021.11.30-15.59.40:522][513]LogLoad: LoadMap: /Game/Level/Select
+[2021.11.30-15.59.40:522][513]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_Start
+[2021.11.30-15.59.40:522][513]LogWorld: UWorld::CleanupWorld for Start, bSessionEnded=true, bCleanupResources=true
+[2021.11.30-15.59.40:522][513]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated

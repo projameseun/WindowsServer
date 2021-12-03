@@ -1,0 +1,1188 @@
+﻿Log file open, 11/10/21 19:44:39
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: UEHelMa
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.292733
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Warning: Incompatible or missing module: UEHelMa
+Running C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe Development Win64 -Project="C:/Users/user/Desktop/ServerPrograming/Portfolio/3EJS/HelMaClient/UEHelMa.uproject" -TargetType=Editor -Progress -NoEngineChanges -NoHotReloadFromIDE
+Creating makefile for UEHelMaEditor (no existing makefile)
+@progress push 5%
+Parsing headers for UEHelMaEditor
+  Running UnrealHeaderTool "C:\Users\user\Desktop\ServerPrograming\Portfolio\3EJS\HelMaClient\UEHelMa.uproject" "C:\Users\user\Desktop\ServerPrograming\Portfolio\3EJS\HelMaClient\Intermediate\Build\Win64\UEHelMaEditor\Development\UEHelMaEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\user\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+Reflection code generated for UEHelMaEditor in 4.1723949 seconds
+@progress pop
+Building UEHelMaEditor...
+Using Visual Studio 2019 14.29.30038 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+Building 58 actions with 16 processes...
+  @progress 'Compiling C++ source code...' 0%
+  @progress 'Compiling C++ source code...' 2%
+  [1/58] Default.rc2
+  @progress 'Compiling C++ source code...' 3%
+  [2/58] SharedPCH.Engine.ShadowErrors.cpp
+  @progress 'Compiling C++ source code...' 5%
+  [3/58] UEHelMa.cpp
+  @progress 'Compiling C++ source code...' 7%
+  [4/58] UEHelMaGameModeBase.gen.cpp
+  @progress 'Compiling C++ source code...' 9%
+  [5/58] ShinbiAnim.gen.cpp
+  @progress 'Compiling C++ source code...' 10%
+  [6/58] Select_Controller.gen.cpp
+  @progress 'Compiling C++ source code...' 12%
+  [7/58] Pawn_SelectPlayer.cpp
+  @progress 'Compiling C++ source code...' 14%
+  [8/58] UEHelMa.init.gen.cpp
+  @progress 'Compiling C++ source code...' 16%
+  [9/58] UEResManager.cpp
+  @progress 'Compiling C++ source code...' 17%
+  [10/58] StartGameMode.gen.cpp
+  @progress 'Compiling C++ source code...' 19%
+  [11/58] UEActorManager.cpp
+  @progress 'Compiling C++ source code...' 21%
+  [12/58] UEHelMaGameModeBase.cpp
+  @progress 'Compiling C++ source code...' 22%
+  [13/58] Widget_CharacterState.gen.cpp
+  @progress 'Compiling C++ source code...' 24%
+  [14/58] Widget_Start.gen.cpp
+  @progress 'Compiling C++ source code...' 26%
+  [15/58] StartGameMode.cpp
+  @progress 'Compiling C++ source code...' 28%
+  [16/58] Widget_CharacterState.cpp
+  @progress 'Compiling C++ source code...' 29%
+  [17/58] Widget_MainHUD.gen.cpp
+  @progress 'Compiling C++ source code...' 31%
+  [18/58] Widget_Select.gen.cpp
+  @progress 'Compiling C++ source code...' 33%
+  [19/58] GameInfo.cpp
+  @progress 'Compiling C++ source code...' 34%
+  [20/58] Widget_CharacterImg.gen.cpp
+  @progress 'Compiling C++ source code...' 36%
+  [21/58] CharacterMaster.gen.cpp
+  @progress 'Compiling C++ source code...' 38%
+  [22/58] Pawn_SelectPlayer.gen.cpp
+  @progress 'Compiling C++ source code...' 40%
+  [23/58] Widget_MainHUD.cpp
+  C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winnt.h(603): warning C4005: 'TEXT': ??ũ?? ??????
+  C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\HAL/Platform.h(1082): note: 'TEXT'?? ???? ???Ǹ? ?????Ͻʽÿ?.
+  C:\Users\user\Desktop\ServerPrograming\Portfolio\3EJS\HelMaServer\LogicContent\PacketType.h(268): warning C4265: 'ActorUpdateData': Ŭ?????? ???? ?Լ??? ?????? non-trivial ?Ҹ??ڰ? ?????? ?ƴմϴ?. ?? Ŭ?????? ?ν??Ͻ??? ??Ȯ?ϰ? ?Ҹ????? ???? ?? ?ֽ??ϴ?.
+  C:\Users\user\Desktop\ServerPrograming\Portfolio\3EJS\HelMaServer\LogicContent\ServerToClient.h(41): warning C4265: 'RankData': Ŭ?????? ???? ?Լ??? ?????? non-trivial ?Ҹ??ڰ? ?????? ?ƴմϴ?. ?? Ŭ?????? ?ν??Ͻ??? ??Ȯ?ϰ? ?Ҹ????? ???? ?? ?ֽ??ϴ?.
+  C:\Users\user\Desktop\ServerPrograming\Portfolio\3EJS\HelMaServer\LogicContent\ServerToClient.h(89): warning C4265: 'ItemData': Ŭ?????? ???? ?Լ??? ?????? non-trivial ?Ҹ??ڰ? ?????? ?ƴմϴ?. ?? Ŭ?????? ?ν??Ͻ??? ??Ȯ?ϰ? ?Ҹ????? ???? ?? ?ֽ??ϴ?.
+  C:\Users\user\Desktop\ServerPrograming\Portfolio\3EJS\HelMaServer\LogicContent\ServerToClient.h(53): warning C5038: ?????? ???? 'ItemData::Count'??(??) ?????? ???? 'ItemData::Type' ???Ŀ? ?ʱ?ȭ?˴ϴ?.
+  C:\Users\user\Desktop\ServerPrograming\Portfolio\3EJS\HelMaServer\LogicContent\ServerToClient.h(53): warning C5038: ?????? ???? 'ItemData::InvenOrder'??(??) ?????? ???? 'ItemData::Name' ???Ŀ? ?ʱ?ȭ?˴ϴ?.
+  C:\Users\user\Desktop\ServerPrograming\Portfolio\3EJS\HelMaServer\LogicContent\ServerToClient.h(634): warning C4265: 'ItemUpdateData': Ŭ?????? ???? ?Լ??? ?????? non-trivial ?Ҹ??ڰ? ?????? ?ƴմϴ?. ?? Ŭ?????? ?ν??Ͻ??? ??Ȯ?ϰ? ?Ҹ????? ???? ?? ?ֽ??ϴ?.
+  @progress 'Compiling C++ source code...' 41%
+  [24/58] KallariAnim.gen.cpp
+  @progress 'Compiling C++ source code...' 43%
+  [25/58] PhaseAnim.gen.cpp
+  @progress 'Compiling C++ source code...' 45%
+  [26/58] Widget_Start.cpp
+  C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winnt.h(603): warning C4005: 'TEXT': ??ũ?? ??????
+  C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\HAL/Platform.h(1082): note: 'TEXT'?? ???? ???Ǹ? ?????Ͻʽÿ?.
+  C:\Users\user\Desktop\ServerPrograming\Portfolio\3EJS\HelMaServer\LogicContent\PacketType.h(268): warning C4265: 'ActorUpdateData': Ŭ?????? ???? ?Լ??? ?????? non-trivial ?Ҹ??ڰ? ?????? ?ƴմϴ?. ?? Ŭ?????? ?ν??Ͻ??? ??Ȯ?ϰ? ?Ҹ????? ???? ?? ?ֽ??ϴ?.
+  C:\Users\user\Desktop\ServerPrograming\Portfolio\3EJS\HelMaServer\LogicContent\ServerToClient.h(41): warning C4265: 'RankData': Ŭ?????? ???? ?Լ??? ?????? non-trivial ?Ҹ??ڰ? ?????? ?ƴմϴ?. ?? Ŭ?????? ?ν??Ͻ??? ??Ȯ?ϰ? ?Ҹ????? ???? ?? ?ֽ??ϴ?.
+  C:\Users\user\Desktop\ServerPrograming\Portfolio\3EJS\HelMaServer\LogicContent\ServerToClient.h(89): warning C4265: 'ItemData': Ŭ?????? ???? ?Լ??? ?????? non-trivial ?Ҹ??ڰ? ?????? ?ƴմϴ?. ?? Ŭ?????? ?ν??Ͻ??? ??Ȯ?ϰ? ?Ҹ????? ???? ?? ?ֽ??ϴ?.
+  C:\Users\user\Desktop\ServerPrograming\Portfolio\3EJS\HelMaServer\LogicContent\ServerToClient.h(53): warning C5038: ?????? ???? 'ItemData::Count'??(??) ?????? ???? 'ItemData::Type' ???Ŀ? ?ʱ?ȭ?˴ϴ?.
+  C:\Users\user\Desktop\ServerPrograming\Portfolio\3EJS\HelMaServer\LogicContent\ServerToClient.h(53): warning C5038: ?????? ???? 'ItemData::InvenOrder'??(??) ?????? ???? 'ItemData::Name' ???Ŀ? ?ʱ?ȭ?˴ϴ?.
+  C:\Users\user\Desktop\ServerPrograming\Portfolio\3EJS\HelMaServer\LogicContent\ServerToClient.h(634): warning C4265: 'ItemUpdateData': Ŭ?????? ???? ?Լ??? ?????? non-trivial ?Ҹ??ڰ? ?????? ?ƴմϴ?. ?? Ŭ?????? ?ν??Ͻ??? ??Ȯ?ϰ? ?Ҹ????? ???? ?? ?ֽ??ϴ?.
+  C:\Users\user\Desktop\ServerPrograming\Portfolio\3EJS\HelMaServer\GameEngineBase\GameEngineFile.h(31): warning C5038: ?????? ???? 'GameEngineFile::m_File'??(??) ?????? ???? 'GameEngineFile::m_OpenMode' ???Ŀ? ?ʱ?ȭ?˴ϴ?.
+  C:\Users\user\Desktop\ServerPrograming\Portfolio\3EJS\HelMaServer\GameEngineBase\GameEngineFile.h(35): warning C5038: ?????? ???? 'GameEngineFile::m_File'??(??) ?????? ???? 'GameEngineFile::m_OpenMode' ???Ŀ? ?ʱ?ȭ?˴ϴ?.
+  @progress 'Compiling C++ source code...' 47%
+  [27/58] ShinbiAnim.cpp
+  @progress 'Compiling C++ source code...' 48%
+  [28/58] Widget_Select.cpp
+  C:\Users\user\Desktop\ServerPrograming\Portfolio\3EJS\HelMaServer\LogicContent\PacketType.h(268): warning C4265: 'ActorUpdateData': Ŭ?????? ???? ?Լ??? ?????? non-trivial ?Ҹ??ڰ? ?????? ?ƴմϴ?. ?? Ŭ?????? ?ν??Ͻ??? ??Ȯ?ϰ? ?Ҹ????? ???? ?? ?ֽ??ϴ?.
+  C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winnt.h(603): warning C4005: 'TEXT': ??ũ?? ??????
+  C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\HAL/Platform.h(1082): note: 'TEXT'?? ???? ???Ǹ? ?????Ͻʽÿ?.
+  C:\Users\user\Desktop\ServerPrograming\Portfolio\3EJS\HelMaServer\LogicContent\ServerToClient.h(41): warning C4265: 'RankData': Ŭ?????? ???? ?Լ??? ?????? non-trivial ?Ҹ??ڰ? ?????? ?ƴմϴ?. ?? Ŭ?????? ?ν??Ͻ??? ??Ȯ?ϰ? ?Ҹ????? ???? ?? ?ֽ??ϴ?.
+  C:\Users\user\Desktop\ServerPrograming\Portfolio\3EJS\HelMaServer\LogicContent\ServerToClient.h(89): warning C4265: 'ItemData': Ŭ?????? ???? ?Լ??? ?????? non-trivial ?Ҹ??ڰ? ?????? ?ƴմϴ?. ?? Ŭ?????? ?ν??Ͻ??? ??Ȯ?ϰ? ?Ҹ????? ???? ?? ?ֽ??ϴ?.
+  C:\Users\user\Desktop\ServerPrograming\Portfolio\3EJS\HelMaServer\LogicContent\ServerToClient.h(53): warning C5038: ?????? ???? 'ItemData::Count'??(??) ?????? ???? 'ItemData::Type' ???Ŀ? ?ʱ?ȭ?˴ϴ?.
+  C:\Users\user\Desktop\ServerPrograming\Portfolio\3EJS\HelMaServer\LogicContent\ServerToClient.h(53): warning C5038: ?????? ???? 'ItemData::InvenOrder'??(??) ?????? ???? 'ItemData::Name' ???Ŀ? ?ʱ?ȭ?˴ϴ?.
+  C:\Users\user\Desktop\ServerPrograming\Portfolio\3EJS\HelMaServer\LogicContent\ServerToClient.h(634): warning C4265: 'ItemUpdateData': Ŭ?????? ???? ?Լ??? ?????? non-trivial ?Ҹ??ڰ? ?????? ?ƴմϴ?. ?? Ŭ?????? ?ν??Ͻ??? ??Ȯ?ϰ? ?Ҹ????? ???? ?? ?ֽ??ϴ?.
+  @progress 'Compiling C++ source code...' 50%
+  [29/58] Select_Controller.cpp
+  @progress 'Compiling C++ source code...' 52%
+  [30/58] GameInfo.gen.cpp
+  @progress 'Compiling C++ source code...' 53%
+  [31/58] Character_Kallari.gen.cpp
+  @progress 'Compiling C++ source code...' 55%
+  [32/58] CharacterMaster.cpp
+  C:\Users\user\Desktop\ServerPrograming\Portfolio\3EJS\HelMaServer\LogicContent\PacketType.h(268): warning C4265: 'ActorUpdateData': Ŭ?????? ???? ?Լ??? ?????? non-trivial ?Ҹ??ڰ? ?????? ?ƴմϴ?. ?? Ŭ?????? ?ν??Ͻ??? ??Ȯ?ϰ? ?Ҹ????? ???? ?? ?ֽ??ϴ?.
+  C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winnt.h(603): warning C4005: 'TEXT': ??ũ?? ??????
+  C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\HAL/Platform.h(1082): note: 'TEXT'?? ???? ???Ǹ? ?????Ͻʽÿ?.
+  C:\Users\user\Desktop\ServerPrograming\Portfolio\3EJS\HelMaServer\LogicContent\ServerToClient.h(41): warning C4265: 'RankData': Ŭ?????? ???? ?Լ??? ?????? non-trivial ?Ҹ??ڰ? ?????? ?ƴմϴ?. ?? Ŭ?????? ?ν??Ͻ??? ??Ȯ?ϰ? ?Ҹ????? ???? ?? ?ֽ??ϴ?.
+  C:\Users\user\Desktop\ServerPrograming\Portfolio\3EJS\HelMaServer\LogicContent\ServerToClient.h(89): warning C4265: 'ItemData': Ŭ?????? ???? ?Լ??? ?????? non-trivial ?Ҹ??ڰ? ?????? ?ƴմϴ?. ?? Ŭ?????? ?ν??Ͻ??? ??Ȯ?ϰ? ?Ҹ????? ???? ?? ?ֽ??ϴ?.
+  C:\Users\user\Desktop\ServerPrograming\Portfolio\3EJS\HelMaServer\LogicContent\ServerToClient.h(53): warning C5038: ?????? ???? 'ItemData::Count'??(??) ?????? ???? 'ItemData::Type' ???Ŀ? ?ʱ?ȭ?˴ϴ?.
+  C:\Users\user\Desktop\ServerPrograming\Portfolio\3EJS\HelMaServer\LogicContent\ServerToClient.h(53): warning C5038: ?????? ???? 'ItemData::InvenOrder'??(??) ?????? ???? 'ItemData::Name' ???Ŀ? ?ʱ?ȭ?˴ϴ?.
+  C:\Users\user\Desktop\ServerPrograming\Portfolio\3EJS\HelMaServer\LogicContent\ServerToClient.h(634): warning C4265: 'ItemUpdateData': Ŭ?????? ???? ?Լ??? ?????? non-trivial ?Ҹ??ڰ? ?????? ?ƴմϴ?. ?? Ŭ?????? ?ν??Ͻ??? ??Ȯ?ϰ? ?Ҹ????? ???? ?? ?ֽ??ϴ?.
+  @progress 'Compiling C++ source code...' 57%
+  [33/58] SelectGameMode.cpp
+  @progress 'Compiling C++ source code...' 59%
+  [34/58] Character_Phase.gen.cpp
+  @progress 'Compiling C++ source code...' 60%
+  [35/58] KallariAnim.cpp
+  @progress 'Compiling C++ source code...' 62%
+  [36/58] Widget_CharacterImg.cpp
+  @progress 'Compiling C++ source code...' 64%
+  [37/58] HelMaGameInstance.cpp
+  C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winnt.h(603): warning C4005: 'TEXT': ??ũ?? ??????
+  C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\HAL/Platform.h(1082): note: 'TEXT'?? ???? ???Ǹ? ?????Ͻʽÿ?.
+  C:\Users\user\Desktop\ServerPrograming\Portfolio\3EJS\HelMaServer\LogicContent\PacketType.h(268): warning C4265: 'ActorUpdateData': Ŭ?????? ???? ?Լ??? ?????? non-trivial ?Ҹ??ڰ? ?????? ?ƴմϴ?. ?? Ŭ?????? ?ν??Ͻ??? ??Ȯ?ϰ? ?Ҹ????? ???? ?? ?ֽ??ϴ?.
+  C:\Users\user\Desktop\ServerPrograming\Portfolio\3EJS\HelMaServer\LogicContent\ServerToClient.h(41): warning C4265: 'RankData': Ŭ?????? ???? ?Լ??? ?????? non-trivial ?Ҹ??ڰ? ?????? ?ƴմϴ?. ?? Ŭ?????? ?ν??Ͻ??? ??Ȯ?ϰ? ?Ҹ????? ???? ?? ?ֽ??ϴ?.
+  C:\Users\user\Desktop\ServerPrograming\Portfolio\3EJS\HelMaServer\LogicContent\ServerToClient.h(89): warning C4265: 'ItemData': Ŭ?????? ???? ?Լ??? ?????? non-trivial ?Ҹ??ڰ? ?????? ?ƴմϴ?. ?? Ŭ?????? ?ν??Ͻ??? ??Ȯ?ϰ? ?Ҹ????? ???? ?? ?ֽ??ϴ?.
+  C:\Users\user\Desktop\ServerPrograming\Portfolio\3EJS\HelMaServer\LogicContent\ServerToClient.h(53): warning C5038: ?????? ???? 'ItemData::Count'??(??) ?????? ???? 'ItemData::Type' ???Ŀ? ?ʱ?ȭ?˴ϴ?.
+  C:\Users\user\Desktop\ServerPrograming\Portfolio\3EJS\HelMaServer\LogicContent\ServerToClient.h(53): warning C5038: ?????? ???? 'ItemData::InvenOrder'??(??) ?????? ???? 'ItemData::Name' ???Ŀ? ?ʱ?ȭ?˴ϴ?.
+  C:\Users\user\Desktop\ServerPrograming\Portfolio\3EJS\HelMaServer\LogicContent\ServerToClient.h(634): warning C4265: 'ItemUpdateData': Ŭ?????? ???? ?Լ??? ?????? non-trivial ?Ҹ??ڰ? ?????? ?ƴմϴ?. ?? Ŭ?????? ?ν??Ͻ??? ??Ȯ?ϰ? ?Ҹ????? ???? ?? ?ֽ??ϴ?.
+  @progress 'Compiling C++ source code...' 66%
+  [38/58] HelMaGameInstance.gen.cpp
+  @progress 'Compiling C++ source code...' 67%
+  [39/58] GameCol.cpp
+  @progress 'Compiling C++ source code...' 69%
+  [40/58] HelMaGameMode.cpp
+  @progress 'Compiling C++ source code...' 71%
+  [41/58] KallariController.cpp
+  @progress 'Compiling C++ source code...' 72%
+  [42/58] HelMaGameMode.gen.cpp
+  @progress 'Compiling C++ source code...' 74%
+  [43/58] UEWorldMsgFunc.cpp
+  C:\Users\user\Desktop\ServerPrograming\Portfolio\3EJS\HelMaServer\LogicContent\PacketType.h(268): warning C4265: 'ActorUpdateData': Ŭ?????? ???? ?Լ??? ?????? non-trivial ?Ҹ??ڰ? ?????? ?ƴմϴ?. ?? Ŭ?????? ?ν??Ͻ??? ??Ȯ?ϰ? ?Ҹ????? ???? ?? ?ֽ??ϴ?.
+  C:\Users\user\Desktop\ServerPrograming\Portfolio\3EJS\HelMaServer\LogicContent\ServerToClient.h(41): warning C4265: 'RankData': Ŭ?????? ???? ?Լ??? ?????? non-trivial ?Ҹ??ڰ? ?????? ?ƴմϴ?. ?? Ŭ?????? ?ν??Ͻ??? ??Ȯ?ϰ? ?Ҹ????? ???? ?? ?ֽ??ϴ?.
+  C:\Users\user\Desktop\ServerPrograming\Portfolio\3EJS\HelMaServer\LogicContent\ServerToClient.h(89): warning C4265: 'ItemData': Ŭ?????? ???? ?Լ??? ?????? non-trivial ?Ҹ??ڰ? ?????? ?ƴմϴ?. ?? Ŭ?????? ?ν??Ͻ??? ??Ȯ?ϰ? ?Ҹ????? ???? ?? ?ֽ??ϴ?.
+  C:\Users\user\Desktop\ServerPrograming\Portfolio\3EJS\HelMaServer\LogicContent\ServerToClient.h(53): warning C5038: ?????? ???? 'ItemData::Count'??(??) ?????? ???? 'ItemData::Type' ???Ŀ? ?ʱ?ȭ?˴ϴ?.
+  C:\Users\user\Desktop\ServerPrograming\Portfolio\3EJS\HelMaServer\LogicContent\ServerToClient.h(53): warning C5038: ?????? ???? 'ItemData::InvenOrder'??(??) ?????? ???? 'ItemData::Name' ???Ŀ? ?ʱ?ȭ?˴ϴ?.
+  C:\Users\user\Desktop\ServerPrograming\Portfolio\3EJS\HelMaServer\LogicContent\ServerToClient.h(634): warning C4265: 'ItemUpdateData': Ŭ?????? ???? ?Լ??? ?????? non-trivial ?Ҹ??ڰ? ?????? ?ƴմϴ?. ?? Ŭ?????? ?ν??Ͻ??? ??Ȯ?ϰ? ?Ҹ????? ???? ?? ?ֽ??ϴ?.
+  C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winnt.h(603): warning C4005: 'TEXT': ??ũ?? ??????
+  C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\HAL/Platform.h(1082): note: 'TEXT'?? ???? ???Ǹ? ?????Ͻʽÿ?.
+  @progress 'Compiling C++ source code...' 76%
+  [44/58] SelectGameMode.gen.cpp
+  @progress 'Compiling C++ source code...' 78%
+  [45/58] Character_Shinbi.gen.cpp
+  @progress 'Compiling C++ source code...' 79%
+  [46/58] SelectAnim.gen.cpp
+  @progress 'Compiling C++ source code...' 81%
+  [47/58] SelectAnim.cpp
+  @progress 'Compiling C++ source code...' 83%
+  [48/58] KallariController.gen.cpp
+  @progress 'Compiling C++ source code...' 84%
+  [49/58] PhaseAnim.cpp
+  @progress 'Compiling C++ source code...' 86%
+  [50/58] Character_Phase.cpp
+  C:\Users\user\Desktop\ServerPrograming\Portfolio\3EJS\HelMaServer\LogicContent\PacketType.h(268): warning C4265: 'ActorUpdateData': Ŭ?????? ???? ?Լ??? ?????? non-trivial ?Ҹ??ڰ? ?????? ?ƴմϴ?. ?? Ŭ?????? ?ν??Ͻ??? ??Ȯ?ϰ? ?Ҹ????? ???? ?? ?ֽ??ϴ?.
+  C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winnt.h(603): warning C4005: 'TEXT': ??ũ?? ??????
+  C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\HAL/Platform.h(1082): note: 'TEXT'?? ???? ???Ǹ? ?????Ͻʽÿ?.
+  C:\Users\user\Desktop\ServerPrograming\Portfolio\3EJS\HelMaServer\LogicContent\ServerToClient.h(41): warning C4265: 'RankData': Ŭ?????? ???? ?Լ??? ?????? non-trivial ?Ҹ??ڰ? ?????? ?ƴմϴ?. ?? Ŭ?????? ?ν??Ͻ??? ??Ȯ?ϰ? ?Ҹ????? ???? ?? ?ֽ??ϴ?.
+  C:\Users\user\Desktop\ServerPrograming\Portfolio\3EJS\HelMaServer\LogicContent\ServerToClient.h(89): warning C4265: 'ItemData': Ŭ?????? ???? ?Լ??? ?????? non-trivial ?Ҹ??ڰ? ?????? ?ƴմϴ?. ?? Ŭ?????? ?ν??Ͻ??? ??Ȯ?ϰ? ?Ҹ????? ???? ?? ?ֽ??ϴ?.
+  C:\Users\user\Desktop\ServerPrograming\Portfolio\3EJS\HelMaServer\LogicContent\ServerToClient.h(53): warning C5038: ?????? ???? 'ItemData::Count'??(??) ?????? ???? 'ItemData::Type' ???Ŀ? ?ʱ?ȭ?˴ϴ?.
+  C:\Users\user\Desktop\ServerPrograming\Portfolio\3EJS\HelMaServer\LogicContent\ServerToClient.h(53): warning C5038: ?????? ???? 'ItemData::InvenOrder'??(??) ?????? ???? 'ItemData::Name' ???Ŀ? ?ʱ?ȭ?˴ϴ?.
+  C:\Users\user\Desktop\ServerPrograming\Portfolio\3EJS\HelMaServer\LogicContent\ServerToClient.h(634): warning C4265: 'ItemUpdateData': Ŭ?????? ???? ?Լ??? ?????? non-trivial ?Ҹ??ڰ? ?????? ?ƴմϴ?. ?? Ŭ?????? ?ν??Ͻ??? ??Ȯ?ϰ? ?Ҹ????? ???? ?? ?ֽ??ϴ?.
+  @progress 'Compiling C++ source code...' 88%
+  [51/58] Character_Shinbi.cpp
+  C:\Users\user\Desktop\ServerPrograming\Portfolio\3EJS\HelMaServer\LogicContent\PacketType.h(268): warning C4265: 'ActorUpdateData': Ŭ?????? ???? ?Լ??? ?????? non-trivial ?Ҹ??ڰ? ?????? ?ƴմϴ?. ?? Ŭ?????? ?ν??Ͻ??? ??Ȯ?ϰ? ?Ҹ????? ???? ?? ?ֽ??ϴ?.
+  C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winnt.h(603): warning C4005: 'TEXT': ??ũ?? ??????
+  C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\HAL/Platform.h(1082): note: 'TEXT'?? ???? ???Ǹ? ?????Ͻʽÿ?.
+  C:\Users\user\Desktop\ServerPrograming\Portfolio\3EJS\HelMaServer\LogicContent\ServerToClient.h(41): warning C4265: 'RankData': Ŭ?????? ???? ?Լ??? ?????? non-trivial ?Ҹ??ڰ? ?????? ?ƴմϴ?. ?? Ŭ?????? ?ν??Ͻ??? ??Ȯ?ϰ? ?Ҹ????? ???? ?? ?ֽ??ϴ?.
+  C:\Users\user\Desktop\ServerPrograming\Portfolio\3EJS\HelMaServer\LogicContent\ServerToClient.h(89): warning C4265: 'ItemData': Ŭ?????? ???? ?Լ??? ?????? non-trivial ?Ҹ??ڰ? ?????? ?ƴմϴ?. ?? Ŭ?????? ?ν??Ͻ??? ??Ȯ?ϰ? ?Ҹ????? ???? ?? ?ֽ??ϴ?.
+  C:\Users\user\Desktop\ServerPrograming\Portfolio\3EJS\HelMaServer\LogicContent\ServerToClient.h(53): warning C5038: ?????? ???? 'ItemData::Count'??(??) ?????? ???? 'ItemData::Type' ???Ŀ? ?ʱ?ȭ?˴ϴ?.
+  C:\Users\user\Desktop\ServerPrograming\Portfolio\3EJS\HelMaServer\LogicContent\ServerToClient.h(53): warning C5038: ?????? ???? 'ItemData::InvenOrder'??(??) ?????? ???? 'ItemData::Name' ???Ŀ? ?ʱ?ȭ?˴ϴ?.
+  C:\Users\user\Desktop\ServerPrograming\Portfolio\3EJS\HelMaServer\LogicContent\ServerToClient.h(634): warning C4265: 'ItemUpdateData': Ŭ?????? ???? ?Լ??? ?????? non-trivial ?Ҹ??ڰ? ?????? ?ƴմϴ?. ?? Ŭ?????? ?ν??Ͻ??? ??Ȯ?ϰ? ?Ҹ????? ???? ?? ?ֽ??ϴ?.
+  @progress 'Compiling C++ source code...' 90%
+  [52/58] Character_Kallari.cpp
+  C:\Users\user\Desktop\ServerPrograming\Portfolio\3EJS\HelMaServer\LogicContent\PacketType.h(268): warning C4265: 'ActorUpdateData': Ŭ?????? ???? ?Լ??? ?????? non-trivial ?Ҹ??ڰ? ?????? ?ƴմϴ?. ?? Ŭ?????? ?ν??Ͻ??? ??Ȯ?ϰ? ?Ҹ????? ???? ?? ?ֽ??ϴ?.
+  C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winnt.h(603): warning C4005: 'TEXT': ??ũ?? ??????
+  C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\HAL/Platform.h(1082): note: 'TEXT'?? ???? ???Ǹ? ?????Ͻʽÿ?.
+  C:\Users\user\Desktop\ServerPrograming\Portfolio\3EJS\HelMaServer\LogicContent\ServerToClient.h(41): warning C4265: 'RankData': Ŭ?????? ???? ?Լ??? ?????? non-trivial ?Ҹ??ڰ? ?????? ?ƴմϴ?. ?? Ŭ?????? ?ν??Ͻ??? ??Ȯ?ϰ? ?Ҹ????? ???? ?? ?ֽ??ϴ?.
+  C:\Users\user\Desktop\ServerPrograming\Portfolio\3EJS\HelMaServer\LogicContent\ServerToClient.h(89): warning C4265: 'ItemData': Ŭ?????? ???? ?Լ??? ?????? non-trivial ?Ҹ??ڰ? ?????? ?ƴմϴ?. ?? Ŭ?????? ?ν??Ͻ??? ??Ȯ?ϰ? ?Ҹ????? ???? ?? ?ֽ??ϴ?.
+  C:\Users\user\Desktop\ServerPrograming\Portfolio\3EJS\HelMaServer\LogicContent\ServerToClient.h(53): warning C5038: ?????? ???? 'ItemData::Count'??(??) ?????? ???? 'ItemData::Type' ???Ŀ? ?ʱ?ȭ?˴ϴ?.
+  C:\Users\user\Desktop\ServerPrograming\Portfolio\3EJS\HelMaServer\LogicContent\ServerToClient.h(53): warning C5038: ?????? ???? 'ItemData::InvenOrder'??(??) ?????? ???? 'ItemData::Name' ???Ŀ? ?ʱ?ȭ?˴ϴ?.
+  C:\Users\user\Desktop\ServerPrograming\Portfolio\3EJS\HelMaServer\LogicContent\ServerToClient.h(634): warning C4265: 'ItemUpdateData': Ŭ?????? ???? ?Լ??? ?????? non-trivial ?Ҹ??ڰ? ?????? ?ƴմϴ?. ?? Ŭ?????? ?ν??Ͻ??? ??Ȯ?ϰ? ?Ҹ????? ???? ?? ?ֽ??ϴ?.
+  @progress 'Compiling C++ source code...' 91%
+  [53/58] UECharacterManager.cpp
+  C:\Users\user\Desktop\ServerPrograming\Portfolio\3EJS\HelMaServer\LogicContent\PacketType.h(268): warning C4265: 'ActorUpdateData': Ŭ?????? ???? ?Լ??? ?????? non-trivial ?Ҹ??ڰ? ?????? ?ƴմϴ?. ?? Ŭ?????? ?ν??Ͻ??? ??Ȯ?ϰ? ?Ҹ????? ???? ?? ?ֽ??ϴ?.
+  C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winnt.h(603): warning C4005: 'TEXT': ??ũ?? ??????
+  C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\HAL/Platform.h(1082): note: 'TEXT'?? ???? ???Ǹ? ?????Ͻʽÿ?.
+  C:\Users\user\Desktop\ServerPrograming\Portfolio\3EJS\HelMaServer\LogicContent\ServerToClient.h(41): warning C4265: 'RankData': Ŭ?????? ???? ?Լ??? ?????? non-trivial ?Ҹ??ڰ? ?????? ?ƴմϴ?. ?? Ŭ?????? ?ν??Ͻ??? ??Ȯ?ϰ? ?Ҹ????? ???? ?? ?ֽ??ϴ?.
+  C:\Users\user\Desktop\ServerPrograming\Portfolio\3EJS\HelMaServer\LogicContent\ServerToClient.h(89): warning C4265: 'ItemData': Ŭ?????? ???? ?Լ??? ?????? non-trivial ?Ҹ??ڰ? ?????? ?ƴմϴ?. ?? Ŭ?????? ?ν??Ͻ??? ??Ȯ?ϰ? ?Ҹ????? ???? ?? ?ֽ??ϴ?.
+  C:\Users\user\Desktop\ServerPrograming\Portfolio\3EJS\HelMaServer\LogicContent\ServerToClient.h(53): warning C5038: ?????? ???? 'ItemData::Count'??(??) ?????? ???? 'ItemData::Type' ???Ŀ? ?ʱ?ȭ?˴ϴ?.
+  C:\Users\user\Desktop\ServerPrograming\Portfolio\3EJS\HelMaServer\LogicContent\ServerToClient.h(53): warning C5038: ?????? ???? 'ItemData::InvenOrder'??(??) ?????? ???? 'ItemData::Name' ???Ŀ? ?ʱ?ȭ?˴ϴ?.
+  C:\Users\user\Desktop\ServerPrograming\Portfolio\3EJS\HelMaServer\LogicContent\ServerToClient.h(634): warning C4265: 'ItemUpdateData': Ŭ?????? ???? ?Լ??? ?????? non-trivial ?Ҹ??ڰ? ?????? ?ƴմϴ?. ?? Ŭ?????? ?ν??Ͻ??? ??Ȯ?ϰ? ?Ҹ????? ???? ?? ?ֽ??ϴ?.
+  @progress 'Compiling C++ source code...' 93%
+  [54/58] UEServerConnect.cpp
+  C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winnt.h(603): warning C4005: 'TEXT': ??ũ?? ??????
+  C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\HAL/Platform.h(1082): note: 'TEXT'?? ???? ???Ǹ? ?????Ͻʽÿ?.
+  C:\Users\user\Desktop\ServerPrograming\Portfolio\3EJS\HelMaServer\LogicContent\PacketType.h(268): warning C4265: 'ActorUpdateData': Ŭ?????? ???? ?Լ??? ?????? non-trivial ?Ҹ??ڰ? ?????? ?ƴմϴ?. ?? Ŭ?????? ?ν??Ͻ??? ??Ȯ?ϰ? ?Ҹ????? ???? ?? ?ֽ??ϴ?.
+  C:\Users\user\Desktop\ServerPrograming\Portfolio\3EJS\HelMaServer\LogicContent\ServerToClient.h(41): warning C4265: 'RankData': Ŭ?????? ???? ?Լ??? ?????? non-trivial ?Ҹ??ڰ? ?????? ?ƴմϴ?. ?? Ŭ?????? ?ν??Ͻ??? ??Ȯ?ϰ? ?Ҹ????? ???? ?? ?ֽ??ϴ?.
+  C:\Users\user\Desktop\ServerPrograming\Portfolio\3EJS\HelMaServer\LogicContent\ServerToClient.h(89): warning C4265: 'ItemData': Ŭ?????? ???? ?Լ??? ?????? non-trivial ?Ҹ??ڰ? ?????? ?ƴմϴ?. ?? Ŭ?????? ?ν??Ͻ??? ??Ȯ?ϰ? ?Ҹ????? ???? ?? ?ֽ??ϴ?.
+  C:\Users\user\Desktop\ServerPrograming\Portfolio\3EJS\HelMaServer\LogicContent\ServerToClient.h(53): warning C5038: ?????? ???? 'ItemData::Count'??(??) ?????? ???? 'ItemData::Type' ???Ŀ? ?ʱ?ȭ?˴ϴ?.
+  C:\Users\user\Desktop\ServerPrograming\Portfolio\3EJS\HelMaServer\LogicContent\ServerToClient.h(53): warning C5038: ?????? ???? 'ItemData::InvenOrder'??(??) ?????? ???? 'ItemData::Name' ???Ŀ? ?ʱ?ȭ?˴ϴ?.
+  C:\Users\user\Desktop\ServerPrograming\Portfolio\3EJS\HelMaServer\LogicContent\ServerToClient.h(634): warning C4265: 'ItemUpdateData': Ŭ?????? ???? ?Լ??? ?????? non-trivial ?Ҹ??ڰ? ?????? ?ƴմϴ?. ?? Ŭ?????? ?ν??Ͻ??? ??Ȯ?ϰ? ?Ҹ????? ???? ?? ?ֽ??ϴ?.
+  C:\Users\user\Desktop\ServerPrograming\Portfolio\3EJS\HelMaServer\LogicContent\PacketUpdater.h(39): warning C5038: ?????? ???? 'PacketUpdater::Ser'??(??) ?????? ???? 'PacketUpdater::m_UpdateSize' ???Ŀ? ?ʱ?ȭ?˴ϴ?.
+  C:\Users\user\Desktop\ServerPrograming\Portfolio\3EJS\HelMaClient\Source\UEHelMa\UEServerConnect.cpp(101): warning C5038: ?????? ???? 'UEServerConnect::RecvThread'??(??) ?????? ???? 'UEServerConnect::IsServer' ???Ŀ? ?ʱ?ȭ?˴ϴ?.
+  @progress 'Compiling C++ source code...' 95%
+  [55/58] ClientPacketFunc.cpp
+  C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winnt.h(603): warning C4005: 'TEXT': ??ũ?? ??????
+  C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\HAL/Platform.h(1082): note: 'TEXT'?? ???? ???Ǹ? ?????Ͻʽÿ?.
+  C:\Users\user\Desktop\ServerPrograming\Portfolio\3EJS\HelMaServer\LogicContent\PacketType.h(268): warning C4265: 'ActorUpdateData': Ŭ?????? ???? ?Լ??? ?????? non-trivial ?Ҹ??ڰ? ?????? ?ƴմϴ?. ?? Ŭ?????? ?ν??Ͻ??? ??Ȯ?ϰ? ?Ҹ????? ???? ?? ?ֽ??ϴ?.
+  C:\Users\user\Desktop\ServerPrograming\Portfolio\3EJS\HelMaServer\LogicContent\ServerToClient.h(41): warning C4265: 'RankData': Ŭ?????? ???? ?Լ??? ?????? non-trivial ?Ҹ??ڰ? ?????? ?ƴմϴ?. ?? Ŭ?????? ?ν??Ͻ??? ??Ȯ?ϰ? ?Ҹ????? ???? ?? ?ֽ??ϴ?.
+  C:\Users\user\Desktop\ServerPrograming\Portfolio\3EJS\HelMaServer\LogicContent\ServerToClient.h(89): warning C4265: 'ItemData': Ŭ?????? ???? ?Լ??? ?????? non-trivial ?Ҹ??ڰ? ?????? ?ƴմϴ?. ?? Ŭ?????? ?ν??Ͻ??? ??Ȯ?ϰ? ?Ҹ????? ???? ?? ?ֽ??ϴ?.
+  C:\Users\user\Desktop\ServerPrograming\Portfolio\3EJS\HelMaServer\LogicContent\ServerToClient.h(53): warning C5038: ?????? ???? 'ItemData::Count'??(??) ?????? ???? 'ItemData::Type' ???Ŀ? ?ʱ?ȭ?˴ϴ?.
+  C:\Users\user\Desktop\ServerPrograming\Portfolio\3EJS\HelMaServer\LogicContent\ServerToClient.h(53): warning C5038: ?????? ???? 'ItemData::InvenOrder'??(??) ?????? ???? 'ItemData::Name' ???Ŀ? ?ʱ?ȭ?˴ϴ?.
+  C:\Users\user\Desktop\ServerPrograming\Portfolio\3EJS\HelMaServer\LogicContent\ServerToClient.h(634): warning C4265: 'ItemUpdateData': Ŭ?????? ???? ?Լ??? ?????? non-trivial ?Ҹ??ڰ? ?????? ?ƴմϴ?. ?? Ŭ?????? ?ν??Ͻ??? ??Ȯ?ϰ? ?Ҹ????? ???? ?? ?ֽ??ϴ?.
+  C:\Users\user\Desktop\ServerPrograming\Portfolio\3EJS\HelMaServer\LogicContent\PacketUpdater.h(39): warning C5038: ?????? ???? 'PacketUpdater::Ser'??(??) ?????? ???? 'PacketUpdater::m_UpdateSize' ???Ŀ? ?ʱ?ȭ?˴ϴ?.
+  @progress 'Compiling C++ source code...' 97%
+  [56/58] UE4Editor-UEHelMa.lib
+     C:\Users\user\Desktop\ServerPrograming\Portfolio\3EJS\HelMaClient\Intermediate\Build\Win64\UE4Editor\Development\UEHelMa\UE4Editor-UEHelMa.lib ???̺귯?? ?? C:\Users\user\Desktop\ServerPrograming\Portfolio\3EJS\HelMaClient\Intermediate\Build\Win64\UE4Editor\Development\UEHelMa\UE4Editor-UEHelMa.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+  @progress 'Compiling C++ source code...' 98%
+  [57/58] UE4Editor-UEHelMa.dll
+  GameEngineBase.lib(GameEngineSerializer.obj) : /GL?? ???????? MSIL .netmodule ?Ǵ? ?????? ?ֽ??ϴ?. /LTCG?? ?????Ͽ? ??ũ?? ?ٽ? ?????Ͻʽÿ?. /LTCG?? ??ũ ?????ٿ? ?߰??ϸ? ??Ŀ ?????? ?????˴ϴ?.
+     C:\Users\user\Desktop\ServerPrograming\Portfolio\3EJS\HelMaClient\Intermediate\Build\Win64\UE4Editor\Development\UEHelMa\UE4Editor-UEHelMa.suppressed.lib ???̺귯?? ?? C:\Users\user\Desktop\ServerPrograming\Portfolio\3EJS\HelMaClient\Intermediate\Build\Win64\UE4Editor\Development\UEHelMa\UE4Editor-UEHelMa.suppressed.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+  ?ڵ带 ?????ϰ? ?ֽ??ϴ?.
+  ?ڵ带 ?????߽??ϴ?.
+  @progress 'Compiling C++ source code...' 100%
+  [58/58] UEHelMaEditor.target
+Total time in Parallel executor: 65.38 seconds
+Total execution time: 72.18 seconds
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: AMD Ryzen 9 4900H with Radeon Graphics         , GPU: AMD Radeon(TM) Graphics
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/user/Desktop/ServerPrograming/Portfolio/3EJS/HelMaClient/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.11.10-10.45.55:120][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.11.10-10.45.55:120][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.11.10-10.45.55:120][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/user/Desktop/ServerPrograming/Portfolio/3EJS/HelMaClient/Saved/Config/Windows/Engine.ini]
+[2021.11.10-10.45.55:120][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.11.10-10.45.55:120][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/user/Desktop/ServerPrograming/Portfolio/3EJS/HelMaClient/Saved/Config/Windows/Engine.ini]
+[2021.11.10-10.45.55:120][  0]LogConfig: Setting CVar [[r.SupportAllShaderPermutations:0]]
+[2021.11.10-10.45.55:120][  0]LogConfig: Setting CVar [[r.SkinCache.ForceRecomputeTangents:0]]
+[2021.11.10-10.45.55:120][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/user/Desktop/ServerPrograming/Portfolio/3EJS/HelMaClient/Saved/Config/Windows/Engine.ini]
+[2021.11.10-10.45.55:120][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.11.10-10.45.55:120][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.11.10-10.45.55:120][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.11.10-10.45.55:120][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.11.10-10.45.55:120][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.11.10-10.45.55:120][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.11.10-10.45.55:120][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.11.10-10.45.55:120][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.11.10-10.45.55:120][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.11.10-10.45.55:120][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.11.10-10.45.55:120][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.11.10-10.45.55:120][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.11.10-10.45.55:120][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.11.10-10.45.55:120][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.11.10-10.45.55:120][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/user/Desktop/ServerPrograming/Portfolio/3EJS/HelMaClient/Saved/Config/Windows/Engine.ini]
+[2021.11.10-10.45.55:120][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.11.10-10.45.55:120][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.11.10-10.45.55:120][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.11.10-10.45.55:120][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.11.10-10.45.55:120][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.11.10-10.45.55:120][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.11.10-10.45.55:120][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.11.10-10.45.55:120][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.11.10-10.45.55:120][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.11.10-10.45.55:120][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.11.10-10.45.55:120][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.11.10-10.45.55:120][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.11.10-10.45.55:120][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.11.10-10.45.55:120][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.11.10-10.45.55:120][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/user/Desktop/ServerPrograming/Portfolio/3EJS/HelMaClient/Saved/Config/Windows/Engine.ini]
+[2021.11.10-10.45.55:120][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/user/Desktop/ServerPrograming/Portfolio/3EJS/HelMaClient/Saved/Config/Windows/Engine.ini]
+[2021.11.10-10.45.55:131][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/user/Desktop/ServerPrograming/Portfolio/3EJS/HelMaClient/Saved/Config/Windows/Scalability.ini]
+[2021.11.10-10.45.55:131][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.11.10-10.45.55:131][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.11.10-10.45.55:131][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/user/Desktop/ServerPrograming/Portfolio/3EJS/HelMaClient/Saved/Config/Windows/Scalability.ini]
+[2021.11.10-10.45.55:131][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.11.10-10.45.55:131][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/user/Desktop/ServerPrograming/Portfolio/3EJS/HelMaClient/Saved/Config/Windows/Scalability.ini]
+[2021.11.10-10.45.55:131][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.11.10-10.45.55:131][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.11.10-10.45.55:131][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.11.10-10.45.55:131][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.11.10-10.45.55:131][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.11.10-10.45.55:131][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.11.10-10.45.55:132][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.11.10-10.45.55:132][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.11.10-10.45.55:132][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.11.10-10.45.55:132][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.11.10-10.45.55:132][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.11.10-10.45.55:132][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.11.10-10.45.55:132][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.11.10-10.45.55:132][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.11.10-10.45.55:132][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.11.10-10.45.55:132][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.11.10-10.45.55:132][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.11.10-10.45.55:132][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.11.10-10.45.55:132][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/user/Desktop/ServerPrograming/Portfolio/3EJS/HelMaClient/Saved/Config/Windows/Scalability.ini]
+[2021.11.10-10.45.55:132][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.11.10-10.45.55:132][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.11.10-10.45.55:132][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.11.10-10.45.55:132][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.11.10-10.45.55:132][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.11.10-10.45.55:132][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.11.10-10.45.55:132][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.11.10-10.45.55:132][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.11.10-10.45.55:132][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.11.10-10.45.55:132][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.11.10-10.45.55:132][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.11.10-10.45.55:132][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.11.10-10.45.55:132][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.11.10-10.45.55:132][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.11.10-10.45.55:132][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.11.10-10.45.55:132][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.11.10-10.45.55:132][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.11.10-10.45.55:132][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.11.10-10.45.55:132][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.11.10-10.45.55:132][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.11.10-10.45.55:132][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.11.10-10.45.55:132][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.11.10-10.45.55:132][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.11.10-10.45.55:132][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.11.10-10.45.55:132][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.11.10-10.45.55:132][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.11.10-10.45.55:132][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.11.10-10.45.55:132][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.11.10-10.45.55:132][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.11.10-10.45.55:132][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.11.10-10.45.55:132][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/user/Desktop/ServerPrograming/Portfolio/3EJS/HelMaClient/Saved/Config/Windows/Scalability.ini]
+[2021.11.10-10.45.55:132][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.11.10-10.45.55:132][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.11.10-10.45.55:132][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.11.10-10.45.55:132][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.11.10-10.45.55:132][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.11.10-10.45.55:132][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.11.10-10.45.55:132][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.11.10-10.45.55:132][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.11.10-10.45.55:132][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.11.10-10.45.55:132][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/user/Desktop/ServerPrograming/Portfolio/3EJS/HelMaClient/Saved/Config/Windows/Scalability.ini]
+[2021.11.10-10.45.55:132][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.11.10-10.45.55:132][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.11.10-10.45.55:132][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.11.10-10.45.55:132][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.11.10-10.45.55:132][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.11.10-10.45.55:132][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.11.10-10.45.55:132][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.11.10-10.45.55:132][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.11.10-10.45.55:132][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.11.10-10.45.55:132][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.11.10-10.45.55:132][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.11.10-10.45.55:132][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.11.10-10.45.55:132][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.11.10-10.45.55:132][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.11.10-10.45.55:132][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.11.10-10.45.55:132][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.11.10-10.45.55:132][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.11.10-10.45.55:132][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.11.10-10.45.55:132][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.11.10-10.45.55:132][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.11.10-10.45.55:132][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.11.10-10.45.55:132][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.11.10-10.45.55:132][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.11.10-10.45.55:132][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.11.10-10.45.55:132][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.11.10-10.45.55:132][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.11.10-10.45.55:132][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.11.10-10.45.55:132][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/user/Desktop/ServerPrograming/Portfolio/3EJS/HelMaClient/Saved/Config/Windows/Scalability.ini]
+[2021.11.10-10.45.55:132][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.11.10-10.45.55:133][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.11.10-10.45.55:133][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/user/Desktop/ServerPrograming/Portfolio/3EJS/HelMaClient/Saved/Config/Windows/Scalability.ini]
+[2021.11.10-10.45.55:133][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.11.10-10.45.55:133][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.11.10-10.45.55:133][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.11.10-10.45.55:133][  0]LogInit: Selected Device Profile: [Windows]
+[2021.11.10-10.45.55:133][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.11.10-10.45.55:133][  0]LogHAL: Display: Platform has ~ 32 GB [33736564736 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.11.10-10.45.55:133][  0]LogInit: Going up to parent DeviceProfile []
+[2021.11.10-10.45.55:133][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/user/Desktop/ServerPrograming/Portfolio/3EJS/HelMaClient/Saved/Config/Windows/Scalability.ini]
+[2021.11.10-10.45.55:133][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.11.10-10.45.55:133][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.11.10-10.45.55:133][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/user/Desktop/ServerPrograming/Portfolio/3EJS/HelMaClient/Saved/Config/Windows/Scalability.ini]
+[2021.11.10-10.45.55:133][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.11.10-10.45.55:133][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/user/Desktop/ServerPrograming/Portfolio/3EJS/HelMaClient/Saved/Config/Windows/Scalability.ini]
+[2021.11.10-10.45.55:133][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.11.10-10.45.55:133][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.11.10-10.45.55:133][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.11.10-10.45.55:133][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.11.10-10.45.55:133][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.11.10-10.45.55:133][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.11.10-10.45.55:133][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.11.10-10.45.55:133][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.11.10-10.45.55:133][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.11.10-10.45.55:133][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.11.10-10.45.55:133][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.11.10-10.45.55:133][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.11.10-10.45.55:133][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.11.10-10.45.55:133][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.11.10-10.45.55:133][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.11.10-10.45.55:133][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.11.10-10.45.55:133][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.11.10-10.45.55:133][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.11.10-10.45.55:133][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/user/Desktop/ServerPrograming/Portfolio/3EJS/HelMaClient/Saved/Config/Windows/Scalability.ini]
+[2021.11.10-10.45.55:133][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.11.10-10.45.55:133][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.11.10-10.45.55:133][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.11.10-10.45.55:133][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.11.10-10.45.55:133][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.11.10-10.45.55:133][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.11.10-10.45.55:133][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.11.10-10.45.55:133][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.11.10-10.45.55:133][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.11.10-10.45.55:133][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.11.10-10.45.55:133][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.11.10-10.45.55:133][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.11.10-10.45.55:133][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.11.10-10.45.55:133][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.11.10-10.45.55:133][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.11.10-10.45.55:133][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.11.10-10.45.55:133][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.11.10-10.45.55:133][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.11.10-10.45.55:133][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.11.10-10.45.55:133][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.11.10-10.45.55:133][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.11.10-10.45.55:133][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.11.10-10.45.55:133][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.11.10-10.45.55:133][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.11.10-10.45.55:133][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.11.10-10.45.55:133][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.11.10-10.45.55:133][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.11.10-10.45.55:133][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.11.10-10.45.55:133][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.11.10-10.45.55:133][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.11.10-10.45.55:133][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/user/Desktop/ServerPrograming/Portfolio/3EJS/HelMaClient/Saved/Config/Windows/Scalability.ini]
+[2021.11.10-10.45.55:133][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.11.10-10.45.55:133][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.11.10-10.45.55:133][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.11.10-10.45.55:133][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.11.10-10.45.55:133][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.11.10-10.45.55:133][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.11.10-10.45.55:133][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.11.10-10.45.55:133][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.11.10-10.45.55:133][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.11.10-10.45.55:133][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/user/Desktop/ServerPrograming/Portfolio/3EJS/HelMaClient/Saved/Config/Windows/Scalability.ini]
+[2021.11.10-10.45.55:133][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.11.10-10.45.55:133][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.11.10-10.45.55:133][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.11.10-10.45.55:133][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.11.10-10.45.55:133][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.11.10-10.45.55:133][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.11.10-10.45.55:133][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.11.10-10.45.55:133][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.11.10-10.45.55:133][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.11.10-10.45.55:133][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.11.10-10.45.55:133][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.11.10-10.45.55:133][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.11.10-10.45.55:133][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.11.10-10.45.55:133][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.11.10-10.45.55:133][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.11.10-10.45.55:134][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.11.10-10.45.55:134][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.11.10-10.45.55:134][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.11.10-10.45.55:134][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.11.10-10.45.55:134][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.11.10-10.45.55:134][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.11.10-10.45.55:134][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.11.10-10.45.55:134][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.11.10-10.45.55:134][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.11.10-10.45.55:134][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.11.10-10.45.55:134][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.11.10-10.45.55:134][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.11.10-10.45.55:134][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/user/Desktop/ServerPrograming/Portfolio/3EJS/HelMaClient/Saved/Config/Windows/Scalability.ini]
+[2021.11.10-10.45.55:134][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.11.10-10.45.55:134][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.11.10-10.45.55:134][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/user/Desktop/ServerPrograming/Portfolio/3EJS/HelMaClient/Saved/Config/Windows/Scalability.ini]
+[2021.11.10-10.45.55:134][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.11.10-10.45.55:134][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.11.10-10.45.55:134][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.11.10-10.45.55:134][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.11.10-10.45.55:136][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.11.10-10.45.55:136][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.11.10-10.45.55:136][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.11.10-10.45.55:136][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/user/Desktop/ServerPrograming/Portfolio/3EJS/HelMaClient/Saved/Config/Windows/Engine.ini]
+[2021.11.10-10.45.55:136][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/user/Desktop/ServerPrograming/Portfolio/3EJS/HelMaClient/Saved/Config/Windows/Editor.ini]
+[2021.11.10-10.45.55:136][  0]LogInit: Computer: DESKTOP-728A1T6
+[2021.11.10-10.45.55:136][  0]LogInit: User: user
+[2021.11.10-10.45.55:136][  0]LogInit: CPU Page size=4096, Cores=8
+[2021.11.10-10.45.55:136][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.11.10-10.45.55:136][  0]LogMemory: Memory total: Physical=31.4GB (32GB approx)
+[2021.11.10-10.45.55:136][  0]LogMemory: Platform Memory Stats for Windows
+[2021.11.10-10.45.55:136][  0]LogMemory: Process Physical Memory: 150.27 MB used, 150.27 MB peak
+[2021.11.10-10.45.55:136][  0]LogMemory: Process Virtual Memory: 122.89 MB used, 122.89 MB peak
+[2021.11.10-10.45.55:136][  0]LogMemory: Physical Memory: 14728.92 MB used,  17444.78 MB free, 32173.70 MB total
+[2021.11.10-10.45.55:136][  0]LogMemory: Virtual Memory: 134199520.00 MB used,  18210.68 MB free, 134217728.00 MB total
+[2021.11.10-10.45.55:146][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.11.10-10.45.55:246][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.11.10-10.45.55:248][  0]LogInit: Using OS detected language (ko-KR).
+[2021.11.10-10.45.55:248][  0]LogInit: Using OS detected locale (ko-KR).
+[2021.11.10-10.45.55:281][  0]LogTextLocalizationManager: No specific localization for 'ko-KR' exists, so the 'ko' localization will be used.
+[2021.11.10-10.45.55:419][  0]LogInit: Setting process to per monitor DPI aware
+[2021.11.10-10.45.55:454][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.11.10-10.45.55:483][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.11.10-10.45.55:483][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.11.10-10.45.57:204][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.11.10-10.45.57:204][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.11.10-10.45.57:204][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.11.10-10.45.57:204][  0]LogD3D11RHI: D3D11 adapters:
+[2021.11.10-10.45.57:324][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2060' (Feature Level 11_0)
+[2021.11.10-10.45.57:324][  0]LogD3D11RHI:       5980/0/16086 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2021.11.10-10.45.57:376][  0]LogD3D11RHI:    1. 'AMD Radeon(TM) Graphics' (Feature Level 11_0)
+[2021.11.10-10.45.57:376][  0]LogD3D11RHI:       496/0/16086 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1002
+[2021.11.10-10.45.57:379][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.11.10-10.45.57:379][  0]LogD3D11RHI:       0/0/16086 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.11.10-10.45.57:379][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.11.10-10.45.57:394][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.11.10-10.45.57:394][  0]LogD3D11RHI:     GPU DeviceId: 0x1f15 (for the marketing name, search the web for "GPU Device Id")
+[2021.11.10-10.45.57:394][  0]LogWindows: EnumDisplayDevices:
+[2021.11.10-10.45.57:395][  0]LogWindows:    0. 'AMD Radeon(TM) Graphics' (P:1 D:1)
+[2021.11.10-10.45.57:395][  0]LogWindows:    1. 'AMD Radeon(TM) Graphics' (P:0 D:0)
+[2021.11.10-10.45.57:396][  0]LogWindows:    2. 'AMD Radeon(TM) Graphics' (P:0 D:0)
+[2021.11.10-10.45.57:396][  0]LogWindows:    3. 'AMD Radeon(TM) Graphics' (P:0 D:0)
+[2021.11.10-10.45.57:397][  0]LogWindows:    4. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2021.11.10-10.45.57:397][  0]LogWindows:    5. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2021.11.10-10.45.57:397][  0]LogWindows:    6. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2021.11.10-10.45.57:397][  0]LogWindows:    7. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2021.11.10-10.45.57:397][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2021.11.10-10.45.57:397][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2060
+[2021.11.10-10.45.57:397][  0]LogD3D11RHI:   Driver Version: 466.27 (internal:27.21.14.6627, unified:466.27)
+[2021.11.10-10.45.57:397][  0]LogD3D11RHI:      Driver Date: 4-23-2021
+[2021.11.10-10.45.57:398][  0]LogRHI: Texture pool is 4186 MB (70% of 5980 MB)
+[2021.11.10-10.45.57:479][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.11.10-10.45.57:479][  0]LogD3D11RHI: Async texture creation enabled
+[2021.11.10-10.45.57:479][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.11.10-10.45.57:513][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2021.11.10-10.45.57:516][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.11.10-10.45.57:923][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.11.10-10.45.57:967][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.11.10-10.45.57:967][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.11.10-10.45.57:967][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.11.10-10.45.57:967][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.11.10-10.45.57:967][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.11.10-10.45.57:967][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.11.10-10.45.57:967][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.11.10-10.45.57:967][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.11.10-10.45.57:967][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.11.10-10.45.57:967][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.11.10-10.45.58:006][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.11.10-10.45.58:006][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.11.10-10.45.58:026][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.11.10-10.45.58:041][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.11.10-10.45.58:053][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.11.10-10.45.58:067][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.11.10-10.45.58:079][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.11.10-10.45.58:092][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.11.10-10.45.58:104][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.11.10-10.45.58:142][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.11.10-10.45.58:142][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.11.10-10.45.58:157][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.11.10-10.45.58:174][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.11.10-10.45.58:187][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.11.10-10.45.58:201][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.11.10-10.45.58:223][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.11.10-10.45.58:223][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.11.10-10.45.58:237][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.11.10-10.45.58:256][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.11.10-10.45.58:269][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.11.10-10.45.58:281][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.11.10-10.45.58:281][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.11.10-10.45.58:302][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.11.10-10.45.58:443][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.11.10-10.45.58:443][  0]LogShaderCompilers: Guid format shader working directory is -36 characters bigger than the processId version (../../../../../../Users/user/Desktop/ServerPrograming/Portfolio/3EJS/HelMaClient/Intermediate/Shaders/WorkingDirectory/32464/).
+[2021.11.10-10.45.58:444][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/user/AppData/Local/Temp/UnrealShaderWorkingDir/3A9F054541F5386901D1AEB7596DF113/'.
+[2021.11.10-10.45.58:444][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.11.10-10.45.58:444][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.11.10-10.46.00:768][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.11.10-10.46.00:821][  0]LogDerivedDataCache: Loaded boot cache 0.05s 79MB C:/Users/user/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.11.10-10.46.00:821][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/user/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.11.10-10.46.00:821][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/user/Desktop/ServerPrograming/Portfolio/3EJS/HelMaClient/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.11.10-10.46.00:821][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.11.10-10.46.00:821][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/user/Desktop/ServerPrograming/Portfolio/3EJS/HelMaClient/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.11.10-10.46.00:821][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.11.10-10.46.00:836][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.11.10-10.46.00:837][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.11.10-10.46.00:837][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.11.10-10.46.00:865][  0]LogDerivedDataCache: Speed tests for C:/Users/user/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.03 seconds
+[2021.11.10-10.46.00:865][  0]LogDerivedDataCache: Display: Performance to C:/Users/user/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.18ms. RandomReadSpeed=73.46MBs, RandomWriteSpeed=71.26MBs. Assigned SpeedClass 'Local'
+[2021.11.10-10.46.00:865][  0]LogDerivedDataCache: Using Local data cache path C:/Users/user/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.11.10-10.46.00:865][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.11.10-10.46.00:866][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.11.10-10.46.00:910][  0]LogSlate: Using FreeType 2.10.0
+[2021.11.10-10.46.00:914][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.11.10-10.46.00:973][  0]LogAssetRegistry: FAssetRegistry took 0.0040 seconds to start up
+[2021.11.10-10.46.01:373][  0]LogInit: Selected Device Profile: [Windows]
+[2021.11.10-10.46.01:373][  0]LogInit: Active device profile: [000001EBC2E4DD00][000001EBB7257780 49] Windows
+[2021.11.10-10.46.01:373][  0]LogInit: Profiles: [000001EBC2E4DD00][000001EBB7257780 49] Windows, [000001EBC2E3A900][000001EBB725B8C0 49] WindowsNoEditor, [000001EBC2E4CD00][000001EBB4077A00 49] WindowsServer, [000001EBC2E3B500][000001EBB407FB80 49] WindowsClient, [000001EBC2E4EA00][000001EBC3151D00 49] IOS, [000001EBC2E3A200][000001EBC31541C0 49] iPadAir, [000001EBC2E4ED00][000001EBC3158340 49] iPadAir2, [000001EBC2D63000][000001EBC3160600 49] IPadPro, [000001EBC2D63100][000001EBC315C640 49] iPadAir3, [000001EBC2E4D500][000001EBC31647C0 49] iPadAir4, [000001EBC2D62800][000001EBC3168940 49] iPadMini2, [000001EBC2E4F200][000001EBC316CAC0 49] iPadMini3, [000001EBC2D61600][000001EBC3170C40 49] iPadMini4, [000001EBC2E4D200][000001EBC3174DC0 49] iPadMini5, [000001EBC2D9A900][000001EBC317D080 49] iPhone6, [000001EBC2D9AA00][000001EBC31790C0 49] iPodTouch6, [000001EBC2D63600][000001EBC3185380 49] iPhone7, [000001EBC2D63700][000001EBC31813C0 49] iPodTouch7, [000001EBC2D9A700][000001EBC3189540 49] iPhone5S, [000001EBC2D60100][000001EBB407B680 49] iPhone6Plus, [000001EBC2D99400][000001EBC318D7C0 49] iPhone6S, [000001EBC2D60700][000001EBC3191900 49] iPhone6SPlus, [000001EBC2D98200][000001EBC31C1A40 49] iPhone7Plus, [000001EBC2D62600][000001EBC31C9BC0 49] iPhoneSE, [000001EBC2D9B000][000001EBC31CDD40 49] iPhone8, [000001EBC2D63F00][000001EBC31D0200 49] iPhone8Plus, [000001EBC2D99C00][000001EBC31D4380 49] iPhoneX, [000001EBC2D62200][000001EBC31D8500 49] iPhoneXS, [000001EBC2D98300][000001EBC31DC680 49] iPhoneXSMax, [000001EBC2D63C00][000001EBC31E0800 49] iPhoneXR, [000001EBC2D9BE00][000001EBC31E4980 49] iPhone11, [000001EBC2D62000][000001EBC31E8B00 49] iPhone11Pro, [000001EBC2D9B500][000001EBC31ECC80 49] iPhone11ProMax, [000001EBC2D62C00][000001EBC3230E00 49] iPhoneSE2, [000001EBC2D9AC00][000001EBC3234F80 49] iPhone12Mini, [000001EBC2D60B00][000001EBC3239100 49] iPhone12, [000001EBC2D9A200][000001EBC323D280 49] iPhone12Pro, [000001EBC2D63400][000001EBC3241400 49] iPhone12ProMax, [000001EBC2D62F00][000001EBC3245580 49] iPadPro105, [000001EBC2E39B00][000001EBC3249700 49] iPadPro129, [000001EBC2D61000][000001EBC31C5840 49] iPadPro97, [000001EBC2E3BE00][000001EBC324D980 49] iPadPro2_129, [000001EBC2D63900][000001EBC3251AC0 49] iPad5, [000001EBC2E3A300][000001EBC3259C40 49] iPad6, [000001EBC2D62E00][000001EBC325C100 49] iPad7, [000001EBC2E3AA00][000001EBC3260280 49] iPad8, [000001EBC2E38C00][000001EBC3264400 49] iPadPro11, [000001EBC2D9BD00][000001EBC3268580 49] iPadPro2_11, [000001EBC2E39100][000001EBC326C700 49] iPadPro3_129, [000001EBC2D98B00][000001EBC3270880 49] iPadPro4_129, [000001EBC2E3A700][000001EBC3274A00 49] AppleTV, [000001EBC2D99000][000001EBC3278B80 49] AppleTV4K, [000001EBC2E38600][000001EBC327CD00 49] TVOS, [000001EBC2D9BF00][000001EBC3280E80 49] Mac, [000001EBC2E38200][000001EBC3285000 49] MacClient, [000001EBC2D60800][000001EBC32ED180 49] MacNoEditor, [000001EBC2E3AE00][000001EBC32F1300 49] MacServer, [000001EBC2D60D00][000001EBC32F5480 49] Linux, [000001EBC2E39400][000001EBC32F9600 49] LinuxAArch64, [000001EBC2D60500][000001EBC32FD780 49] LinuxNoEditor, [000001EBC2E39C00][000001EBC32558C0 49] LinuxAArch64NoEditor, [000001EBC2D63D00][000001EBC3301A00 49] LinuxClient, [000001EBC2E38B00][000001EBC3305B40 49] LinuxAArch64Client, [000001EBC2D63B00][000001EBC330DCC0 49] LinuxServer, [000001EBC2E38800][000001EBC3310180 49] LinuxAArch64Server, [000001EBC2D63500][000001EBC3314300 49] Android, [000001EBC2E3AC00][000001EBC3318480 49] Android_Low, [000001EBC2D61400][000001EBC331C600 49] Android_Mid, [000001EBC2E3A000][000001EBC3320780 49] Android_High, [000001EBC2D61C00][000001EBC3324900 49] Android_Default, [000001EBC2E38500][000001EBC3328A80 49] Android_Adreno4xx, [000001EBC2D61200][000001EBC332CC00 49] Android_Adreno5xx_Low, [000001EBC2E38E00][000001EBC3330D80 49] Android_Adreno5xx, [000001EBC2D62700][000001EBC3334F00 49] Android_Adreno6xx, [000001EBC2E39300][000001EBC3339080 49] Android_Adreno6xx_Vulkan, [000001EBC2D60400][000001EBC333D200 49] Android_Mali_T6xx, [000001EBC2E38400][000001EBC3341380 49] Android_Mali_T7xx, [000001EBC2D61300][000001EBC3345500 49] Android_Mali_T8xx, [000001EBC2E39F00][000001EBC3349680 49] Android_Mali_G71, [000001EBC2D61900][000001EBC334D800 49] Android_Mali_G72, [000001EBC2E38100][000001EBC3309940 49] Android_Mali_G72_Vulkan, [000001EBC2D62400][000001EBC3351A80 49] Android_Mali_G76, [000001EBC2E39E00][000001EBC3355BC0 49] Android_Mali_G76_Vulkan, [000001EBC2D61A00][000001EBC3359D00 49] Android_Mali_G77, [000001EBC2E39800][000001EBC33601C0 49] Android_Mali_G77_Vulkan, [000001EBC2D61B00][000001EBC3364340 49] Android_Vulkan_SM5, [000001EBC2E3BA00][000001EBC33684C0 49] Android_PowerVR_G6xxx, [000001EBC2D62100][000001EBC33B8640 49] Android_PowerVR_GT7xxx, [000001EBC2E3BB00][000001EBC33BC7C0 49] Android_PowerVR_GE8xxx, [000001EBC2D62300][000001EBC33C0940 49] Android_PowerVR_GM9xxx, [000001EBC2E39000][000001EBC33C4AC0 49] Android_PowerVR_GM9xxx_Vulkan, [000001EBC2D60E00][000001EBC33C8C40 49] Android_TegraK1, [000001EBC2E3B100][000001EBC33CCDC0 49] Android_Unknown_Vulkan, [000001EBC2D98800][000001EBC33D0F40 49] Lumin, [000001EBC2E4C300][000001EBC33D50C0 49] Lumin_Desktop, [000001EBC2D9B300][000001EBC33D9240 49] HoloLens, 
+[2021.11.10-10.46.01:591][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.11.10-10.46.01:592][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.11.10-10.46.01:592][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.11.10-10.46.01:592][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.11.10-10.46.01:592][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.11.10-10.46.01:631][  0]LogNetVersion: UEHelMa 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 2450561976)
+[2021.11.10-10.46.02:667][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.11.10-10.46.02:763][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.094678 seconds
+[2021.11.10-10.46.02:772][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
+[2021.11.10-10.46.02:772][  0]LogUObjectAllocator: 4209728 out of 0 bytes used by permanent object pool.
+[2021.11.10-10.46.02:772][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.11.10-10.46.03:735][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.11.10-10.46.03:750][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.11.10-10.46.04:541][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2021.11.10-10.46.04:541][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2021.11.10-10.46.04:548][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2021.11.10-10.46.04:562][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2021.11.10-10.46.04:567][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2021.11.10-10.46.04:579][  0]LogUProjectInfo: Found projects:
+[2021.11.10-10.46.04:653][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.11.10-10.46.04:689][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.11.10-10.46.04:690][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.11.10-10.46.04:778][  0]LogCollectionManager: Loaded 0 collections in 0.001825 seconds
+[2021.11.10-10.46.04:813][  0]LogFileCache: Scanning file cache for directory 'C:/Users/user/Desktop/ServerPrograming/Portfolio/3EJS/HelMaClient/Saved/Collections/' took 0.00s
+[2021.11.10-10.46.04:813][  0]LogFileCache: Scanning file cache for directory 'C:/Users/user/Desktop/ServerPrograming/Portfolio/3EJS/HelMaClient/Content/Developers/user/Collections/' took 0.00s
+[2021.11.10-10.46.04:813][  0]LogFileCache: Scanning file cache for directory 'C:/Users/user/Desktop/ServerPrograming/Portfolio/3EJS/HelMaClient/Content/Collections/' took 0.00s
+[2021.11.10-10.46.04:813][  0]LogOcInput: OculusInput pre-init called
+[2021.11.10-10.46.04:833][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.11.10-10.46.04:833][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.11.10-10.46.04:903][  0]LogEngine: Initializing Engine...
+[2021.11.10-10.46.04:904][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.11.10-10.46.04:904][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.11.10-10.46.04:905][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.11.10-10.46.05:021][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.11.10-10.46.05:036][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.11.10-10.46.05:039][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.11.10-10.46.05:048][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.11.10-10.46.05:048][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.11.10-10.46.05:048][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.10-10.46.05:048][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.10-10.46.05:048][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.10-10.46.05:048][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.10-10.46.05:048][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.10-10.46.05:048][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.10-10.46.05:048][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.10-10.46.05:048][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.10-10.46.05:049][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.11.10-10.46.05:049][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.10-10.46.05:070][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.10-10.46.05:070][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.11.10-10.46.05:113][  0]LogAudioMixer: Display: Using Audio Device 헤드폰(Realtek(R) Audio)
+[2021.11.10-10.46.05:116][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.10-10.46.05:118][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.10-10.46.05:118][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.10-10.46.05:119][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.10-10.46.05:119][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.10-10.46.05:119][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.11.10-10.46.05:120][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.10-10.46.05:121][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.10-10.46.05:121][  0]LogInit: FAudioDevice initialized.
+[2021.11.10-10.46.05:121][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.11.10-10.46.05:121][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.11.10-10.46.05:178][  0]LogDerivedDataCache: Saved boot cache 0.06s 79MB C:/Users/user/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.11.10-10.46.05:179][  0]LogInit: Texture streaming: Enabled
+[2021.11.10-10.46.05:200][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2021.11.10-10.46.05:206][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.11.10-10.46.05:206][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.11.10-10.46.05:209][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.11.10-10.46.05:261][  0]LogInit: Transaction tracking system initialized
+[2021.11.10-10.46.05:307][  0]BlueprintLog: New page: 에디터 로드
+[2021.11.10-10.46.05:442][  0]LocalizationService: 현지화 서비스가 비활성화되었습니다.
+[2021.11.10-10.46.05:487][  0]TimingProfiler: Initialize
+[2021.11.10-10.46.05:487][  0]TimingProfiler: OnSessionChanged
+[2021.11.10-10.46.05:487][  0]LoadingProfiler: Initialize
+[2021.11.10-10.46.05:487][  0]LoadingProfiler: OnSessionChanged
+[2021.11.10-10.46.05:487][  0]NetworkingProfiler: Initialize
+[2021.11.10-10.46.05:487][  0]NetworkingProfiler: OnSessionChanged
+[2021.11.10-10.46.05:487][  0]MemoryProfiler: Initialize
+[2021.11.10-10.46.05:487][  0]MemoryProfiler: OnSessionChanged
+[2021.11.10-10.46.05:693][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.11.10-10.46.05:694][  0]LogCook: Display: Mobile HDR setting 1
+[2021.11.10-10.46.05:760][  0]LogFileCache: Scanning file cache for directory 'C:/Users/user/Desktop/ServerPrograming/Portfolio/3EJS/HelMaClient/Content/' took 0.05s
+[2021.11.10-10.46.06:147][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.11.10-10.46.06:152][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2021.11.10-10.46.06:152][  0]LogUnrealEdMisc: Loading editor; pre map load, took 87.838
+[2021.11.10-10.46.06:153][  0]Cmd: MAP LOAD FILE="../../../../../../Users/user/Desktop/ServerPrograming/Portfolio/3EJS/HelMaClient/Content/Level/Start.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.11.10-10.46.06:153][  0]LightingResults: New page: 라이팅 빌드
+[2021.11.10-10.46.06:155][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.11.10-10.46.06:155][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.10-10.46.06:156][  0]MapCheck: New page: 맵 체크
+[2021.11.10-10.46.06:156][  0]LightingResults: New page: 라이팅 빌드
+[2021.11.10-10.46.06:162][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2021.11.10-10.46.06:166][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Start'.
+[2021.11.10-10.46.06:167][  0]LogAIModule: Creating AISystem for world Start
+[2021.11.10-10.46.06:168][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.11.10-10.46.06:172][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2021.11.10-10.46.06:172][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.11.10-10.46.06:172][  0]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 0.269ms.
+[2021.11.10-10.46.06:172][  0]LogFileHelpers: Loading map 'Start' took 0.020
+[2021.11.10-10.46.06:178][  0]LogUnrealEdMisc: Total Editor Startup Time, took 87.863
+[2021.11.10-10.46.06:301][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.10-10.46.06:306][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.10-10.46.06:312][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.10-10.46.06:318][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.10-10.46.06:339][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0106 seconds. Added 3622 classes and 861 folders.
+[2021.11.10-10.46.06:344][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.11.10-10.46.06:349][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.11.10-10.46.06:349][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.10-10.46.06:349][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.11.10-10.46.06:349][  0]LogPakFile: OnPakFileMounted2Time == 0.000010
+[2021.11.10-10.46.06:353][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.11.10-10.46.06:353][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.10-10.46.06:353][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.11.10-10.46.06:353][  0]LogPakFile: OnPakFileMounted2Time == 0.000014
+[2021.11.10-10.46.06:355][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.11.10-10.46.06:355][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.10-10.46.06:355][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.11.10-10.46.06:355][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2021.11.10-10.46.06:357][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.11.10-10.46.06:357][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.10-10.46.06:357][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.11.10-10.46.06:357][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2021.11.10-10.46.06:360][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.11.10-10.46.06:360][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.10-10.46.06:360][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.11.10-10.46.06:360][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2021.11.10-10.46.06:363][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.11.10-10.46.06:363][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.10-10.46.06:363][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.11.10-10.46.06:363][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2021.11.10-10.46.06:365][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.11.10-10.46.06:365][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.10-10.46.06:365][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.11.10-10.46.06:365][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2021.11.10-10.46.06:367][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.11.10-10.46.06:367][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.10-10.46.06:367][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.11.10-10.46.06:367][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2021.11.10-10.46.06:369][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.11.10-10.46.06:369][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.10-10.46.06:369][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.11.10-10.46.06:369][  0]LogPakFile: OnPakFileMounted2Time == 0.000045
+[2021.11.10-10.46.06:372][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.11.10-10.46.06:372][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.10-10.46.06:372][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.11.10-10.46.06:372][  0]LogPakFile: OnPakFileMounted2Time == 0.000050
+[2021.11.10-10.46.06:375][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.11.10-10.46.06:375][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.10-10.46.06:375][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.11.10-10.46.06:375][  0]LogPakFile: OnPakFileMounted2Time == 0.000054
+[2021.11.10-10.46.06:377][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.11.10-10.46.06:379][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.10-10.46.06:379][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.11.10-10.46.06:379][  0]LogPakFile: OnPakFileMounted2Time == 0.000061
+[2021.11.10-10.46.06:382][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.11.10-10.46.06:382][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.10-10.46.06:382][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.11.10-10.46.06:382][  0]LogPakFile: OnPakFileMounted2Time == 0.000066
+[2021.11.10-10.46.06:385][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.11.10-10.46.06:386][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.10-10.46.06:386][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.11.10-10.46.06:386][  0]LogPakFile: OnPakFileMounted2Time == 0.000071
+[2021.11.10-10.46.06:388][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.11.10-10.46.06:388][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.10-10.46.06:388][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.11.10-10.46.06:388][  0]LogPakFile: OnPakFileMounted2Time == 0.000076
+[2021.11.10-10.46.06:392][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.11.10-10.46.06:392][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.10-10.46.06:392][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.11.10-10.46.06:392][  0]LogPakFile: OnPakFileMounted2Time == 0.000090
+[2021.11.10-10.46.06:395][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.11.10-10.46.06:395][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.10-10.46.06:395][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.11.10-10.46.06:395][  0]LogPakFile: OnPakFileMounted2Time == 0.000099
+[2021.11.10-10.46.06:400][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.11.10-10.46.06:400][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.10-10.46.06:400][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.11.10-10.46.06:400][  0]LogPakFile: OnPakFileMounted2Time == 0.000104
+[2021.11.10-10.46.06:402][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.11.10-10.46.06:402][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.10-10.46.06:402][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.11.10-10.46.06:402][  0]LogPakFile: OnPakFileMounted2Time == 0.000107
+[2021.11.10-10.46.06:405][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.11.10-10.46.06:405][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.10-10.46.06:405][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.11.10-10.46.06:405][  0]LogPakFile: OnPakFileMounted2Time == 0.000112
+[2021.11.10-10.46.06:407][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.11.10-10.46.06:407][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.10-10.46.06:407][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.11.10-10.46.06:407][  0]LogPakFile: OnPakFileMounted2Time == 0.000115
+[2021.11.10-10.46.06:410][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.11.10-10.46.06:410][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.10-10.46.06:410][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.11.10-10.46.06:410][  0]LogPakFile: OnPakFileMounted2Time == 0.000121
+[2021.11.10-10.46.06:413][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.11.10-10.46.06:413][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.10-10.46.06:413][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.11.10-10.46.06:413][  0]LogPakFile: OnPakFileMounted2Time == 0.000125
+[2021.11.10-10.46.06:415][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.11.10-10.46.06:415][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.10-10.46.06:415][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.11.10-10.46.06:415][  0]LogPakFile: OnPakFileMounted2Time == 0.000129
+[2021.11.10-10.46.06:418][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.11.10-10.46.06:418][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.10-10.46.06:418][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.11.10-10.46.06:418][  0]LogPakFile: OnPakFileMounted2Time == 0.000134
+[2021.11.10-10.46.06:420][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.11.10-10.46.06:421][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.10-10.46.06:421][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.11.10-10.46.06:421][  0]LogPakFile: OnPakFileMounted2Time == 0.000138
+[2021.11.10-10.46.06:555][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.11.10-10.46.06:570][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WorldBrowser' in 0.0003 seconds. Added 2 classes and 3 folders.
+[2021.11.10-10.46.06:574][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2021.11.10-10.46.06:689][  0]LogSlate: Took 0.002473 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.11.10-10.46.06:693][  0]LogSlate: Took 0.003395 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2021.11.10-10.46.06:697][  0]LogSlate: Took 0.002908 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicBold.ttf' (4188K)
+[2021.11.10-10.46.06:699][  0]LogSlate: Took 0.001884 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.11.10-10.46.06:703][  0]LogSlate: Took 0.001210 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.11.10-10.46.06:806][  0]LogRenderer: Reallocating scene render targets to support 1224x572 Format 10 NumSamples 1 (Frame:1).
+[2021.11.10-10.46.06:850][  0]LogSlate: Took 0.002400 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.11.10-10.46.06:958][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.11.10-10.46.06:958][  0]LogLoad: (Engine Initialization) Total time: 88.64 seconds
+[2021.11.10-10.46.06:958][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.11.10-10.46.06:958][  0]LogInit: First time updating LLM stats...
+[2021.11.10-10.46.07:034][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.11.10-10.46.07:076][  1]LogAssetRegistry: Asset discovery search completed in 6.1044 seconds
+[2021.11.10-10.46.07:077][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2021.11.10-10.46.22:862][836]LogSlate: Took 0.000272 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.11.10-10.46.22:946][836]LogSlate: Took 0.001460 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.11.10-10.46.45:286][151]Running C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -projectfiles -project="C:/Users/user/Desktop/ServerPrograming/Portfolio/3EJS/HelMaClient/UEHelMa.uproject" -game -rocket -progress
+[2021.11.10-10.46.45:705][151]Discovering modules, targets and source code for project...
+[2021.11.10-10.46.47:716][151]Binding IntelliSense data...
+[2021.11.10-10.46.50:244][151]Binding IntelliSense data... 100%
+[2021.11.10-10.46.50:244][151]Writing project files...
+[2021.11.10-10.46.54:976][151]Writing project files... 100%
+[2021.11.10-10.46.55:104][151]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2021.11.10-10.46.55:118][151]Candidate modules for hot reload:
+[2021.11.10-10.46.55:118][151]  UEHelMa
+[2021.11.10-10.46.55:118][151]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=UEHelMa,4084 UEHelMaEditor Win64 Development -Project="C:/Users/user/Desktop/ServerPrograming/Portfolio/3EJS/HelMaClient/UEHelMa.uproject" "C:/Users/user/Desktop/ServerPrograming/Portfolio/3EJS/HelMaClient/UEHelMa.uproject"  -IgnoreJunk]
+[2021.11.10-10.47.04:834][151]CompilerResultsLog: New page: 컴파일 - 2021. 11. 11. 오전 4:47:04
+[2021.11.10-10.47.04:834][151]CompilerResultsLog: Creating makefile for UEHelMaEditor (no existing makefile)
+[2021.11.10-10.47.04:834][151]CompilerResultsLog: Parsing headers for UEHelMaEditor
+[2021.11.10-10.47.04:834][151]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\user\Desktop\ServerPrograming\Portfolio\3EJS\HelMaClient\UEHelMa.uproject" "C:\Users\user\Desktop\ServerPrograming\Portfolio\3EJS\HelMaClient\Intermediate\Build\Win64\UEHelMaEditor\Development\UEHelMaEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\user\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2021.11.10-10.47.04:834][151]CompilerResultsLog: Reflection code generated for UEHelMaEditor in 4.1931742 seconds
+[2021.11.10-10.47.04:834][151]CompilerResultsLog: Building UEHelMaEditor...
+[2021.11.10-10.47.04:834][151]CompilerResultsLog: Using Visual Studio 2019 14.29.30038 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.11.10-10.47.04:834][151]CompilerResultsLog: Building 6 actions with 16 processes...
+[2021.11.10-10.47.04:834][151]CompilerResultsLog:   [1/6] ServerManagementCharacter.cpp
+[2021.11.10-10.47.04:834][151]CompilerResultsLog:   [2/6] UEHelMa.init.gen.cpp
+[2021.11.10-10.47.04:834][151]CompilerResultsLog:   [3/6] ServerManagementCharacter.gen.cpp
+[2021.11.10-10.47.04:834][151]CompilerResultsLog:   [4/6] UE4Editor-UEHelMa-4084.lib
+[2021.11.10-10.47.04:834][151]CompilerResultsLog:      C:\Users\user\Desktop\ServerPrograming\Portfolio\3EJS\HelMaClient\Intermediate\Build\Win64\UE4Editor\Development\UEHelMa\UE4Editor-UEHelMa-4084.lib ???̺귯?? ?? C:\Users\user\Desktop\ServerPrograming\Portfolio\3EJS\HelMaClient\Intermediate\Build\Win64\UE4Editor\Development\UEHelMa\UE4Editor-UEHelMa-4084.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2021.11.10-10.47.04:835][151]CompilerResultsLog:   [5/6] UE4Editor-UEHelMa-4084.dll
+[2021.11.10-10.47.04:835][151]CompilerResultsLog:   GameEngineBase.lib(GameEngineSerializer.obj) : /GL?? ???????? MSIL .netmodule ?Ǵ? ?????? ?ֽ??ϴ?. /LTCG?? ?????Ͽ? ??ũ?? ?ٽ? ?????Ͻʽÿ?. /LTCG?? ??ũ ?????ٿ? ?߰??ϸ? ??Ŀ ?????? ?????˴ϴ?.
+[2021.11.10-10.47.04:835][151]CompilerResultsLog:      C:\Users\user\Desktop\ServerPrograming\Portfolio\3EJS\HelMaClient\Intermediate\Build\Win64\UE4Editor\Development\UEHelMa\UE4Editor-UEHelMa-4084.suppressed.lib ???̺귯?? ?? C:\Users\user\Desktop\ServerPrograming\Portfolio\3EJS\HelMaClient\Intermediate\Build\Win64\UE4Editor\Development\UEHelMa\UE4Editor-UEHelMa-4084.suppressed.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2021.11.10-10.47.04:835][151]CompilerResultsLog:   ?ڵ带 ?????ϰ? ?ֽ??ϴ?.
+[2021.11.10-10.47.04:835][151]CompilerResultsLog:   ?ڵ带 ?????߽??ϴ?.
+[2021.11.10-10.47.04:835][151]CompilerResultsLog:   [6/6] UEHelMaEditor.target
+[2021.11.10-10.47.04:835][151]CompilerResultsLog: Total time in Parallel executor: 3.11 seconds
+[2021.11.10-10.47.04:835][151]CompilerResultsLog: Total execution time: 9.58 seconds
+[2021.11.10-10.47.04:835][151]LogMainFrame: MainFrame: Module compiling took 9.730 seconds
+[2021.11.10-10.47.04:871][151]LogClass: Could not find existing class ServerManagementCharacter in package /Script/UEHelMa for HotReload, assuming new class
+[2021.11.10-10.47.04:877][151]LogClass: EMonsterAnim HotReload.
+[2021.11.10-10.47.04:877][151]LogClass: EDirAnim HotReload.
+[2021.11.10-10.47.04:877][151]LogClass: ECharacterName HotReload.
+[2021.11.10-10.47.04:877][151]LogClass: EKallariAnim HotReload.
+[2021.11.10-10.47.04:877][151]LogClass: EPhaseAnim HotReload.
+[2021.11.10-10.47.04:877][151]LogClass: ESelectAnim HotReload.
+[2021.11.10-10.47.04:877][151]LogClass: EShinbiAnim HotReload.
+[2021.11.10-10.47.04:894][151]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'UEHelMa' in 0.0003 seconds. Added 22 classes and 2 folders.
+[2021.11.10-10.47.04:897][151]Display: HotReload successful (19 functions remapped  0 scriptstructs remapped)
+[2021.11.10-10.47.04:950][151]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0101 seconds. Added 3625 classes and 864 folders.
+[2021.11.10-10.47.04:950][151]Display: HotReload took  9.9s.
+[2021.11.10-10.47.04:959][151]Warning: HotReload operation took  9.9s.
+[2021.11.10-10.47.05:224][151]LogSlate: Window 'C++ 클래스 추가' being destroyed
+[2021.11.10-10.47.05:248][151]LogHotReload: New module detected: UE4Editor-UEHelMa-4084.dll
+[2021.11.10-10.47.05:315][152]LogHotReload: Starting Hot-Reload from IDE
+[2021.11.10-10.47.05:455][152]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'UEHelMa' in 0.0004 seconds. Added 22 classes and 2 folders.
+[2021.11.10-10.47.05:456][152]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2021.11.10-10.47.05:469][152]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0100 seconds. Added 3625 classes and 864 folders.
+[2021.11.10-10.47.05:475][152]Display: HotReload took  0.2s.
+[2021.11.10-10.49.28:007][853]LogHotReload: New module detected: UE4Editor-UEHelMa-0002.dll
+[2021.11.10-10.49.30:425][933]LogHotReload: Starting Hot-Reload from IDE
+[2021.11.10-10.49.30:486][933]LogClass: Could not find existing class ServerManagementCharacter in package /Script/UEHelMa for HotReload, assuming new class
+[2021.11.10-10.49.30:498][933]LogClass: EMonsterAnim HotReload.
+[2021.11.10-10.49.30:498][933]LogClass: EDirAnim HotReload.
+[2021.11.10-10.49.30:498][933]LogClass: ECharacterName HotReload.
+[2021.11.10-10.49.30:498][933]LogClass: EKallariAnim HotReload.
+[2021.11.10-10.49.30:498][933]LogClass: EPhaseAnim HotReload.
+[2021.11.10-10.49.30:498][933]LogClass: ESelectAnim HotReload.
+[2021.11.10-10.49.30:498][933]LogClass: EShinbiAnim HotReload.
+[2021.11.10-10.49.30:519][933]LogHotReload: Re-instancing ServerManagementCharacter after hot-reload.
+[2021.11.10-10.49.30:524][933]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'UEHelMa' in 0.0003 seconds. Added 22 classes and 2 folders.
+[2021.11.10-10.49.30:526][933]Display: HotReload successful (19 functions remapped  0 scriptstructs remapped)
+[2021.11.10-10.49.30:563][933]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0104 seconds. Added 3625 classes and 864 folders.
+[2021.11.10-10.49.30:572][933]Display: HotReload took  0.1s.
+[2021.11.10-10.49.56:476][469]LogTemp: Error: UnResManager::Release()
+[2021.11.10-10.49.56:476][469]UEHelMa: Warning: UEServerConnect::Close{227} : UnServerConnect::Close() 
+[2021.11.10-10.49.56:476][469]LogTemp: Error: UnResManager::Release()
+[2021.11.10-10.49.56:476][469]UEHelMa: Warning: UEServerConnect::Close{227} : UnServerConnect::Close() 
+[2021.11.10-10.49.56:476][469]LogTemp: Error: UnResManager::Release()
+[2021.11.10-10.49.56:476][469]UEHelMa: Warning: UEServerConnect::Close{227} : UnServerConnect::Close() 
+[2021.11.10-10.49.56:477][469]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2021.11.10-10.49.56:483][469]LogSavePackage: Moving '../../../../../../Users/user/Desktop/ServerPrograming/Portfolio/3EJS/HelMaClient/Saved/Start3F799EB741903670FC3120AAB8287D49.tmp' to '../../../../../../Users/user/Desktop/ServerPrograming/Portfolio/3EJS/HelMaClient/Content/Level/Start.umap'
+[2021.11.10-10.49.56:505][469]AssetCheck: New page: 애셋 저장: Start
+[2021.11.10-10.49.56:505][469]LogContentValidation: Display: World /Game/Level/Start.Start 유효성 검사
+[2021.11.10-10.50.01:907][773]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2021.11.10-10.50.13:345][450]Running C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -projectfiles -project="C:/Users/user/Desktop/ServerPrograming/Portfolio/3EJS/HelMaClient/UEHelMa.uproject" -game -rocket -progress
+[2021.11.10-10.50.13:766][450]Discovering modules, targets and source code for project...
+[2021.11.10-10.50.15:782][450]Binding IntelliSense data...
+[2021.11.10-10.50.18:310][450]Binding IntelliSense data... 100%
+[2021.11.10-10.50.18:310][450]Writing project files...
+[2021.11.10-10.50.23:344][450]Writing project files... 100%
+[2021.11.10-10.50.23:572][450]Candidate modules for hot reload:
+[2021.11.10-10.50.23:572][450]  UEHelMa
+[2021.11.10-10.50.23:572][450]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=UEHelMa,355 UEHelMaEditor Win64 Development -Project="C:/Users/user/Desktop/ServerPrograming/Portfolio/3EJS/HelMaClient/UEHelMa.uproject" "C:/Users/user/Desktop/ServerPrograming/Portfolio/3EJS/HelMaClient/UEHelMa.uproject"  -IgnoreJunk]
+[2021.11.10-10.50.43:403][450]CompilerResultsLog: New page: 컴파일 - 2021. 11. 11. 오전 4:50:43
+[2021.11.10-10.50.43:403][450]CompilerResultsLog: Creating makefile for UEHelMaEditor (no existing makefile)
+[2021.11.10-10.50.43:403][450]CompilerResultsLog: Parsing headers for UEHelMaEditor
+[2021.11.10-10.50.43:403][450]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\user\Desktop\ServerPrograming\Portfolio\3EJS\HelMaClient\UEHelMa.uproject" "C:\Users\user\Desktop\ServerPrograming\Portfolio\3EJS\HelMaClient\Intermediate\Build\Win64\UEHelMaEditor\Development\UEHelMaEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\user\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2021.11.10-10.50.43:403][450]CompilerResultsLog: Reflection code generated for UEHelMaEditor in 4.4181344 seconds
+[2021.11.10-10.50.43:403][450]CompilerResultsLog: Building UEHelMaEditor...
+[2021.11.10-10.50.43:403][450]CompilerResultsLog: Using Visual Studio 2019 14.29.30038 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.11.10-10.50.43:403][450]CompilerResultsLog: Building 5 actions with 16 processes...
+[2021.11.10-10.50.43:403][450]CompilerResultsLog:   [1/5] Module.UEHelMa.gen.cpp
+[2021.11.10-10.50.43:403][450]CompilerResultsLog:   C:\Users\user\Desktop\ServerPrograming\Portfolio\3EJS\HelMaServer\LogicContent\PacketType.h(268): warning C4265: 'ActorUpdateData': Ŭ?????? ???? ?Լ??? ?????? non-trivial ?Ҹ??ڰ? ?????? ?ƴմϴ?. ?? Ŭ?????? ?ν??Ͻ??? ??Ȯ?ϰ? ?Ҹ????? ???? ?? ?ֽ??ϴ?.
+[2021.11.10-10.50.43:403][450]CompilerResultsLog:   [2/5] Module.UEHelMa.cpp
+[2021.11.10-10.50.43:403][450]CompilerResultsLog:   C:\Users\user\Desktop\ServerPrograming\Portfolio\3EJS\HelMaServer\LogicContent\PacketType.h(268): warning C4265: 'ActorUpdateData': Ŭ?????? ???? ?Լ??? ?????? non-trivial ?Ҹ??ڰ? ?????? ?ƴմϴ?. ?? Ŭ?????? ?ν??Ͻ??? ??Ȯ?ϰ? ?Ҹ????? ???? ?? ?ֽ??ϴ?.
+[2021.11.10-10.50.43:403][450]CompilerResultsLog:   C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winnt.h(603): warning C4005: 'TEXT': ??ũ?? ??????
+[2021.11.10-10.50.43:403][450]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\HAL/Platform.h(1082): note: 'TEXT'?? ???? ???Ǹ? ?????Ͻʽÿ?.
+[2021.11.10-10.50.43:403][450]CompilerResultsLog:   C:\Users\user\Desktop\ServerPrograming\Portfolio\3EJS\HelMaServer\LogicContent\ServerToClient.h(41): warning C4265: 'RankData': Ŭ?????? ???? ?Լ??? ?????? non-trivial ?Ҹ??ڰ? ?????? ?ƴմϴ?. ?? Ŭ?????? ?ν??Ͻ??? ??Ȯ?ϰ? ?Ҹ????? ???? ?? ?ֽ??ϴ?.
+[2021.11.10-10.50.43:403][450]CompilerResultsLog:   C:\Users\user\Desktop\ServerPrograming\Portfolio\3EJS\HelMaServer\LogicContent\ServerToClient.h(89): warning C4265: 'ItemData': Ŭ?????? ???? ?Լ??? ?????? non-trivial ?Ҹ??ڰ? ?????? ?ƴմϴ?. ?? Ŭ?????? ?ν??Ͻ??? ??Ȯ?ϰ? ?Ҹ????? ???? ?? ?ֽ??ϴ?.
+[2021.11.10-10.50.43:403][450]CompilerResultsLog:   C:\Users\user\Desktop\ServerPrograming\Portfolio\3EJS\HelMaServer\LogicContent\ServerToClient.h(53): warning C5038: ?????? ???? 'ItemData::Count'??(??) ?????? ???? 'ItemData::Type' ???Ŀ? ?ʱ?ȭ?˴ϴ?.
+[2021.11.10-10.50.43:403][450]CompilerResultsLog:   C:\Users\user\Desktop\ServerPrograming\Portfolio\3EJS\HelMaServer\LogicContent\ServerToClient.h(53): warning C5038: ?????? ???? 'ItemData::InvenOrder'??(??) ?????? ???? 'ItemData::Name' ???Ŀ? ?ʱ?ȭ?˴ϴ?.
+[2021.11.10-10.50.43:404][450]CompilerResultsLog:   C:\Users\user\Desktop\ServerPrograming\Portfolio\3EJS\HelMaServer\LogicContent\ServerToClient.h(634): warning C4265: 'ItemUpdateData': Ŭ?????? ???? ?Լ??? ?????? non-trivial ?Ҹ??ڰ? ?????? ?ƴմϴ?. ?? Ŭ?????? ?ν??Ͻ??? ??Ȯ?ϰ? ?Ҹ????? ???? ?? ?ֽ??ϴ?.
+[2021.11.10-10.50.43:404][450]CompilerResultsLog:   C:\Users\user\Desktop\ServerPrograming\Portfolio\3EJS\HelMaServer\LogicContent\PacketUpdater.h(39): warning C5038: ?????? ???? 'PacketUpdater::Ser'??(??) ?????? ???? 'PacketUpdater::m_UpdateSize' ???Ŀ? ?ʱ?ȭ?˴ϴ?.
+[2021.11.10-10.50.43:404][450]CompilerResultsLog:   C:/Users/user/Desktop/ServerPrograming/Portfolio/3EJS/HelMaClient/Source/UEHelMa/UEServerConnect.cpp(101): warning C5038: ?????? ???? 'UEServerConnect::RecvThread'??(??) ?????? ???? 'UEServerConnect::IsServer' ???Ŀ? ?ʱ?ȭ?˴ϴ?.
+[2021.11.10-10.50.43:404][450]CompilerResultsLog:   C:\Users\user\Desktop\ServerPrograming\Portfolio\3EJS\HelMaServer\GameEngineBase\GameEngineFile.h(31): warning C5038: ?????? ???? 'GameEngineFile::m_File'??(??) ?????? ???? 'GameEngineFile::m_OpenMode' ???Ŀ? ?ʱ?ȭ?˴ϴ?.
+[2021.11.10-10.50.43:404][450]CompilerResultsLog:   C:\Users\user\Desktop\ServerPrograming\Portfolio\3EJS\HelMaServer\GameEngineBase\GameEngineFile.h(35): warning C5038: ?????? ???? 'GameEngineFile::m_File'??(??) ?????? ???? 'GameEngineFile::m_OpenMode' ???Ŀ? ?ʱ?ȭ?˴ϴ?.
+[2021.11.10-10.50.43:404][450]CompilerResultsLog:   [3/5] UE4Editor-UEHelMa-0355.lib
+[2021.11.10-10.50.43:404][450]CompilerResultsLog:      C:\Users\user\Desktop\ServerPrograming\Portfolio\3EJS\HelMaClient\Intermediate\Build\Win64\UE4Editor\Development\UEHelMa\UE4Editor-UEHelMa-0355.lib ???̺귯?? ?? C:\Users\user\Desktop\ServerPrograming\Portfolio\3EJS\HelMaClient\Intermediate\Build\Win64\UE4Editor\Development\UEHelMa\UE4Editor-UEHelMa-0355.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2021.11.10-10.50.43:404][450]CompilerResultsLog:   [4/5] UE4Editor-UEHelMa-0355.dll
+[2021.11.10-10.50.43:404][450]CompilerResultsLog:   GameEngineBase.lib(GameEngineDebug.obj) : /GL?? ???????? MSIL .netmodule ?Ǵ? ?????? ?ֽ??ϴ?. /LTCG?? ?????Ͽ? ??ũ?? ?ٽ? ?????Ͻʽÿ?. /LTCG?? ??ũ ?????ٿ? ?߰??ϸ? ??Ŀ ?????? ?????˴ϴ?.
+[2021.11.10-10.50.43:404][450]CompilerResultsLog:      C:\Users\user\Desktop\ServerPrograming\Portfolio\3EJS\HelMaClient\Intermediate\Build\Win64\UE4Editor\Development\UEHelMa\UE4Editor-UEHelMa-0355.suppressed.lib ???̺귯?? ?? C:\Users\user\Desktop\ServerPrograming\Portfolio\3EJS\HelMaClient\Intermediate\Build\Win64\UE4Editor\Development\UEHelMa\UE4Editor-UEHelMa-0355.suppressed.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2021.11.10-10.50.43:404][450]CompilerResultsLog:   ?ڵ带 ?????ϰ? ?ֽ??ϴ?.
+[2021.11.10-10.50.43:404][450]CompilerResultsLog:   ?ڵ带 ?????߽??ϴ?.
+[2021.11.10-10.50.43:404][450]CompilerResultsLog:   [5/5] UEHelMaEditor.target
+[2021.11.10-10.50.43:404][450]CompilerResultsLog: Total time in Parallel executor: 12.99 seconds
+[2021.11.10-10.50.43:404][450]CompilerResultsLog: Total execution time: 19.70 seconds
+[2021.11.10-10.50.43:404][450]LogMainFrame: MainFrame: Module compiling took 19.838 seconds
+[2021.11.10-10.50.43:422][450]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0154 seconds. Added 3625 classes and 864 folders.
+[2021.11.10-10.50.43:422][450]Display: HotReload took 19.9s.
+[2021.11.10-10.50.43:422][450]Warning: HotReload operation took 19.9s.
+[2021.11.10-10.50.43:717][450]LogVSAccessor: Warning: Couldn't goto line number '1' in 'C:/Users/user/Desktop/ServerPrograming/Portfolio/3EJS/HelMaClient/Source/UEHelMa/OtherPlayer.h'
+[2021.11.10-10.50.43:719][450]LogVSAccessor: Warning: Couldn't open file 'C:/Users/user/Desktop/ServerPrograming/Portfolio/3EJS/HelMaClient/Source/UEHelMa/OtherPlayer.cpp'.
+[2021.11.10-10.50.43:722][450]LogSlate: Window 'C++ 클래스 추가' being destroyed
+[2021.11.10-10.50.43:795][451]LogHotReload: New module detected: UE4Editor-UEHelMa-0355.dll
+[2021.11.10-10.50.43:855][452]LogHotReload: Starting Hot-Reload from IDE
+[2021.11.10-10.50.43:966][452]LogClass: Could not find existing class OtherPlayer in package /Script/UEHelMa for HotReload, assuming new class
+[2021.11.10-10.50.43:985][452]LogClass: EMonsterAnim HotReload.
+[2021.11.10-10.50.43:985][452]LogClass: EDirAnim HotReload.
+[2021.11.10-10.50.43:985][452]LogClass: ECharacterName HotReload.
+[2021.11.10-10.50.43:985][452]LogClass: EKallariAnim HotReload.
+[2021.11.10-10.50.43:985][452]LogClass: EPhaseAnim HotReload.
+[2021.11.10-10.50.43:985][452]LogClass: ESelectAnim HotReload.
+[2021.11.10-10.50.43:985][452]LogClass: EShinbiAnim HotReload.
+[2021.11.10-10.50.44:008][452]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'UEHelMa' in 0.0003 seconds. Added 23 classes and 2 folders.
+[2021.11.10-10.50.44:010][452]Display: HotReload successful (19 functions remapped  0 scriptstructs remapped)
+[2021.11.10-10.50.44:051][452]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0135 seconds. Added 3626 classes and 864 folders.
+[2021.11.10-10.50.44:058][452]Display: HotReload took  0.2s.
+[2021.11.10-10.56.36:901][443]LogHotReload: New module detected: UE4Editor-UEHelMa-0009.dll
+[2021.11.10-10.56.39:004][510]LogHotReload: Starting Hot-Reload from IDE
+[2021.11.10-10.56.39:072][510]LogClass: EMonsterAnim HotReload.
+[2021.11.10-10.56.39:072][510]LogClass: EDirAnim HotReload.
+[2021.11.10-10.56.39:072][510]LogClass: ECharacterName HotReload.
+[2021.11.10-10.56.39:072][510]LogClass: EKallariAnim HotReload.
+[2021.11.10-10.56.39:072][510]LogClass: EPhaseAnim HotReload.
+[2021.11.10-10.56.39:072][510]LogClass: ESelectAnim HotReload.
+[2021.11.10-10.56.39:072][510]LogClass: EShinbiAnim HotReload.
+[2021.11.10-10.56.39:094][510]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'UEHelMa' in 0.0003 seconds. Added 23 classes and 2 folders.
+[2021.11.10-10.56.39:096][510]Display: HotReload successful (19 functions remapped  0 scriptstructs remapped)
+[2021.11.10-10.56.39:131][510]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0108 seconds. Added 3626 classes and 864 folders.
+[2021.11.10-10.56.39:138][510]Display: HotReload took  0.1s.
